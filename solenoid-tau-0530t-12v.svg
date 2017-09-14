@@ -10,14 +10,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16.687759mm"
-   height="47.711468mm"
-   viewBox="0 0 16.687759 47.711468"
+   height="52.354885mm"
+   viewBox="0 0 16.687759 52.354885"
    version="1.1"
-   id="svg7149"
+   id="svg7215"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="solenoid-tau-0530t-12v.svg">
   <defs
-     id="defs7143" />
+     id="defs7209" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-111.32122"
-     inkscape:cy="-181.26518"
+     inkscape:cx="1951.5359"
+     inkscape:cy="-983.91877"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,7 +41,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata7146">
+     id="metadata7212">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -56,12 +56,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.78435562,-53.162123)">
+     transform="translate(546.58197,163.85006)">
     <g
-       id="g7929">
+       id="g8001">
+      <path
+         id="path25002-1"
+         d="m -533.96297,-119.25319 v 7.21623"
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#000080;stroke:#00009a;stroke-width:1.05687642;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         id="path25002-9-1"
+         d="m -542.38432,-119.24736 v 7.21622"
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#000080;stroke:#00009a;stroke-width:1.05687642;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
       <g
          style="display:inline;stroke-width:1.43906224"
-         transform="matrix(0,-0.33072917,-0.15970311,0,-0.13184408,163.67837)"
+         transform="matrix(0,-0.33072917,-0.15970311,0,-545.92946,-53.33381)"
          id="g26856">
         <polygon
            style="display:inline;fill:#d3d3d3;stroke-width:1.43906224"
@@ -95,7 +105,7 @@
       </g>
       <g
          style="display:inline;stroke-width:3.20384717"
-         transform="matrix(-0.28902848,-0.04230259,0.01383015,-0.03484475,17.792185,59.801015)"
+         transform="matrix(-0.28902848,-0.04230259,0.01383015,-0.03484475,-528.00543,-157.21117)"
          id="g25227-4-9-3-4">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:3.20384717"
@@ -129,7 +139,7 @@
       </g>
       <g
          style="display:inline;stroke-width:3.24991369"
-         transform="matrix(-0.32870775,-0.00133424,0.01187533,-0.03145766,18.563217,60.345035)"
+         transform="matrix(-0.32870775,-0.00133424,0.01187533,-0.03145766,-527.2344,-156.66715)"
          id="g25227-4-0-0-2-6">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:3.24991369"
@@ -163,7 +173,7 @@
       </g>
       <g
          style="display:inline;stroke-width:3.87025738"
-         transform="matrix(-0.23332926,-0.03590892,0.01116492,-0.02957826,15.842854,58.508952)"
+         transform="matrix(-0.23332926,-0.03590892,0.01116492,-0.02957826,-529.95476,-158.50323)"
          id="g25227-4-9-3">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:3.87025738"
@@ -197,7 +207,7 @@
       </g>
       <g
          style="display:inline;stroke-width:4.505826"
-         transform="matrix(-0.17214726,-0.03590892,0.00823733,-0.02957826,13.722205,56.85519)"
+         transform="matrix(-0.17214726,-0.03590892,0.00823733,-0.02957826,-532.07541,-160.15699)"
          id="g25227-4-9">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:4.505826"
@@ -231,154 +241,154 @@
       </g>
       <rect
          height="0.35269126"
-         y="100.23911"
-         x="5.913784"
+         y="-116.77307"
+         x="-539.88385"
          id="connector0pin"
          width="0.35229263"
          style="display:inline;fill:none;stroke-width:0.35277662" />
       <rect
          height="0.35269126"
-         y="100.23911"
-         x="8.4576883"
+         y="-116.77307"
+         x="-537.3399"
          id="connector1pin"
          width="0.35229263"
          style="display:inline;fill:none;stroke-width:0.35277662" />
       <polyline
-         transform="matrix(0.35277663,0,0,0.4789678,-0.78435618,48.18359)"
+         transform="matrix(0.35277663,0,0,0.4789678,-546.58198,-168.82859)"
          id="polyline25012"
          points="1.99726,39.4524,1.99726,102.28,45.3067,102.28,45.3067,39.4524"
          style="display:inline;fill:#726038;stroke-width:0.85821629" />
       <path
          id="path25014"
-         d="m -0.07977078,67.08002 v 28.734931 c 0,0.747004 0.44917317,1.357543 0.99839857,1.357543 H 14.20042 c 0.549225,0 0.998398,-0.610539 0.998398,-1.357543 l -3e-5,-28.734931"
+         d="m -545.87739,-149.93216 v 28.73493 c 0,0.747 0.44917,1.35754 0.9984,1.35754 h 13.28179 c 0.54923,0 0.9984,-0.61054 0.9984,-1.35754 l -3e-5,-28.73493"
          inkscape:connector-curvature="0"
          style="display:inline;fill:none;stroke:#e5c76c;stroke-width:1.40916967" />
       <polygon
-         transform="matrix(0.35277663,0,0,0.35277663,-0.78435561,53.162123)"
+         transform="matrix(0.35277663,0,0,0.35277663,-546.58197,-163.85006)"
          id="polygon25016"
          points="43.0678,43.4515 4.23618,43.4515 4.23618,39.4524 43.0678,39.4524 "
          style="display:inline;fill:#e5c76c" />
       <polygon
-         transform="matrix(0.35277663,0,0,0.35277663,-0.78435561,53.162123)"
+         transform="matrix(0.35277663,0,0,0.35277663,-546.58197,-163.85006)"
          id="polygon25018"
          points="36.9352,39.4524 10.3688,39.4524 10.3688,35.4534 36.9352,35.4534 "
          style="display:inline;fill:#d6b667" />
       <rect
          id="rect25020"
          height="27.306229"
-         y="68.532768"
-         x="3.1525164"
+         y="-148.47942"
+         x="-542.64508"
          width="8.7543936"
          style="display:inline;fill:#0066ff;stroke-width:0.35277662" />
       <rect
          id="rect25022"
          height="27.306223"
-         y="68.532768"
-         x="0.71006829"
+         y="-148.47942"
+         x="-545.08752"
          width="2.4424455"
          style="display:inline;opacity:1;fill:#0055d4;stroke-width:0.35277662" />
       <rect
          id="rect25024"
          height="27.306221"
-         y="68.532768"
-         x="11.906908"
+         y="-148.47942"
+         x="-533.89069"
          width="2.4981833"
          style="display:inline;opacity:1;fill:#5599ff;stroke-width:0.35277662" />
       <rect
          id="rect25026"
          height="0.56183559"
-         y="95.885513"
-         x="0.96372694"
+         y="-121.12667"
+         x="-544.83386"
          width="13.191589"
          style="display:inline;fill:#999999;stroke-width:0.35277662" />
       <rect
          id="rect25028"
          height="1.4107643"
-         y="65.66925"
-         x="2.8735142"
+         y="-151.34293"
+         x="-542.92413"
          width="1.7973969"
          style="display:inline;opacity:0.12000002;stroke-width:0.35277662" />
       <rect
          id="rect25030"
-         height="1.2774465"
-         y="65.722168"
-         x="10.545739"
+         height="1.2774466"
+         y="-151.29001"
+         x="-535.25189"
          width="1.637808"
          style="display:inline;opacity:0.35;fill:#ffffff;stroke-width:0.35277662" />
       <rect
          id="rect25032"
-         height="1.2774465"
-         y="65.722168"
-         x="8.9078989"
+         height="1.2774466"
+         y="-151.29001"
+         x="-536.88971"
          width="1.637808"
          style="display:inline;opacity:0.54000005;fill:#ffffff;stroke-width:0.35277662" />
       <polygon
-         transform="matrix(0.35277663,0,0,0.35277663,-0.78435561,53.162123)"
+         transform="matrix(0.35277663,0,0,0.35277663,-546.58197,-163.85006)"
          id="polygon25034"
          points="34.4387,35.4534 12.8653,35.4534 12.8653,31.4544 34.4387,31.4544 "
          style="display:inline;fill:#e2e2e2" />
       <polygon
-         transform="matrix(0.35277663,0,0,0.35277663,-0.78435561,53.162123)"
+         transform="matrix(0.35277663,0,0,0.35277663,-546.58197,-163.85006)"
          id="polygon25036"
          points="27.2545,31.4544 20.0495,31.4544 20.0495,0 27.2545,0 "
          style="display:inline;fill:#d3d3d3" />
       <rect
          id="rect25038"
          height="1.4111172"
-         y="64.257797"
-         x="3.7542238"
+         y="-152.75438"
+         x="-542.0434"
          width="1.4595463"
          style="display:inline;opacity:0.12000002;stroke-width:0.35277662" />
       <rect
          id="rect25040"
-         height="1.2774465"
-         y="64.311378"
-         x="9.9841614"
+         height="1.2774466"
+         y="-152.70081"
+         x="-535.81348"
          width="1.3299043"
          style="display:inline;opacity:0.35;fill:#ffffff;stroke-width:0.35277662" />
       <rect
          id="rect25042"
-         height="1.2774465"
-         y="64.311378"
-         x="8.6542606"
+         height="1.2774466"
+         y="-152.70081"
+         x="-537.14337"
          width="1.3299043"
          style="display:inline;opacity:0.54000005;fill:#ffffff;stroke-width:0.35277662" />
       <rect
          id="rect25044"
          height="11.088969"
-         y="53.168476"
-         x="6.3009534"
+         y="-163.8437"
+         x="-539.49664"
          width="0.46713978"
          style="display:inline;opacity:0.12000002;stroke-width:0.35277662" />
       <rect
          id="rect25046"
          height="10.891449"
-         y="53.275341"
-         x="8.1406145"
+         y="-163.73685"
+         x="-537.65698"
          width="0.58057868"
          style="display:inline;opacity:0.35;fill:#ffffff;stroke-width:0.35277662" />
       <rect
          id="rect25048"
          height="10.891449"
-         y="53.275341"
-         x="7.5596986"
+         y="-163.73685"
+         x="-538.23792"
          width="0.58093143"
          style="display:inline;opacity:0.51000001;fill:#ffffff;stroke-width:0.35277662" />
       <circle
          id="circle25050"
-         cy="54.272747"
-         cx="7.5596986"
+         cy="-162.73944"
+         cx="-538.23792"
          r="0.51646149"
          style="display:inline;fill:#a3a3a3;stroke-width:0.35277662" />
       <circle
          id="circle25052"
-         cy="54.272747"
-         cx="7.5596986"
+         cy="-162.73944"
+         cx="-538.23792"
          r="0.45093316"
          style="display:inline;opacity:0.2;fill:#727272;stroke-width:0.35277662" />
       <g
          style="display:inline;stroke-width:2.34980321"
-         transform="matrix(0.21464941,0,0,-0.0922895,1.2249823,46.684961)"
+         transform="matrix(0.21464941,0,0,-0.0922895,-544.57264,-170.32722)"
          id="g25227">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:2.34980321"
@@ -412,7 +422,7 @@
       </g>
       <g
          style="display:inline;stroke-width:4.7238493"
-         transform="matrix(0.15662346,-0.03590892,-0.00749451,-0.02957826,2.053211,56.0289)"
+         transform="matrix(0.15662346,-0.03590892,-0.00749451,-0.02957826,-543.74441,-160.98328)"
          id="g25227-4">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:4.7238493"
@@ -446,7 +456,7 @@
       </g>
       <g
          style="display:inline;stroke-width:4.16095686"
-         transform="matrix(0.19912178,-0.03640375,-0.00952807,-0.02998585,0.43616339,57.652565)"
+         transform="matrix(0.19912178,-0.03640375,-0.00952807,-0.02998585,-545.36146,-159.35962)"
          id="g25227-4-0">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:4.16095686"
@@ -480,7 +490,7 @@
       </g>
       <g
          style="display:inline;stroke-width:3.6456542"
-         transform="matrix(0.25939062,-0.03640375,-0.01241197,-0.02998585,-1.6773282,59.304587)"
+         transform="matrix(0.25939062,-0.03640375,-0.01241197,-0.02998585,-547.47495,-157.7076)"
          id="g25227-4-0-0">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:3.6456542"
@@ -514,7 +524,7 @@
       </g>
       <g
          style="display:inline;stroke-width:3.30058432"
-         transform="matrix(0.31646339,-0.03640375,-0.01514293,-0.02998585,-3.6077381,61.141569)"
+         transform="matrix(0.31646339,-0.03640375,-0.01514293,-0.02998585,-549.40536,-155.87061)"
          id="g25227-4-0-0-2">
         <polygon
            style="display:inline;fill:#e2e2e2;stroke-width:3.30058432"
@@ -547,29 +557,29 @@
            transform="scale(1,-1)" />
       </g>
       <polygon
-         transform="matrix(0.20930496,0,0,0.35277663,2.6184633,87.394947)"
+         transform="matrix(0.20930496,0,0,0.35277663,-543.17916,-129.61724)"
          id="polygon25034-5"
          points="12.8653,35.4534 12.8653,31.4544 34.4387,31.4544 34.4387,35.4534 "
          style="display:inline;fill:#e2e2e2;stroke-width:1.29825544" />
       <rect
          id="rect25038-6"
          height="1.4111172"
-         y="98.490616"
-         x="5.3112388"
+         y="-118.52157"
+         x="-540.48639"
          width="1.2936116"
          style="display:inline;opacity:0.12000002;stroke-width:0.35277662" />
       <rect
          id="rect25042-5"
-         height="1.2774465"
-         y="98.566689"
-         x="8.6086397"
+         height="1.2774466"
+         y="-118.4455"
+         x="-537.18896"
          width="1.1663821"
          style="display:inline;opacity:0.54000005;fill:#ffffff;stroke-width:0.35277662" />
       <rect
          ry="0.29679728"
          rx="0.34395829"
-         y="97.890656"
-         x="5.440773"
+         y="-119.12153"
+         x="-540.35687"
          height="0.59359455"
          width="4.231853"
          id="rect26894"
