@@ -17,7 +17,158 @@
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="ws2811-led-strip-sealed.svg">
   <defs
-     id="defs3937" />
+     id="defs3937">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6610"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6608"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4990"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6484"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6482"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6432"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6430"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5023"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5017"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4999"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5005"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5023-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6610-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6608-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +176,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="143.5344"
-     inkscape:cy="-149.73225"
+     inkscape:zoom="2.56"
+     inkscape:cx="281.21831"
+     inkscape:cy="23.516862"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,13 +209,9 @@
      id="layer1"
      transform="translate(315.52899,-268.16579)">
     <g
-       transform="matrix(0.33072737,0,0,0.33072737,-315.11907,267.76646)"
-       id="g11690-8"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
+       id="g7219">
       <g
-         transform="matrix(2.4983411,0,0,1,119.34664,-8.5702065)"
+         transform="matrix(0.82626978,0,0,0.33072737,-275.64787,264.93206)"
          gorn="0.1.0.0.0.0.0.1.0.0"
          id="Board-1">
         <rect
@@ -77,7 +224,7 @@
            height="22.6768" />
       </g>
       <g
-         transform="translate(194.30721,-8.7797702)"
+         transform="matrix(0.33072737,0,0,0.33072737,-250.85636,264.86275)"
          gorn="0.1.0.0.0.0.0.1.0.4"
          id="RGB_LED_3-5">
         <g
@@ -138,7 +285,7 @@
           <polygon
              style="opacity:0.23999999"
              id="polygon115-3"
-             points="42.7176,26.8584 43.18,27.392 54.3152,27.392 54.3168,16.0504 53.856,15.516 53.8536,26.8584 " />
+             points="53.856,15.516 53.8536,26.8584 42.7176,26.8584 43.18,27.392 54.3152,27.392 54.3168,16.0504 " />
           <rect
              style="fill:#f9f7e4"
              id="rect117-0"
@@ -165,7 +312,7 @@
             <polygon
                style="fill:#8c8c8c"
                id="polygon124-7"
-               points="48.6384,22.4024 49.0128,21.9688 49.4872,21.5024 49.2792,20.9888 48.9904,20.7648 49.0384,20.4144 48.9704,19.9024 48.1536,19.8648 47.3536,19.9024 47.0288,20.7648 46.4872,21.4512 46.8792,21.936 47.4168,22.3896 47.4384,23.2896 47.2704,24.252 46.6384,24.5896 46.8872,24.7192 47.9384,24.94 49.4536,24.8024 49.1288,24.452 48.6384,24.1696 48.6536,23.2648 " />
+               points="48.9904,20.7648 49.0384,20.4144 48.9704,19.9024 48.1536,19.8648 47.3536,19.9024 47.0288,20.7648 46.4872,21.4512 46.8792,21.936 47.4168,22.3896 47.4384,23.2896 47.2704,24.252 46.6384,24.5896 46.8872,24.7192 47.9384,24.94 49.4536,24.8024 49.1288,24.452 48.6384,24.1696 48.6536,23.2648 48.6384,22.4024 49.0128,21.9688 49.4872,21.5024 49.2792,20.9888 " />
             <path
                style="fill:#8c8c8c"
                inkscape:connector-curvature="0"
@@ -220,7 +367,7 @@
            id="color_circle1_2_-3" />
       </g>
       <g
-         transform="translate(128.50422,-8.7797701)"
+         transform="matrix(0.33072737,0,0,0.33072737,-272.61921,264.86275)"
          gorn="0.1.0.0.0.0.0.1.0.5"
          id="RGB_LED_2-7">
         <g
@@ -281,7 +428,7 @@
           <polygon
              style="opacity:0.23999999"
              id="polygon151-1"
-             points="4.88,27.392 16.0152,27.392 16.0168,16.0504 15.556,15.516 15.5536,26.8584 4.4176,26.8584 " />
+             points="15.5536,26.8584 4.4176,26.8584 4.88,27.392 16.0152,27.392 16.0168,16.0504 15.556,15.516 " />
           <rect
              style="fill:#f9f7e4"
              id="rect153-1"
@@ -308,7 +455,7 @@
             <polygon
                style="fill:#8c8c8c"
                id="polygon160-3"
-               points="10.7128,21.9696 11.1872,21.5024 10.9792,20.9888 10.6904,20.7648 10.7384,20.4144 10.6704,19.9024 9.8536,19.8648 9.0536,19.9024 8.7288,20.7648 8.1872,21.4512 8.5792,21.936 9.1168,22.3896 9.1384,23.2896 8.9704,24.252 8.3384,24.5896 8.5872,24.7192 9.6384,24.94 11.1536,24.8024 10.8288,24.452 10.3384,24.1696 10.3536,23.2648 10.3384,22.4024 " />
+               points="10.7384,20.4144 10.6704,19.9024 9.8536,19.8648 9.0536,19.9024 8.7288,20.7648 8.1872,21.4512 8.5792,21.936 9.1168,22.3896 9.1384,23.2896 8.9704,24.252 8.3384,24.5896 8.5872,24.7192 9.6384,24.94 11.1536,24.8024 10.8288,24.452 10.3384,24.1696 10.3536,23.2648 10.3384,22.4024 10.7128,21.9696 11.1872,21.5024 10.9792,20.9888 10.6904,20.7648 " />
             <path
                style="fill:#8c8c8c"
                inkscape:connector-curvature="0"
@@ -363,7 +510,7 @@
            id="color_circle1_1_-7" />
       </g>
       <g
-         transform="translate(71.456798,-8.0156074)"
+         transform="matrix(0.33072737,0,0,0.33072737,-291.48635,265.11548)"
          gorn="0.1.0.0.0.0.0.1.0.6"
          id="RGB_LED_1-0">
         <g
@@ -424,7 +571,7 @@
           <polygon
              style="opacity:0.23999999"
              id="polygon187-6"
-             points="-22.7848,27.392 -22.7832,16.0504 -23.244,15.516 -23.2464,26.8584 -34.3824,26.8584 -33.92,27.392 " />
+             points="-34.3824,26.8584 -33.92,27.392 -22.7848,27.392 -22.7832,16.0504 -23.244,15.516 -23.2464,26.8584 " />
           <rect
              style="fill:#f9f7e4"
              id="rect189-7"
@@ -451,7 +598,7 @@
             <polygon
                style="fill:#8c8c8c"
                id="polygon196-4"
-               points="-27.6128,21.5024 -27.8208,20.9888 -28.1096,20.7648 -28.0616,20.4144 -28.1296,19.9024 -28.9464,19.8648 -29.7464,19.9024 -30.0712,20.7648 -30.6128,21.4512 -30.2208,21.936 -29.6832,22.3896 -29.6616,23.2896 -29.8296,24.252 -30.4616,24.5896 -30.2128,24.7192 -29.1616,24.94 -27.6464,24.8024 -27.9712,24.452 -28.4616,24.1696 -28.4464,23.2648 -28.4616,22.4024 -28.0872,21.9688 " />
+               points="-28.1296,19.9024 -28.9464,19.8648 -29.7464,19.9024 -30.0712,20.7648 -30.6128,21.4512 -30.2208,21.936 -29.6832,22.3896 -29.6616,23.2896 -29.8296,24.252 -30.4616,24.5896 -30.2128,24.7192 -29.1616,24.94 -27.6464,24.8024 -27.9712,24.452 -28.4616,24.1696 -28.4464,23.2648 -28.4616,22.4024 -28.0872,21.9688 -27.6128,21.5024 -27.8208,20.9888 -28.1096,20.7648 -28.0616,20.4144 " />
             <path
                style="fill:#8c8c8c"
                inkscape:connector-curvature="0"
@@ -506,14 +653,14 @@
            id="color_circle1-1" />
       </g>
       <rect
-         height="3.0671999"
-         x="34.807091"
-         y="21.142593"
-         width="45.4664"
+         height="1.0144069"
+         x="-303.60742"
+         y="274.75888"
+         width="15.036983"
          id="rect215-6"
-         style="fill:none" />
+         style="fill:none;stroke-width:0.33072737" />
       <g
-         transform="matrix(0.5152,0,0,1,6.3757082,7.7409209)"
+         transform="matrix(0.17039074,0,0,0.33072737,-313.01045,270.32659)"
          id="g231-8">
         <g
            id="g233-3">
@@ -533,7 +680,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.5152,0,0,1,6.5089082,20.663593)"
+         transform="matrix(0.17039074,0,0,0.33072737,-312.9664,274.60048)"
          id="g255-2">
         <g
            id="g257-0">
@@ -553,25 +700,25 @@
         </g>
       </g>
       <path
-         d="m 4.4439082,19.158956 c 0,-1.0456 -0.9432,-1.891999 -2.1016,-1.8928 h -3.25120003 v 3.7832 H 2.3423082 c 1.16,8.01e-4 2.1016,-0.846399 2.1016,-1.8904 z"
+         d="m -313.64935,274.10285 c 0,-0.34581 -0.31194,-0.62573 -0.69505,-0.626 h -1.07527 v 1.25121 h 1.07527 c 0.38364,2.6e-4 0.69505,-0.27993 0.69505,-0.62521 z"
          id="connector11pin-5"
          gorn="0.1.0.0.0.0.0.1.0.8.4"
          inkscape:connector-curvature="0"
-         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.2" />
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <path
-         d="m 4.4962991,12.905466 c 0,-1.0456 -0.9432,-1.892 -2.1016,-1.892801 h -3.25120001 v 3.7832 H 2.3946991 c 1.16,8.01e-4 2.1016,-0.846399 2.1016,-1.890399 z"
+         d="m -313.63202,272.03465 c 0,-0.34581 -0.31194,-0.62574 -0.69506,-0.626 h -1.07526 v 1.25121 h 1.07526 c 0.38365,2.6e-4 0.69506,-0.27993 0.69506,-0.62521 z"
          id="connector10pin-6"
          gorn="0.1.0.0.0.0.0.1.0.8.5"
          inkscape:connector-curvature="0"
-         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.2" />
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <path
-         d="m 4.54869,6.4967932 c 0,-1.044 -0.9432,-1.8912 -2.1016,-1.8912 h -3.2512 v 3.7831995 h 3.2512 c 1.16,0 2.1016,-0.8472 2.1016,-1.8919995 z"
+         d="m -313.61469,269.91513 c 0,-0.34528 -0.31195,-0.62547 -0.69506,-0.62547 h -1.07526 v 1.2512 h 1.07526 c 0.38364,0 0.69506,-0.28019 0.69506,-0.62573 z"
          id="connector9pin-7"
          gorn="0.1.0.0.0.0.0.1.0.8.6"
          inkscape:connector-curvature="0"
-         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.2" />
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <g
-         transform="matrix(0.5152,0,0,0.99999999,6.5802068,14.171549)"
+         transform="matrix(0.17039074,0,0,0.33072737,-312.94282,272.45338)"
          id="g231-1-3">
         <g
            id="g233-7-8">
@@ -591,14 +738,14 @@
         </g>
       </g>
       <g
-         transform="matrix(0.43132062,0,0,0.43132062,21.617059,3.9545949)"
+         transform="matrix(0.14264953,0,0,0.14264953,-307.96972,269.07435)"
          gorn="0.1.0.0.0.0.0.1.0.3"
          id="R1-8-7">
         <g
            transform="translate(24.779122)"
            id="g10930-7">
           <polygon
-             points="-6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 -12.0872,25.444 -6.6176,25.444 "
+             points="-12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 "
              id="polygon76-8-4"
              style="opacity:0.23999999" />
           <rect
@@ -681,21 +828,9 @@
              style="fill:none;stroke:#3a3a3a;stroke-width:0.92738438" />
         </g>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.44001889;stroke-miterlimit:2.79999995;stroke-dasharray:none;stroke-opacity:1"
-         x="-21.123135"
-         y="56.279003"
-         id="text12095-4-2"
-         transform="matrix(0,-0.77424562,1.2915798,0,0,0)"><tspan
-           style="font-size:12.98374939px;line-height:1.25;font-family:sans-serif;stroke-width:3.44001889;stroke-miterlimit:2.79999995;stroke-dasharray:none"
-           sodipodi:role="line"
-           id="tspan12097-8-60"
-           x="-21.123135"
-           y="56.279003">↓</tspan></text>
       <g
          id="g7275-1-6"
-         transform="matrix(0.07200039,0,0,0.07200039,113.14571,-69.832125)">
+         transform="matrix(0.0238125,0,0,0.0238125,-277.69869,244.67106)">
         <rect
            transform="rotate(90)"
            style="display:inline;fill:#d1d3d4;stroke:#000000;stroke-width:2.76305628;stroke-linecap:round;stroke-linejoin:round"
@@ -769,25 +904,25 @@
            style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:2.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <path
-         d="m 276.61955,18.72324 c 0,1.0456 0.9432,1.892 2.1016,1.8928 h 3.2512 v -3.7832 h -3.2512 c -1.16,-8e-4 -2.1016,0.8464 -2.1016,1.8904 z"
+         d="m -223.63341,273.95875 c 0,0.34581 0.31194,0.62573 0.69505,0.626 h 1.07526 v -1.25121 h -1.07526 c -0.38364,-2.6e-4 -0.69505,0.27993 -0.69505,0.62521 z"
          id="connector11pin-0-3"
          gorn="0.1.0.0.0.0.0.1.0.8.4"
          inkscape:connector-curvature="0"
-         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.2" />
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <path
-         d="m 276.67194,12.469749 c 0,1.0456 0.9432,1.892 2.1016,1.8928 h 3.2512 v -3.7832 h -3.2512 c -1.16,-8e-4 -2.1016,0.8464 -2.1016,1.8904 z"
+         d="m -223.61609,271.89055 c 0,0.34581 0.31195,0.62573 0.69506,0.626 h 1.07526 v -1.25121 h -1.07526 c -0.38364,-2.6e-4 -0.69506,0.27993 -0.69506,0.62521 z"
          id="connector10pin-3-0"
          gorn="0.1.0.0.0.0.0.1.0.8.5"
          inkscape:connector-curvature="0"
-         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.2" />
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <path
-         d="m 276.72433,6.0642757 c 0,1.044 0.9432,1.8912 2.1016,1.8912 h 3.2512 v -3.7832 h -3.2512 c -1.16,0 -2.1016,0.8472 -2.1016,1.892 z"
+         d="m -223.59876,269.77208 c 0,0.34528 0.31194,0.62547 0.69506,0.62547 h 1.07526 v -1.2512 h -1.07526 c -0.38365,0 -0.69506,0.28019 -0.69506,0.62573 z"
          id="connector9pin-9-1"
          gorn="0.1.0.0.0.0.0.1.0.8.6"
          inkscape:connector-curvature="0"
-         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.2" />
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <g
-         transform="matrix(0.5152,0,0,0.99999999,268.92319,7.6285252)"
+         transform="matrix(0.17039074,0,0,0.33072737,-226.17881,270.28942)"
          id="g231-18-2">
         <g
            id="g233-1-9">
@@ -807,7 +942,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.5152,0,0,0.99999999,269.05639,20.551197)"
+         transform="matrix(0.17039074,0,0,0.33072737,-226.13476,274.5633)"
          id="g255-5-5">
         <g
            id="g257-2-7">
@@ -827,7 +962,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.5152,0,0,0.99999999,269.12769,14.059153)"
+         transform="matrix(0.17039074,0,0,0.33072737,-226.11118,272.41621)"
          id="g231-1-7-3">
         <g
            id="g233-7-2-0">
@@ -847,13 +982,13 @@
         </g>
       </g>
       <g
-         transform="matrix(0.43132062,0,0,0.43132062,257.49382,3.3288332)"
+         transform="matrix(0.14264953,0,0,0.14264953,-229.95882,268.8674)"
          gorn="0.1.0.0.0.0.0.1.0.3"
          id="R1-8-9-3">
         <polygon
            style="opacity:0.23999999"
            id="polygon76-8-6-7"
-           points="-6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 -12.0872,25.444 " />
+           points="-12.3152,25.072 -12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 " />
         <rect
            id="rect78-2-9-1"
            width="4.6504002"
@@ -934,13 +1069,13 @@
            points="-13.5536,18.344,-13.5536,13.7912,-5.6032,13.7912,-5.6032,18.2072" />
       </g>
       <g
-         transform="matrix(0.43132062,0,0,0.43132062,98.22544,4.5862154)"
+         transform="matrix(0.14264953,0,0,0.14264953,-282.63323,269.28325)"
          gorn="0.1.0.0.0.0.0.1.0.3"
          id="R1-8-3-3">
         <polygon
            style="opacity:0.23999999"
            id="polygon76-8-9-5"
-           points="-6.896,25.1176 -12.3152,25.072 -12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 " />
+           points="-6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 -12.0872,25.444 -6.6176,25.444 " />
         <rect
            id="rect78-2-6-6"
            width="4.6504002"
@@ -1021,13 +1156,13 @@
            points="-13.5536,18.344,-13.5536,13.7912,-5.6032,13.7912,-5.6032,18.2072" />
       </g>
       <g
-         transform="matrix(0.43132062,0,0,0.43132062,160.34155,3.5997775)"
+         transform="matrix(0.14264953,0,0,0.14264953,-262.08973,268.957)"
          gorn="0.1.0.0.0.0.0.1.0.3"
          id="R1-8-3-5-5">
         <polygon
            style="opacity:0.23999999"
            id="polygon76-8-9-4-1"
-           points="-12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 " />
+           points="-6.896,25.1176 -12.3152,25.072 -12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 " />
         <rect
            id="rect78-2-6-4-3"
            width="4.6504002"
@@ -1107,25 +1242,13 @@
            id="polyline104-4-2-5-7"
            points="-13.5536,18.344,-13.5536,13.7912,-5.6032,13.7912,-5.6032,18.2072" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.44001889;stroke-miterlimit:2.79999995;stroke-dasharray:none;stroke-opacity:1"
-         x="-20.204489"
-         y="174.06227"
-         id="text12095-4-3-9"
-         transform="matrix(0,-0.77424561,1.2915798,0,0,0)"><tspan
-           style="font-size:12.98374939px;line-height:1.25;font-family:sans-serif;stroke-width:3.44001889;stroke-miterlimit:2.79999995;stroke-dasharray:none"
-           sodipodi:role="line"
-           id="tspan12097-8-6-2"
-           x="-20.204489"
-           y="174.06227">↓</tspan></text>
       <g
-         transform="translate(-7.6416267,-18.528406)"
+         transform="matrix(0.33072737,0,0,0.33072737,-317.64637,261.63861)"
          id="g11610-3">
         <polygon
            style="opacity:0.23999999"
            id="polygon76-8-9-4-8-7"
-           points="-6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 -12.0872,25.444 "
+           points="-12.3152,25.072 -12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 "
            transform="matrix(0.43132062,0,0,0.43132062,161.82801,22.03239)" />
         <rect
            id="rect78-2-6-4-6-31"
@@ -1213,12 +1336,12 @@
            transform="matrix(0.43132062,0,0,0.43132062,161.82801,22.03239)" />
       </g>
       <g
-         transform="translate(6.5293435,-18.380222)"
+         transform="matrix(0.33072737,0,0,0.33072737,-312.95964,261.68762)"
          id="g11610-2-0">
         <polygon
            style="opacity:0.23999999"
            id="polygon76-8-9-4-8-9-6"
-           points="-6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 -12.3152,25.072 -12.0872,25.444 "
+           points="-12.3152,25.072 -12.0872,25.444 -6.6176,25.444 -6.616,17.5864 -6.8944,17.1352 -6.896,25.1176 "
            transform="matrix(0.43132062,0,0,0.43132062,161.82801,22.03239)" />
         <rect
            id="rect78-2-6-4-6-3-4"
@@ -1305,226 +1428,238 @@
            points="-13.5536,18.344,-13.5536,13.7912,-5.6032,13.7912,-5.6032,18.2072"
            transform="matrix(0.43132062,0,0,0.43132062,161.82801,22.03239)" />
       </g>
-    </g>
-    <g
-       id="Board-1-2"
-       gorn="0.1.0.0.0.0.0.1.0.0"
-       transform="matrix(0.06683061,0,0,0.33072737,-218.55921,264.93447)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
+      <g
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.06683061,0,0,0.33072737,-218.55921,264.93447)"
+         gorn="0.1.0.0.0.0.0.1.0.0"
+         id="Board-1-2">
+        <path
+           sodipodi:nodetypes="ccsccc"
+           inkscape:connector-curvature="0"
+           id="Strip_1-2-8"
+           d="M -48.203201,9.9927998 H 65.181801 c -24.49852,6.2573892 -15.802207,8.0307312 3.866842,12.8643602 12.921505,3.175434 1.63943,7.88828 -3.866842,9.81244 H -48.203201 Z"
+           style="fill:#f4f4f4;stroke:#000000;stroke-width:0.44491535" />
+      </g>
+      <g
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.17039074,0,0,0.33072737,-219.38023,270.17183)"
+         id="g231-8-9">
+        <g
+           id="g233-3-0">
+          <g
+             id="g235-1-8">
+            <g
+               id="g237-4-7">
+              <g
+                 id="g239-8-4">
+                <text
+                   font-size="4.8"
+                   id="text241-49-5"
+                   style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a">12V</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.17039074,0,0,0.33072737,-219.33618,274.44571)"
+         id="g255-2-6">
+        <g
+           id="g257-0-8">
+          <g
+             id="g259-7-0">
+            <g
+               id="g261-0-7">
+              <g
+                 id="g263-60-7">
+                <text
+                   font-size="4.8"
+                   id="text265-70-4"
+                   style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a">GND</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
       <path
-         style="fill:#f4f4f4;stroke:#000000;stroke-width:0.44491535"
-         d="M -48.203201,9.9927998 H 65.181801 c -24.49852,6.2573892 -15.802207,8.0307312 3.866842,12.8643602 12.921505,3.175434 1.63943,7.88828 -3.866842,9.81244 H -48.203201 Z"
-         id="Strip_1-2-8"
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         d="m -220.01913,273.94809 c 0,-0.34581 -0.31195,-0.62574 -0.69506,-0.626 h -1.07526 v 1.25121 h 1.07526 c 0.38364,2.6e-4 0.69506,-0.27993 0.69506,-0.62521 z"
+         id="connector11pin-5-3"
+         gorn="0.1.0.0.0.0.0.1.0.8.4"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsccc" />
-    </g>
-    <g
-       id="g231-8-9"
-       transform="matrix(0.17039074,0,0,0.33072737,-219.38023,270.17183)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
-      <g
-         id="g233-3-0">
-        <g
-           id="g235-1-8">
-          <g
-             id="g237-4-7">
-            <g
-               id="g239-8-4">
-              <text
-                 style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a"
-                 id="text241-49-5"
-                 font-size="4.8">12V</text>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g255-2-6"
-       transform="matrix(0.17039074,0,0,0.33072737,-219.33618,274.44571)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
-      <g
-         id="g257-0-8">
-        <g
-           id="g259-7-0">
-          <g
-             id="g261-0-7">
-            <g
-               id="g263-60-7">
-              <text
-                 style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a"
-                 id="text265-70-4"
-                 font-size="4.8">GND</text>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <path
-       style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547"
-       inkscape:connector-curvature="0"
-       gorn="0.1.0.0.0.0.0.1.0.8.4"
-       id="connector11pin-5-3"
-       d="m -220.01913,273.94809 c 0,-0.34581 -0.31195,-0.62574 -0.69506,-0.626 h -1.07526 v 1.25121 h 1.07526 c 0.38364,2.6e-4 0.69506,-0.27993 0.69506,-0.62521 z"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548" />
-    <path
-       style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547"
-       inkscape:connector-curvature="0"
-       gorn="0.1.0.0.0.0.0.1.0.8.5"
-       id="connector10pin-6-1"
-       d="m -220.00181,271.87989 c 0,-0.34581 -0.31194,-0.62574 -0.69505,-0.626 h -1.07527 v 1.2512 h 1.07527 c 0.38364,2.7e-4 0.69505,-0.27992 0.69505,-0.6252 z"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548" />
-    <path
-       style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547"
-       inkscape:connector-curvature="0"
-       gorn="0.1.0.0.0.0.0.1.0.8.6"
-       id="connector9pin-7-3"
-       d="m -219.98448,269.76037 c 0,-0.34528 -0.31194,-0.62548 -0.69506,-0.62548 h -1.07526 v 1.25121 h 1.07526 c 0.38365,0 0.69506,-0.28019 0.69506,-0.62573 z"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548" />
-    <g
-       id="g231-1-3-6"
-       transform="matrix(0.17039074,0,0,0.33072737,-219.3126,272.29862)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
-      <g
-         id="g233-7-8-3">
-        <g
-           id="g235-4-4-0">
-          <g
-             id="g237-0-92-1">
-            <g
-               id="g239-9-6-9">
-              <text
-                 style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a"
-                 id="text241-4-5-0"
-                 font-size="4.8">Din</text>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       id="Board-1-2-6"
-       gorn="0.1.0.0.0.0.0.1.0.0"
-       transform="matrix(-0.06683061,0,0,-0.33072737,-209.40122,279.07453)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <path
-         style="fill:#f4f4f4;stroke:#000000;stroke-width:0.44491535"
-         d="M -48.203201,9.9927998 H 65.181801 c -24.49852,6.2573892 -15.802207,8.0307312 3.866842,12.8643602 12.921505,3.175434 1.63943,7.88828 -3.866842,9.81244 H -48.203201 Z"
-         id="Strip_1-2-8-8"
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         d="m -220.00181,271.87989 c 0,-0.34581 -0.31194,-0.62574 -0.69505,-0.626 h -1.07527 v 1.2512 h 1.07527 c 0.38364,2.7e-4 0.69505,-0.27992 0.69505,-0.6252 z"
+         id="connector10pin-6-1"
+         gorn="0.1.0.0.0.0.0.1.0.8.5"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsccc" />
-    </g>
-    <path
-       style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547"
-       inkscape:connector-curvature="0"
-       gorn="0.1.0.0.0.0.0.1.0.8.4"
-       id="connector11pin-0-3-5"
-       d="m -207.97867,274.07948 c 0,0.34581 0.31194,0.62574 0.69506,0.626 h 1.07526 v -1.25121 h -1.07526 c -0.38365,-2.6e-4 -0.69506,0.27993 -0.69506,0.62521 z"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548" />
-    <path
-       style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547"
-       inkscape:connector-curvature="0"
-       gorn="0.1.0.0.0.0.0.1.0.8.5"
-       id="connector10pin-3-0-9"
-       d="m -207.96134,272.01128 c 0,0.34581 0.31194,0.62574 0.69505,0.626 h 1.07526 v -1.25121 h -1.07526 c -0.38364,-2.6e-4 -0.69505,0.27993 -0.69505,0.62521 z"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548" />
-    <path
-       style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547"
-       inkscape:connector-curvature="0"
-       gorn="0.1.0.0.0.0.0.1.0.8.6"
-       id="connector9pin-9-1-4"
-       d="m -207.94401,269.89282 c 0,0.34527 0.31194,0.62547 0.69505,0.62547 h 1.07526 v -1.25121 h -1.07526 c -0.38364,0 -0.69505,0.28019 -0.69505,0.62574 z"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548" />
-    <g
-       id="g231-18-2-5"
-       transform="matrix(0.17039074,0,0,0.33072737,-210.52406,270.41015)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
+      <path
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         d="m -219.98448,269.76037 c 0,-0.34528 -0.31194,-0.62548 -0.69506,-0.62548 h -1.07526 v 1.25121 h 1.07526 c 0.38365,0 0.69506,-0.28019 0.69506,-0.62573 z"
+         id="connector9pin-7-3"
+         gorn="0.1.0.0.0.0.0.1.0.8.6"
+         inkscape:connector-curvature="0"
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
       <g
-         id="g233-1-9-0">
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.17039074,0,0,0.33072737,-219.3126,272.29862)"
+         id="g231-1-3-6">
         <g
-           id="g235-9-0-5">
+           id="g233-7-8-3">
           <g
-             id="g237-5-3-8">
+             id="g235-4-4-0">
             <g
-               id="g239-3-8-8">
-              <text
-                 style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a"
-                 id="text241-2-8-0"
-                 font-size="4.8">12V</text>
+               id="g237-0-92-1">
+              <g
+                 id="g239-9-6-9">
+                <text
+                   font-size="4.8"
+                   id="text241-4-5-0"
+                   style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a">Din</text>
+              </g>
             </g>
           </g>
         </g>
       </g>
-    </g>
-    <g
-       id="g255-5-5-1"
-       transform="matrix(0.17039074,0,0,0.33072737,-210.48001,274.68404)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
       <g
-         id="g257-2-7-3">
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(-0.06683061,0,0,-0.33072737,-209.40122,279.07453)"
+         gorn="0.1.0.0.0.0.0.1.0.0"
+         id="Board-1-2-6">
+        <path
+           sodipodi:nodetypes="ccsccc"
+           inkscape:connector-curvature="0"
+           id="Strip_1-2-8-8"
+           d="M -48.203201,9.9927998 H 65.181801 c -24.49852,6.2573892 -15.802207,8.0307312 3.866842,12.8643602 12.921505,3.175434 1.63943,7.88828 -3.866842,9.81244 H -48.203201 Z"
+           style="fill:#f4f4f4;stroke:#000000;stroke-width:0.44491535" />
+      </g>
+      <path
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         d="m -207.97867,274.07948 c 0,0.34581 0.31194,0.62574 0.69506,0.626 h 1.07526 v -1.25121 h -1.07526 c -0.38365,-2.6e-4 -0.69506,0.27993 -0.69506,0.62521 z"
+         id="connector11pin-0-3-5"
+         gorn="0.1.0.0.0.0.0.1.0.8.4"
+         inkscape:connector-curvature="0"
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
+      <path
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         d="m -207.96134,272.01128 c 0,0.34581 0.31194,0.62574 0.69505,0.626 h 1.07526 v -1.25121 h -1.07526 c -0.38364,-2.6e-4 -0.69505,0.27993 -0.69505,0.62521 z"
+         id="connector10pin-3-0-9"
+         gorn="0.1.0.0.0.0.0.1.0.8.5"
+         inkscape:connector-curvature="0"
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
+      <path
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         d="m -207.94401,269.89282 c 0,0.34527 0.31194,0.62547 0.69505,0.62547 h 1.07526 v -1.25121 h -1.07526 c -0.38364,0 -0.69505,0.28019 -0.69505,0.62574 z"
+         id="connector9pin-9-1-4"
+         gorn="0.1.0.0.0.0.0.1.0.8.6"
+         inkscape:connector-curvature="0"
+         style="fill:#e5ab6b;stroke:#6b6b6a;stroke-width:0.06614547" />
+      <g
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.17039074,0,0,0.33072737,-210.52406,270.41015)"
+         id="g231-18-2-5">
         <g
-           id="g259-5-7-2">
+           id="g233-1-9-0">
           <g
-             id="g261-8-0-2">
+             id="g235-9-0-5">
             <g
-               id="g263-6-8-2">
-              <text
-                 style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a"
-                 id="text265-7-9-7"
-                 font-size="4.8">GND</text>
+               id="g237-5-3-8">
+              <g
+                 id="g239-3-8-8">
+                <text
+                   font-size="4.8"
+                   id="text241-2-8-0"
+                   style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a">12V</text>
+              </g>
             </g>
           </g>
         </g>
       </g>
-    </g>
-    <g
-       id="g231-1-7-3-0"
-       transform="matrix(0.17039074,0,0,0.33072737,-210.45643,272.53694)"
-       inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
-       inkscape:export-xdpi="300.05548"
-       inkscape:export-ydpi="300.05548">
       <g
-         id="g233-7-2-0-3">
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.17039074,0,0,0.33072737,-210.48001,274.68404)"
+         id="g255-5-5-1">
         <g
-           id="g235-4-2-7-1">
+           id="g257-2-7-3">
           <g
-             id="g237-0-9-4-3">
+             id="g259-5-7-2">
             <g
-               id="g239-9-4-7-3">
-              <text
-                 style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a"
-                 id="text241-4-1-8-7"
-                 font-size="4.8">Dout</text>
+               id="g261-8-0-2">
+              <g
+                 id="g263-6-8-2">
+                <text
+                   font-size="4.8"
+                   id="text265-7-9-7"
+                   style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a">GND</text>
+              </g>
             </g>
           </g>
         </g>
       </g>
+      <g
+         inkscape:export-ydpi="300.05548"
+         inkscape:export-xdpi="300.05548"
+         inkscape:export-filename="C:\Harry Morgan\Amperka\labirint\resources\RGBstrip.png"
+         transform="matrix(0.17039074,0,0,0.33072737,-210.45643,272.53694)"
+         id="g231-1-7-3-0">
+        <g
+           id="g233-7-2-0-3">
+          <g
+             id="g235-4-2-7-1">
+            <g
+               id="g237-0-9-4-3">
+              <g
+                 id="g239-9-4-7-3">
+                <text
+                   font-size="4.8"
+                   id="text241-4-1-8-7"
+                   style="font-size:4.80000019px;line-height:0%;font-family:'Droid Sans';fill:#6b6b6a">Dout</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5646"
+         d="m -295.65082,272.29876 h 7.09021"
+         style="fill:none;stroke:#000000;stroke-width:1.4216907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6610)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5646-6"
+         d="m -248.48204,272.26904 h 7.09021"
+         style="fill:none;stroke:#000000;stroke-width:1.4216907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6610-7)" />
     </g>
   </g>
 </svg>

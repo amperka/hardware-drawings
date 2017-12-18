@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.409439mm"
+   height="25.409435mm"
+   viewBox="0 0 25.409439 25.409435"
+   version="1.1"
+   id="svg5126"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="troyka-temperature-humidity-sensor-dht11.svg">
+  <defs
+     id="defs5120">
+    <clipPath
+       id="clipPath3377-1-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3379-7-4"
+         d="m 52.7187,88.6362 h 3.2657 v -7.6049 h -3.2657 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3381-1-9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3383-1-0"
+         d="m 52.7187,88.6362 h 3.2657 v -7.6049 h -3.2657 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3349-2-5-9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3351-4-3"
+         d="m 43.4316,88.603 h 3.9893 v -7.605 h -3.9893 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3353-5-1-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3355-5-7-5"
+         d="m 43.4316,88.603 h 3.9893 v -7.605 h -3.9893 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3321-9-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3323-4-1"
+         d="m 34.0879,88.6362 h 4.5928 v -7.6049 h -4.5928 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3325-8-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3327-8-2"
+         d="m 34.0879,88.6362 h 4.5928 v -7.6049 h -4.5928 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3149-1-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3151-7-8"
+         d="M 2.372,6.645 H 23.841 V 17.45 H 2.372 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3453-5-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3455-2-1"
+         d="m 79.3516,70.2334 h 8.291 V 18.4463 h -8.291 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3457-7-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3459-6-7"
+         d="m 79.3516,70.2334 h 8.291 V 18.4463 h -8.291 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="178.7769"
+     inkscape:cy="31.52728"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     objecttolerance="1"
+     gridtolerance="1"
+     guidetolerance="1" />
+  <metadata
+     id="metadata5123">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(320.7761,-2.89201)">
+    <g
+       id="g5160">
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-0"
+         transform="translate(-349.64876,-94.68303)">
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15875001;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="m 30.538968,97.654415 c 0,0.87846 -0.70847,1.58694 -1.58693,1.58694 v 22.076815 c 0.87846,0 1.58693,0.70847 1.58693,1.58693 h 22.07682 c 0,-0.87846 0.70848,-1.58693 1.58694,-1.58693 V 99.241355 c -0.87846,0 -1.58694,-0.70848 -1.58694,-1.58694 z"
+           id="rect3082-8" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18224059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-6"
+           width="4.8718543"
+           height="2.5144005"
+           x="-122.83496"
+           y="37.762329"
+           rx="0.049450908"
+           transform="rotate(-90)"
+           ry="0.049450908" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.1822217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-6"
+           width="4.8718739"
+           height="2.514421"
+           x="-122.83497"
+           y="40.267456"
+           rx="0.049451113"
+           transform="rotate(-90)"
+           ry="0.049451113" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18222171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-3-7"
+           width="4.8718739"
+           height="2.514421"
+           x="-122.83497"
+           y="42.772614"
+           rx="0.049451116"
+           transform="rotate(-90)"
+           ry="0.049451116" />
+        <circle
+           r="0.92316538"
+           cy="119.26302"
+           cx="39.017395"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-6" />
+        <circle
+           r="0.92316538"
+           cy="119.26302"
+           cx="41.524658"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-2-9" />
+        <rect
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
+           id="rect4216-3"
+           width="1.8463308"
+           height="1.8463308"
+           x="43.108765"
+           y="118.33986"
+           rx="0.17012718"
+           ry="0.17012718" />
+        <g
+           style="display:inline;stroke-width:0.94304347"
+           id="g4114-7"
+           transform="matrix(0.02525069,0,0,0.02525069,28.952038,97.819775)">
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3132-4">
+            <rect
+               id="_x30_.1.5.0.0.6-7-7"
+               x="833.33075"
+               y="-613.70831"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-1-5"
+               x="841.36096"
+               y="-606.021"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-1-8"
+               points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-3-0"
+               points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-25-0"
+               points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-35-7"
+               points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3154-2">
+            <rect
+               id="_x30_.1.5.0.0.7-6-40-5"
+               x="833.33075"
+               y="-415.3465"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-4-7-0"
+               x="841.36096"
+               y="-407.64511"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-0-0-9"
+               points="4.759,9.653 4.203,10.212 4.203,11.393 4.759,11.951 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-7-3-1"
+               points="3.016,11.393 4.203,11.393 4.759,11.951 2.462,11.951 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-0-4-8"
+               points="3.016,10.212 3.016,11.393 2.462,11.951 2.462,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-3-0-4"
+               points="4.759,9.653 4.203,10.212 3.016,10.212 2.462,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3140-1">
+            <rect
+               id="_x30_.1.5.0.0.7-2-2"
+               x="833.33075"
+               y="-514.52954"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-9-3"
+               x="841.36096"
+               y="-506.82816"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-7-8"
+               points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-53-61"
+               points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-4-9"
+               points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-32-7"
+               points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <rect
+               id="_x30_.1.5.0.0.6-2-26-7"
+               x="833.33075"
+               y="-514.52521"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-4-0-8"
+               x="841.36096"
+               y="-506.83768"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-0-5-8"
+               points="4.759,2.454 4.203,3.012 4.203,4.193 4.759,4.751 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-0-3-5"
+               points="3.016,4.193 4.203,4.193 4.759,4.751 2.462,4.751 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-5-10-8"
+               points="3.016,3.012 3.016,4.193 2.462,4.751 2.462,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-3-6-6"
+               points="4.759,2.454 4.203,3.012 3.016,3.012 2.462,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+        </g>
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18224059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-8-6"
+           width="4.8718543"
+           height="2.5144005"
+           x="97.686951"
+           y="-45.322205"
+           rx="0.049450908"
+           transform="rotate(90)"
+           ry="0.049450908" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.1822217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-8-3"
+           width="4.8718739"
+           height="2.514421"
+           x="97.686943"
+           y="-42.817047"
+           rx="0.049451113"
+           transform="rotate(90)"
+           ry="0.049451113" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18222171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-3-2-2"
+           width="4.8718739"
+           height="2.514421"
+           x="97.686943"
+           y="-40.31192"
+           rx="0.049451116"
+           transform="rotate(90)"
+           ry="0.049451116" />
+        <circle
+           r="0.92316538"
+           cy="-101.25889"
+           cx="-44.067139"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-4-0"
+           transform="scale(-1)" />
+        <circle
+           r="0.92316538"
+           cy="-101.25889"
+           cx="-41.559845"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-2-5-7"
+           transform="scale(-1)" />
+        <rect
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
+           id="rect4216-5-9"
+           width="1.846331"
+           height="1.846331"
+           x="-39.975739"
+           y="-102.18205"
+           rx="0.1701272"
+           ry="0.1701272"
+           transform="scale(-1)" />
+        <g
+           style="display:inline;stroke-width:0.94304347"
+           id="g4114-1-2"
+           transform="matrix(-0.02525069,0,0,-0.02525069,54.132478,122.70214)">
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3132-7-6">
+            <rect
+               id="_x30_.1.5.0.0.6-7-1-8"
+               x="833.33075"
+               y="-613.70831"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-1-1-0"
+               x="841.36096"
+               y="-606.021"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-1-5-8"
+               points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-3-2-8"
+               points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-25-7-1"
+               points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-35-6-4"
+               points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3154-1-0">
+            <rect
+               id="_x30_.1.5.0.0.7-6-40-4-6"
+               x="833.33075"
+               y="-415.3465"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-4-7-2-5"
+               x="841.36096"
+               y="-407.64511"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-0-0-3-9"
+               points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-7-3-2-3"
+               points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-0-4-2-4"
+               points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-3-0-1-0"
+               points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3140-6-6">
+            <rect
+               id="_x30_.1.5.0.0.7-2-8-0"
+               x="833.33075"
+               y="-514.52954"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-9-5-1"
+               x="841.36096"
+               y="-506.82816"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-7-7-5"
+               points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-53-6-4"
+               points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-4-1-1"
+               points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-32-8-8"
+               points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <rect
+               id="_x30_.1.5.0.0.6-2-26-9-5"
+               x="833.33075"
+               y="-514.52521"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-4-0-2-0"
+               x="841.36096"
+               y="-506.83768"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-0-5-7-2"
+               points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-0-3-9-3"
+               points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-5-10-5-8"
+               points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-3-6-4-9"
+               points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(-73.633414,-12.919972)"
+         id="g5011">
+        <g
+           id="g3405-7"
+           transform="matrix(-0.28066299,0,0,0.28066299,-224.91793,19.662088)">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 h -5.536 c -0.873,0 -1.581,0.708 -1.581,1.581 v 50.37 c 0,0.873 0.708,1.58 1.581,1.58 H 0 c 0.873,0 1.581,-0.707 1.581,-1.58 V 1.581 C 1.581,0.708 0.873,0 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3407-3" />
+        </g>
+        <g
+           id="g3449-7"
+           transform="matrix(-0.28066299,0,0,0.28066299,-200.66991,14.569597)">
+          <g
+             id="g3451-8" />
+          <g
+             id="g3461-3">
+            <g
+               clip-path="url(#clipPath3453-5-7)"
+               id="g3463-5">
+              <g
+                 id="g3465-1">
+                <g
+                   id="g3467-2" />
+                <g
+                   id="g3469-0">
+                  <g
+                     clip-path="url(#clipPath3457-7-1)"
+                     id="g3471-1">
+                    <text
+                       style="line-height:0%"
+                       transform="matrix(0,-1,-1,0,81.334,70.2334)"
+                       id="text3473-6">
+                      <tspan
+                         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.35610008px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         x="0 3.7464616 6.8875165 11.051069 14.979226 18.780123 22.700924 24.915112 30.395405 34.558956 38.829174 43.176628 45.34668 49.576435"
+                         y="0"
+                         sodipodi:role="line"
+                         id="tspan3475-4">Troyka Module</tspan>
+                    </text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g25796"
+           transform="matrix(0.28222223,0,0,0.28222223,-227.2656,-6.5248436)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3497-0"
+             style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0.97426241,155.63886 H -2.7166714 v -6.66303 h 3.69093381 z" />
+          <path
+             id="path3499-6"
+             style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0.9910233,149.63585 h -3.7412155 v -1.19834 h 3.7412155 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3501-1"
+             style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0.9910233,156.71154 H -2.7501922 V 155.5132 H 0.9910233 Z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g25796-8"
+           transform="matrix(0.28222223,0,0,0.28222223,-225.27506,-6.5360756)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3497-0-8"
+             style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0.97426241,155.63886 H -2.7166714 v -6.66303 h 3.69093381 z" />
+          <path
+             id="path3499-6-2"
+             style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0.9910233,149.63585 h -3.7412155 v -1.19834 h 3.7412155 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path3501-1-9"
+             style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0.9910233,156.71154 H -2.7501922 V 155.5132 H 0.9910233 Z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g3145-2"
+           transform="matrix(0,-0.28066299,-0.28066299,0,-240.59438,38.378279)">
+          <g
+             id="g3147-3"
+             clip-path="url(#clipPath3149-1-0)">
+            <g
+               id="g3153-3"
+               transform="translate(7.0801,16.7578)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 v -9.422 c -0.251,0.07 -0.499,0.141 -0.736,0.209 v 9.004 C -0.499,-0.141 -0.251,-0.07 0,0 m -3.675,-8.631 c 0.247,0 0.536,-0.037 0.771,-0.07 v 7.984 c -0.243,-0.024 -0.534,-0.049 -0.676,-0.044 -0.068,0.002 -0.076,0.013 -0.195,0.052 -0.141,0.046 -0.473,0.232 -0.545,-0.189 -0.496,-2.893 -0.504,-4.19 -0.094,-7.541 0.032,-0.272 0.333,-0.305 0.508,-0.239 0.07,0.028 0.148,0.047 0.231,0.047 m 17.382,7.712 c 2.847,-0.311 3.057,-3.792 3.057,-3.792 0,0 -0.21,-3.479 -3.057,-3.791 -1.019,-0.111 -3.093,0.195 -4.098,0 -0.013,-0.003 -0.027,-0.006 -0.041,-0.01 l -2.403,3.651 2.407,3.95 c 0.013,-0.003 0.026,-0.005 0.037,-0.008 1.005,-0.196 3.079,0.111 4.098,0 m 1.799,-2.706 -2.782,-2.64 v -1.318 l 1.551,0.017 1.231,1.654 z m -2.782,1.678 1.195,-2.222 1.32,1.175 -0.837,1.047 z m -14.176,1.535 c -0.296,-0.083 -0.55,-0.152 -0.736,-0.199 V -8.81 c 0.186,-0.046 0.44,-0.116 0.736,-0.2 z m 2.167,0.61 v -9.817 c 0.685,-0.186 1.326,-0.346 1.738,-0.412 0.785,-0.125 2.686,-0.094 3.182,0 0.857,0.164 1.979,0.767 2.931,1.174 L 6.527,-5.908 6.028,-6.727 H 4.609 l 1.198,1.861 -1.198,1.73 H 6.028 L 6.479,-3.82 8.573,-0.566 C 7.619,-0.16 6.494,0.445 5.635,0.609 5.139,0.704 3.238,0.734 2.453,0.609 2.041,0.545 1.4,0.385 0.715,0.198"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path3155-4" />
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224"
+           x="-30.790194"
+           y="-242.98347"
+           id="text25926"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan25928"
+             x="-30.790194"
+             y="-242.98347"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.5400002px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';stroke-width:0.28222224">Amperka</tspan></text>
+        <g
+           id="g18468"
+           transform="matrix(0,0.35277777,0.35277777,0,-265.37079,14.81114)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3043"
+             style="fill:#343434;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 19.910678,109.88299 c 0,0.97026 0.805888,1.7568 1.8,1.7568 h 32.4 c 0.994112,0 1.8,-0.78654 1.8,-1.7568 V 69.476592 c 0,-0.970254 -0.805888,-1.7568 -1.8,-1.7568 h -32.4 c -0.994112,0 -1.8,0.786546 -1.8,1.7568 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3047"
+             style="fill:none;stroke:#000000;stroke-width:0.14400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 19.910678,109.883 c 0,0.97025 0.805887,1.7568 1.8,1.7568 h 32.399999 c 0.994113,0 1.8,-0.78655 1.8,-1.7568 V 69.47658 c 0,-0.97024 -0.805887,-1.756799 -1.8,-1.756799 H 21.710678 c -0.994113,0 -1.8,0.786559 -1.8,1.756799 z" />
+          <g
+             transform="matrix(0.79999998,0,0,-0.79999998,12.710678,888.00958)"
+             id="g3115">
+            <path
+               inkscape:connector-curvature="0"
+               id="path3117"
+               style="fill:#d7f4ee;fill-opacity:0.63529412;fill-rule:nonzero;stroke:none"
+               d="M 14.85,977.21216 H 36 v 30.15004 H 14.85 Z" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="path3121"
+             style="fill:none;stroke:#000000;stroke-width:0.2290924;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M 24.590678,106.23987 H 41.510677 V 82.11984 H 24.590678 Z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3127"
+             style="fill:none;stroke:#316691;stroke-width:1.43999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.630677,109.64546 c 0,0.70383 0.618922,1.2744 1.382401,1.2744 h 31.795199 c 0.763479,0 1.382401,-0.57057 1.3824,-1.2744 V 69.71424 c 10e-7,-0.70384 -0.618921,-1.2744 -1.3824,-1.2744 H 22.013078 c -0.763479,0 -1.382401,0.57056 -1.382401,1.2744 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3131"
+             style="fill:#48a1d1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 21.710678,111.63456 c -0.9972,0 -1.8,-0.8028 -1.8,-1.8 v -9 h 7.2 v -2.874999 h -7.2 v -2.875 h 7.2 v -2.874999 h -7.2 v -2.900001 h 7.2 v -2.87496 h -7.2 v -2.87504 h 7.2 v -2.87496 h -7.2 v -2.875039 h 7.2 v -2.900001 h -7.2 v -5.4 c 0,-0.9972 0.8028,-1.8 1.8,-1.8 h 32.4 c 0.9972,0 1.8,0.8028 1.8,1.8 v 5.4 h -7.2 v 2.900001 h 7.2 v 2.875039 h -7.2 v 2.87496 h 7.2 v 2.87504 h -7.2 v 2.87496 h 7.2 v 2.900001 h -7.2 v 2.874999 h 7.2 v 2.875 h -7.2 v 2.874999 h 7.2 v 9 c 0,0.9972 -0.8028,1.8 -1.8,1.8 h -9 v -7.2 h -2.875 v 7.2 h -2.875 v -7.2 h -2.9 v 7.2 h -2.875 v -7.2 h -2.875 v 7.2 z m 9,-10.8 h 2.875 v -2.874999 h -2.875 z m 5.75,0 h 2.9 v -2.874999 h -2.9 z m 5.775,0 h 2.875 v -2.874999 h -2.875 z m -11.525,-5.749999 h 2.875 v -2.874999 h -2.875 z m 5.75,0 h 2.9 v -2.874999 h -2.9 z m 5.775,0 h 2.875 v -2.874999 h -2.875 z m -11.525,-5.775 h 2.875 v -2.87496 h -2.875 z m 5.75,0 h 2.9 v -2.87496 h -2.9 z m 5.775,0 h 2.875 v -2.87496 h -2.875 z m -11.525,-5.75 h 2.875 v -2.87496 h -2.875 z m 5.75,0 h 2.9 v -2.87496 h -2.9 z m 5.775,0 h 2.875 v -2.87496 h -2.875 z m -11.525,-5.749999 h 2.875 v -2.900001 h -2.875 z m 5.75,0 h 2.9 v -2.900001 h -2.9 z m 5.775,0 h 2.875 v -2.900001 h -2.875 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3135"
+             style="fill:none;stroke:#000000;stroke-width:0.14400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 21.710678,111.6346 c -0.9972,0 -1.8,-0.8028 -1.8,-1.8 v -9 h 7.2 v -2.875 h -7.2 v -2.875 h 7.2 v -2.875 h -7.2 v -2.9 h 7.2 v -2.87496 h -7.2 V 83.5596 h 7.2 v -2.87496 h -7.2 V 77.8096 h 7.2 v -2.9 h -7.2 v -5.4 c 0,-0.9972 0.8028,-1.799999 1.8,-1.799999 h 32.399999 c 0.9972,0 1.8,0.802799 1.8,1.799999 v 5.4 h -7.2 v 2.9 h 7.2 v 2.87504 h -7.2 v 2.87496 h 7.2 v 2.87504 h -7.2 v 2.87496 h 7.2 v 2.9 h -7.2 v 2.875 h 7.2 v 2.875 h -7.2 v 2.875 h 7.2 v 9 c 0,0.9972 -0.8028,1.8 -1.8,1.8 h -9 v -7.2 h -2.875 v 7.2 h -2.875 v -7.2 h -2.9 v 7.2 h -2.875 v -7.2 h -2.874999 v 7.2 z m 9,-10.8 h 2.874999 v -2.875 h -2.874999 z m 5.749999,0 h 2.9 v -2.875 h -2.9 z m 5.775,0 h 2.875 v -2.875 h -2.875 z m -11.524999,-5.75 h 2.874999 v -2.875 h -2.874999 z m 5.749999,0 h 2.9 v -2.875 h -2.9 z m 5.775,0 h 2.875 v -2.875 h -2.875 z m -11.524999,-5.775 h 2.874999 v -2.87496 h -2.874999 z m 5.749999,0 h 2.9 v -2.87496 h -2.9 z m 5.775,0 h 2.875 v -2.87496 h -2.875 z m -11.524999,-5.75 h 2.874999 v -2.87496 h -2.874999 z m 5.749999,0 h 2.9 v -2.87496 h -2.9 z m 5.775,0 h 2.875 v -2.87496 h -2.875 z m -11.524999,-5.75 h 2.874999 v -2.9 h -2.874999 z m 5.749999,0 h 2.9 v -2.9 h -2.9 z m 5.775,0 h 2.875 v -2.9 h -2.875 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3141"
+             style="fill:none;stroke:#ffffff;stroke-width:0.50400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 21.710678,110.91986 h 7.56 m -8.64,-1.07999 c 0,0.59647 0.483533,1.08 1.08,1.08 m -1.08,-9.36001 v 8.28" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3147"
+             style="fill:none;stroke:#ffffff;stroke-width:0.50400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.630678,97.239856 v -1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3153"
+             style="fill:none;stroke:#ffffff;stroke-width:0.50400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.630678,91.479856 v -1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3159"
+             style="fill:none;stroke:#ffffff;stroke-width:0.50400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.630678,85.719856 v -1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3165"
+             style="fill:none;stroke:#ffffff;stroke-width:0.50400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.630678,79.95984 v -1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3171-4"
+             style="fill:none;stroke:#ffffff;stroke-width:0.50400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.630678,73.83984 v -3.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3177"
+             style="fill:none;stroke:#000000;stroke-width:0.35999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 55.190677,69.51984 v 4.68 m 0,-4.68 c 0,-0.59648 -0.483533,-1.08 -1.08,-1.08 m -4.68,0 h 4.68" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3183"
+             style="fill:none;stroke:#000000;stroke-width:0.35999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 55.190677,78.51984 v 1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3189"
+             style="fill:none;stroke:#000000;stroke-width:0.35999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 55.190677,84.279856 v 1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3195"
+             style="fill:none;stroke:#000000;stroke-width:0.35999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 55.190677,90.039856 v 1.44" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3201"
+             style="fill:none;stroke:#000000;stroke-width:0.35999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="m 55.190677,95.799856 v 1.44" />
+        </g>
+        <g
+           id="g3317-6"
+           transform="matrix(-0.28066299,0,0,0.28066299,-221.66662,15.840658)">
+          <g
+             id="g3319-1" />
+          <g
+             id="g3329-5">
+            <g
+               clip-path="url(#clipPath3321-9-4)"
+               id="g3331-4">
+              <g
+                 id="g3333-2">
+                <g
+                   id="g3335-0" />
+                <g
+                   id="g3337-9">
+                  <g
+                     clip-path="url(#clipPath3325-8-3)"
+                     id="g3339-7">
+                    <text
+                       transform="matrix(-1,0,0,1,38.6807,86.8555)"
+                       id="text3341-3"
+                       style="line-height:0%">
+                      <tspan
+                         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79099989px;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         x="0"
+                         y="0"
+                         id="tspan3343-7">G</tspan>
+                    </text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g3345-2"
+           transform="matrix(-0.28066299,0,0,0.28066299,-221.66662,15.840658)">
+          <g
+             id="g3347-6" />
+          <g
+             id="g3357-0">
+            <g
+               clip-path="url(#clipPath3349-2-5-9)"
+               id="g3359-1">
+              <g
+                 id="g3361-6">
+                <g
+                   id="g3363-5" />
+                <g
+                   id="g3365-7">
+                  <g
+                     clip-path="url(#clipPath3353-5-1-8)"
+                     id="g3367-5">
+                    <text
+                       transform="matrix(-1,0,0,1,47.4209,86.8223)"
+                       id="text3369-4"
+                       style="line-height:0%">
+                      <tspan
+                         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79099989px;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         x="0"
+                         y="0"
+                         id="tspan3371-1">V</tspan>
+                    </text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g3373-2"
+           transform="matrix(-0.28066299,0,0,0.28066299,-221.66662,15.840658)">
+          <g
+             id="g3375-0" />
+          <g
+             id="g3385-0">
+            <g
+               clip-path="url(#clipPath3377-1-3)"
+               id="g3387-1">
+              <g
+                 id="g3389-4">
+                <g
+                   id="g3391-6" />
+                <g
+                   id="g3393-0">
+                  <g
+                     clip-path="url(#clipPath3381-1-9)"
+                     id="g3395-7">
+                    <text
+                       transform="matrix(-1,0,0,1,55.9844,86.8555)"
+                       id="text3397-1"
+                       style="line-height:0%">
+                      <tspan
+                         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79099989px;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         x="0"
+                         y="0"
+                         id="tspan3399-7">S</tspan>
+                    </text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

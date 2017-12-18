@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="23.838959mm"
-   height="24.002773mm"
-   viewBox="0 0 23.838959 24.002773"
+   width="25.409439mm"
+   height="25.409435mm"
+   viewBox="0 0 25.409439 25.409435"
    version="1.1"
-   id="svg12488"
+   id="svg5510"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="troyka_mq3.svg">
+   sodipodi:docname="troyka-mq3.svg">
   <defs
-     id="defs12482">
+     id="defs5504">
     <mask
        id="mask27390"
        height="1"
@@ -45,22 +45,6 @@
          height="1"
          width="1" />
     </mask>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath18-1">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 0,0 H 1786.82 V 3550 H 0 Z"
-         id="path20-7" />
-    </clipPath>
-    <clipPath
-       id="clipPath18-1-7"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path20-7-30"
-         d="M 0,0 H 1786.82 V 3550 H 0 Z"
-         inkscape:connector-curvature="0" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -70,22 +54,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-34.875723"
-     inkscape:cy="9.414966"
+     inkscape:cx="181.31231"
+     inkscape:cy="-14.037185"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata12485">
+     id="metadata5507">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -100,346 +84,492 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-65.187664,-107.3498)">
+     transform="translate(535.06782,129.21067)">
     <g
-       id="g5969">
+       id="g6502">
       <g
-         transform="matrix(0,-0.00160011,-0.00160011,0,88.449025,112.16664)"
-         id="g14"
-         style="display:inline;fill:#000000">
+         inkscape:label="Layer 1"
+         id="layer1-3"
+         transform="translate(-563.94048,-226.78571)">
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15875001;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="m 30.538968,97.654415 c 0,0.87846 -0.70847,1.58694 -1.58693,1.58694 v 22.076815 c 0.87846,0 1.58693,0.70847 1.58693,1.58693 h 22.07682 c 0,-0.87846 0.70848,-1.58693 1.58694,-1.58693 V 99.241355 c -0.87846,0 -1.58694,-0.70848 -1.58694,-1.58694 z"
+           id="rect3082-9" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18224059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-1"
+           width="4.8718543"
+           height="2.5144005"
+           x="-122.83496"
+           y="37.762329"
+           rx="0.049450908"
+           transform="rotate(-90)"
+           ry="0.049450908" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.1822217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-2"
+           width="4.8718739"
+           height="2.514421"
+           x="-122.83497"
+           y="40.267456"
+           rx="0.049451113"
+           transform="rotate(-90)"
+           ry="0.049451113" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18222171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-3-3"
+           width="4.8718739"
+           height="2.514421"
+           x="-122.83497"
+           y="42.772614"
+           rx="0.049451116"
+           transform="rotate(-90)"
+           ry="0.049451116" />
+        <circle
+           r="0.92316538"
+           cy="119.26302"
+           cx="39.017395"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-6" />
+        <circle
+           r="0.92316538"
+           cy="119.26302"
+           cx="41.524658"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-2-7" />
+        <rect
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
+           id="rect4216-2"
+           width="1.8463308"
+           height="1.8463308"
+           x="43.108765"
+           y="118.33986"
+           rx="0.17012718"
+           ry="0.17012718" />
         <g
-           id="g16"
-           clip-path="url(#clipPath18-1)"
-           style="fill:#000000">
-          <path
-             inkscape:connector-curvature="0"
-             d="M 81.7031,896.66 H 1705.14 c 30.71,113.3 57.19,219.18 68.05,287.53 20.56,129.75 15.61,443.91 0,525.89 -27.05,141.92 -126.8,327.45 -194.07,484.92 l -487.74,-337.28 135.3,-82.48 v -234.53 l -307.524,197.9 -286.187,-197.9 v 234.53 l 113.32,74.61 -538.051,346.25 C 140.953,2038.39 40.7852,1852.34 13.6445,1710.08 c -15.58981,-81.98 -20.62106,-396.14 0,-525.89 10.8594,-68.35 37.3399,-174.23 68.0586,-287.53 z M 182.602,538.332 c 13.793,-48.91 25.347,-90.891 33.062,-121.672 H 1571.2 c 7.71,30.781 19.26,72.762 33.05,121.672 z m 253.781,2343.988 367.472,197.7 -194.3,218.33 -173.172,-138.53 z m 277.519,460 436.478,-460 h 218 l -2.67,256.67 -273.58,203.33 z M 266.465,3044.84 c 51.555,470.86 626.91,505.63 626.91,505.63 0,0 575.415,-34.77 627.045,-505.63 18.41,-168.34 -32.37,-511.25 0,-677.54 0.42,-2.21 0.98,-4.51 1.45,-6.75 l -603.475,-397.37 -653.207,398.2 c 0.414,1.96 0.902,3.99 1.277,5.92 32.324,166.29 -18.442,509.2 0,677.54 z m 1275.105,-2874 c 0,40.93 6.28,88.531 11.67,127.492 H 233.113 c 3.942,-40.32 7.918,-88.332 7.203,-111.844 -0.382,-11.289 -2.218,-12.687 -8.632,-32.398 -7.508,-23.238 -38.438,-77.9884 31.254,-89.9884 478.394,-82 692.867,-83.2305 1247.082,-15.6407 44.95,5.4688 50.24,55.1411 39.32,84.0391 -4.35,11.551 -7.77,24.551 -7.77,38.34 z M 114.441,778.332 H 1672.41 c -11.64,-41.41 -23.31,-82.434 -34.5,-121.672 H 148.953 c -11.195,39.238 -22.867,80.262 -34.512,121.672"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path22" />
+           style="display:inline;stroke-width:0.94304347"
+           id="g4114-2"
+           transform="matrix(0.02525069,0,0,0.02525069,28.952038,97.819775)">
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3132-3">
+            <rect
+               id="_x30_.1.5.0.0.6-7-7"
+               x="833.33075"
+               y="-613.70831"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-1-8"
+               x="841.36096"
+               y="-606.021"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-1-1"
+               points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-3-1"
+               points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-25-8"
+               points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-35-4"
+               points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3154-7">
+            <rect
+               id="_x30_.1.5.0.0.7-6-40-2"
+               x="833.33075"
+               y="-415.3465"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-4-7-23"
+               x="841.36096"
+               y="-407.64511"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-0-0-6"
+               points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-7-3-0"
+               points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-0-4-3"
+               points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-3-0-7"
+               points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3140-8">
+            <rect
+               id="_x30_.1.5.0.0.7-2-9"
+               x="833.33075"
+               y="-514.52954"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-9-4"
+               x="841.36096"
+               y="-506.82816"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-7-0"
+               points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-53-68"
+               points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-4-8"
+               points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-32-9"
+               points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <rect
+               id="_x30_.1.5.0.0.6-2-26-3"
+               x="833.33075"
+               y="-514.52521"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-4-0-5"
+               x="841.36096"
+               y="-506.83768"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-0-5-3"
+               points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-0-3-3"
+               points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-5-10-9"
+               points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-3-6-5"
+               points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+        </g>
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18224059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-8-6"
+           width="4.8718543"
+           height="2.5144005"
+           x="97.686951"
+           y="-45.322205"
+           rx="0.049450908"
+           transform="rotate(90)"
+           ry="0.049450908" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.1822217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-8-0"
+           width="4.8718739"
+           height="2.514421"
+           x="97.686943"
+           y="-42.817047"
+           rx="0.049451113"
+           transform="rotate(90)"
+           ry="0.049451113" />
+        <rect
+           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18222171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6749-9-3-2-6"
+           width="4.8718739"
+           height="2.514421"
+           x="97.686943"
+           y="-40.31192"
+           rx="0.049451116"
+           transform="rotate(90)"
+           ry="0.049451116" />
+        <circle
+           r="0.92316538"
+           cy="-101.25889"
+           cx="-44.067139"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-4-1"
+           transform="scale(-1)" />
+        <circle
+           r="0.92316538"
+           cy="-101.25889"
+           cx="-41.559845"
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
+           id="path4180-2-5-6"
+           transform="scale(-1)" />
+        <rect
+           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
+           id="rect4216-5-3"
+           width="1.846331"
+           height="1.846331"
+           x="-39.975739"
+           y="-102.18205"
+           rx="0.1701272"
+           ry="0.1701272"
+           transform="scale(-1)" />
+        <g
+           style="display:inline;stroke-width:0.94304347"
+           id="g4114-1-2"
+           transform="matrix(-0.02525069,0,0,-0.02525069,54.132478,122.70214)">
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3132-7-4">
+            <rect
+               id="_x30_.1.5.0.0.6-7-1-2"
+               x="833.33075"
+               y="-613.70831"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-1-1-9"
+               x="841.36096"
+               y="-606.021"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-1-5-1"
+               points="4.759,4.751 4.759,2.454 4.203,3.012 4.203,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-3-2-0"
+               points="2.462,4.751 3.016,4.193 4.203,4.193 4.759,4.751 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-25-7-9"
+               points="2.462,2.454 3.016,3.012 3.016,4.193 2.462,4.751 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-35-6-4"
+               points="2.462,2.454 4.759,2.454 4.203,3.012 3.016,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3154-1-8">
+            <rect
+               id="_x30_.1.5.0.0.7-6-40-4-5"
+               x="833.33075"
+               y="-415.3465"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-4-7-2-8"
+               x="841.36096"
+               y="-407.64511"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-0-0-3-2"
+               points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-7-3-2-0"
+               points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-0-4-2-9"
+               points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-3-0-1-6"
+               points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
+          <g
+             style="stroke-width:0.94304347"
+             transform="translate(-0.78573089,-0.78573089)"
+             id="g3140-6-3">
+            <rect
+               id="_x30_.1.5.0.0.7-2-8-9"
+               x="833.33075"
+               y="-514.52954"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.32-9-5-9"
+               x="841.36096"
+               y="-506.82816"
+               width="17.20562"
+               height="16.311668"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.33-7-7-4"
+               points="4.759,11.951 4.759,9.653 4.203,10.212 4.203,11.393 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.34-53-6-8"
+               points="2.462,11.951 3.016,11.393 4.203,11.393 4.759,11.951 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.35-4-1-9"
+               points="2.462,9.653 3.016,10.212 3.016,11.393 2.462,11.951 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.36-32-8-7"
+               points="2.462,9.653 4.759,9.653 4.203,10.212 3.016,10.212 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
+            <rect
+               id="_x30_.1.5.0.0.6-2-26-9-7"
+               x="833.33075"
+               y="-514.52521"
+               width="33.3386"
+               height="31.65897"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <rect
+               id="_x30_.1.5.0.0.37-4-0-2-8"
+               x="841.36096"
+               y="-506.83768"
+               width="17.20562"
+               height="16.284117"
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="rotate(90)" />
+            <polygon
+               id="_x30_.1.5.0.0.38-0-5-7-9"
+               points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.39-0-3-9-7"
+               points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.40-5-10-5-2"
+               points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+            <polygon
+               id="_x30_.1.5.0.0.41-3-6-4-2"
+               points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
+               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
+               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
+          </g>
         </g>
       </g>
-      <g
-         transform="matrix(0.0238125,0,0,0.0238125,65.200894,107.47262)"
-         id="g3975"
-         style="display:inline">
-        <path
-           inkscape:connector-curvature="0"
-           id="path3026"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 971.97906,788.49821 -16.11328,5.80512 v 27.23524 l 16.11328,5.53386 v 15.67925 l -80.5664,-31.68403 v -6.18489 l 80.5664,-31.9553 z m -56.26085,19.477 29.35113,9.54861 v -19.09723 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3028"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 971.97906,698.11192 h -36.40408 c -7.63161,8e-5 -11.44743,3.41804 -11.44748,10.25391 5e-5,2.02552 0.59684,3.97865 1.79037,5.85937 1.19362,1.88085 2.56804,3.20101 4.12326,3.96051 h 41.93793 v 13.56337 H 933.4591 c -2.85731,4e-5 -5.12691,0.88618 -6.80881,2.65842 -1.68181,1.77231 -2.52274,4.26797 -2.52279,7.48698 5e-5,1.69997 0.63301,3.55363 1.89887,5.56098 1.26596,2.0074 2.65847,3.4632 4.17752,4.3674 h 41.77517 v 13.56337 h -58.10547 v -9.3316 l 5.09983,-2.76692 c -4.12321,-3.76156 -6.18484,-8.62628 -6.1849,-14.59419 6e-5,-7.70395 2.09786,-13.50907 6.29341,-17.41536 -1.9169,-1.69989 -3.44504,-4.06896 -4.58442,-7.10721 -1.13926,-3.03813 -1.70893,-6.07632 -1.70899,-9.11458 6e-5,-6.47418 1.85372,-11.5107 5.56099,-15.1096 3.70737,-3.59872 8.79815,-5.39813 15.27235,-5.39822 h 38.3572 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3030"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 970.51422,657.42182 h 24.2513 v 13.56337 h -80.89193 v -13.56337 h 3.90625 c -3.32748,-3.39986 -4.99126,-7.57738 -4.99132,-12.53256 6e-5,-18.51846 10.19971,-27.77771 30.59896,-27.77777 9.51247,6e-5 16.83668,2.55901 21.97266,7.67686 5.136,5.11796 7.70399,12.10761 7.70399,20.96897 0,4.26797 -0.84997,8.15613 -2.54991,11.6645 z m -42.42622,0 h 30.54471 c 1.98931,-2.45947 2.98395,-5.3349 2.98394,-8.62631 10e-6,-6.25719 -1.49196,-10.75119 -4.47591,-13.48198 -2.98392,-2.73072 -7.69493,-4.0961 -14.13303,-4.09614 -6.87207,4e-5 -11.70967,1.35638 -14.5128,4.06901 -2.80305,2.71271 -4.2046,7.19766 -4.20465,13.45486 5e-5,3.25523 1.26596,6.14875 3.79774,8.68056 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3032"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 947.07672,553.36366 v 41.50391 c 4.62965,-0.25317 8.22846,-1.8446 10.79644,-4.77431 2.56801,-2.92966 3.85201,-6.87208 3.852,-11.82726 1e-5,-6.18485 -1.60951,-10.88681 -4.82856,-14.1059 l 10.36241,-5.26259 c 3.87008,4.77436 5.80512,11.89964 5.80512,21.37587 0,8.86143 -2.59512,15.86916 -7.78537,21.02322 -5.19024,5.15409 -12.43307,7.73113 -21.72852,7.73112 -9.15071,10e-6 -16.56534,-2.83021 -22.24392,-8.49067 -5.67847,-5.66042 -8.51774,-12.45114 -8.5178,-20.37217 6e-5,-8.42734 2.51381,-15.19093 7.54124,-20.2908 5.02753,-5.09977 11.42944,-7.64968 19.20573,-7.64974 1.6638,6e-5 4.17754,0.37983 7.54123,1.13932 z m -10.19965,41.01563 v -28.53733 c -8.49967,0.94044 -12.74952,5.6424 -12.74957,14.1059 5e-5,7.74019 4.2499,12.55066 12.74957,14.43143 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3034"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 926.51465,507.84499 c -1.59138,2.42336 -2.3871,5.08177 -2.38715,7.97526 5e-5,3.14673 1.42872,5.94078 4.28603,8.38216 2.85739,2.44143 6.34769,3.66213 10.47092,3.66211 h 33.09461 v 13.56337 h -58.10547 v -13.56337 h 5.31684 c -4.26788,-3.79772 -6.40185,-8.84329 -6.40191,-15.13672 6e-5,-4.62959 0.70536,-8.17415 2.11589,-10.63368 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3036"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 971.97906,456.73823 -26.31293,17.08984 6.89019,6.51042 h 19.42274 v 13.56337 h -79.7526 l -3.25521,-13.56337 h 47.20052 L 913.87359,460.97 v -16.3303 l 22.02691,19.63976 36.07856,-23.65452 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3038"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 966.17394,400.58586 c 2.02547,1.22978 3.6802,3.37279 4.9642,6.42903 1.28399,3.05631 1.92599,6.24822 1.92599,9.57574 0,6.25725 -1.5643,11.17623 -4.69292,14.75695 -3.12861,3.58073 -7.56835,5.3711 -13.31923,5.37109 -6.72741,1e-5 -11.98999,-2.52278 -15.78776,-7.56836 -3.79771,-5.04555 -5.69658,-12.21605 -5.69661,-21.5115 3e-5,-1.5914 0.2713,-3.47219 0.8138,-5.64236 -6.8359,4e-5 -10.25386,4.32223 -10.25391,12.96658 5e-5,5.09985 0.85002,9.36778 2.54991,12.80382 l -10.52517,2.92969 c -2.24242,-4.66579 -3.36366,-10.21772 -3.36372,-16.65582 6e-5,-8.86137 2.01648,-15.35369 6.04927,-19.477 4.03289,-4.12321 11.67358,-6.18484 22.92209,-6.18489 h 12.42405 c 7.74017,5e-5 12.60489,-1.55522 14.59418,-4.6658 1.95313,1.12129 3.15574,2.36912 3.60786,3.74349 0.45211,1.37447 0.67816,2.94782 0.67816,4.72005 0,1.95317 -0.72338,3.70736 -2.17013,5.26259 -1.44676,1.5553 -3.02011,2.6042 -4.72006,3.1467 z m -21.53863,1.30208 c -0.47016,2.31485 -0.70526,4.05096 -0.70529,5.20834 3e-5,10.70604 3.50841,16.05904 10.52517,16.05902 5.20835,2e-5 7.81251,-3.02009 7.8125,-9.06033 10e-6,-8.13798 -4.06899,-12.20699 -12.20703,-12.20703 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3040"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 964.87186,371.56026 c -2.71266,10e-6 -5.01843,-0.94942 -6.91732,-2.84831 -1.89885,-1.89885 -2.84829,-4.20462 -2.84831,-6.91731 2e-5,-2.71266 0.94946,-5.01843 2.84831,-6.91732 1.89889,-1.89885 4.20466,-2.84828 6.91732,-2.84831 2.71268,3e-5 5.02749,0.94946 6.94444,2.84831 1.91696,1.89889 2.87544,4.20466 2.87544,6.91732 0,2.71269 -0.95848,5.01846 -2.87544,6.91731 -1.91695,1.89889 -4.23176,2.84832 -6.94444,2.84831 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3042"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 926.51465,299.29463 c -1.59138,2.42336 -2.3871,5.08178 -2.38715,7.97526 5e-5,3.14673 1.42872,5.94079 4.28603,8.38216 2.85739,2.44143 6.34769,3.66214 10.47092,3.66211 h 33.09461 v 13.56337 h -58.10547 v -13.56337 h 5.31684 c -4.26788,-3.79771 -6.40185,-8.84328 -6.40191,-15.13671 6e-5,-4.62959 0.70536,-8.17415 2.11589,-10.63369 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3044"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.1111145px;line-height:100%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           d="m 972.03332,247.9166 h -4.88281 c 1.6276,1.917 3.02011,4.55734 4.17751,7.92101 1.15741,3.36375 1.73611,6.4562 1.73611,9.27735 0,13.49104 -7.16145,20.23655 -21.48437,20.23654 h -37.70617 v -13.56337 h 36.67535 c 7.45083,2e-5 11.17623,-3.3456 11.17622,-10.03689 1e-5,-3.07433 -0.79571,-5.93168 -2.38715,-8.57205 -1.59143,-2.64029 -3.43604,-4.39449 -5.53386,-5.26259 h -39.93056 v -13.56336 h 58.15973 z" />
-      </g>
-      <path
-         id="rect3082"
-         d="m 66.697442,107.47262 c 0,0.82842 -0.668122,1.49654 -1.496549,1.49654 v 20.81941 c 0.828427,0 1.496549,0.66812 1.496549,1.49655 h 20.819401 c 0,-0.82843 0.668123,-1.49655 1.49655,-1.49655 v -20.81941 c -0.828427,0 -1.49655,-0.66812 -1.49655,-1.49654 z"
-         style="display:inline;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.02645833;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
       <path
          id="path3068"
-         d="m 84.86245,126.94874 h 2.401971 c 0.04336,-0.14701 0.08671,-0.29403 0.104056,-0.37914 0.02601,-0.17023 0.01734,-0.58806 0,-0.69639 -0.04336,-0.1857 -0.19077,-0.43331 -0.294827,-0.64222 l -0.719724,0.44878 0.199442,0.10833 v 0.3095 l -0.450912,-0.26308 -0.424897,0.26308 v -0.3095 l 0.164756,-0.10059 -0.797767,-0.45652 c -0.09539,0.20891 -0.242798,0.45652 -0.286155,0.64222 -0.01734,0.10833 -0.02601,0.52616 0,0.69639 0.01734,0.0851 0.0607,0.23213 0.104057,0.37914 z m 0.147413,0.472 c 0.01734,0.0619 0.03468,0.1238 0.05203,0.16249 h 2.003088 c 0.0087,-0.0387 0.02601,-0.10059 0.05203,-0.16249 z m 0.372869,-3.09506 0.546297,-0.26307 -0.286156,-0.2863 -0.260141,0.18571 z m 0.416226,-0.61127 0.641682,0.61127 h 0.320841 v -0.34045 l -0.407555,-0.27082 z m -0.667696,0.39462 c 0.07804,-0.61901 0.927838,-0.66543 0.927838,-0.66543 0,0 0.858466,0.0464 0.927836,0.66543 0.03469,0.22439 -0.04336,0.67317 0,0.89757 0,0 0.0087,0.008 0.0087,0.008 l -0.893152,0.52615 -0.971194,-0.52615 c 0,0 0,-0.008 0,-0.008 0.05203,-0.2244 -0.02601,-0.67318 0,-0.89757 z m 1.89036,3.79918 c 0,-0.0542 0.0087,-0.11607 0.01734,-0.17023 h -1.95106 c 0,0.0542 0.0087,0.11606 0.0087,0.14701 0,0.0155 0,0.0155 -0.01734,0.0464 -0.0087,0.031 -0.05203,0.10059 0.05203,0.11607 0.702381,0.10833 1.023222,0.10833 1.847003,0.0232 0.0607,-0.008 0.06937,-0.0774 0.05203,-0.11606 0,-0.0155 -0.0087,-0.0309 -0.0087,-0.0464 z m -2.115815,-0.80472 h 2.306585 c -0.01734,0.0542 -0.03468,0.10833 -0.05203,0.16249 h -2.202529 c -0.01734,-0.0542 -0.03469,-0.10832 -0.05203,-0.16249"
-         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
+         d="m -514.33219,-108.53958 h 2.50704 c 0.0453,-0.15343 0.0905,-0.30689 0.10861,-0.39572 0.0272,-0.17767 0.0181,-0.61378 0,-0.72685 -0.0453,-0.19382 -0.19912,-0.45226 -0.30773,-0.67031 l -0.7512,0.46841 0.20816,0.11307 v 0.32304 l -0.47063,-0.27459 -0.44348,0.27459 v -0.32304 l 0.17196,-0.10499 -0.83266,-0.47649 c -0.0996,0.21805 -0.25342,0.47649 -0.29868,0.67031 -0.0181,0.11307 -0.0272,0.54918 0,0.72685 0.0181,0.0888 0.0634,0.24229 0.10861,0.39572 z m 0.15386,0.49265 c 0.0181,0.0646 0.0362,0.12921 0.0543,0.1696 h 2.09071 c 0.009,-0.0404 0.0272,-0.10499 0.0543,-0.1696 z m 0.38918,-3.23044 0.5702,-0.27458 -0.29868,-0.29882 -0.27152,0.19383 z m 0.43444,-0.63801 0.66974,0.63801 h 0.33488 v -0.35534 l -0.42538,-0.28267 z m -0.69691,0.41188 c 0.0815,-0.64608 0.96843,-0.69453 0.96843,-0.69453 0,0 0.89601,0.0485 0.96842,0.69453 0.0362,0.23421 -0.0453,0.70262 0,0.93683 0,0 0.009,0.009 0.009,0.009 l -0.93222,0.54916 -1.01368,-0.54916 c 0,0 0,-0.009 0,-0.009 0.0543,-0.23421 -0.0272,-0.70262 0,-0.93683 z m 1.97305,3.96537 c 0,-0.0566 0.009,-0.12115 0.0181,-0.17769 h -2.0364 c 0,0.0566 0.009,0.12114 0.009,0.15345 0,0.0162 0,0.0162 -0.0181,0.0484 -0.009,0.0323 -0.0543,0.10499 0.0543,0.12115 0.7331,0.11307 1.06798,0.11307 1.92779,0.0242 0.0634,-0.009 0.0724,-0.0808 0.0543,-0.12114 0,-0.0162 -0.009,-0.0322 -0.009,-0.0485 z m -2.20836,-0.83993 h 2.40747 c -0.0181,0.0566 -0.0362,0.11307 -0.0543,0.1696 h -2.29887 c -0.0181,-0.0566 -0.0362,-0.11306 -0.0543,-0.1696"
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.02485409"
          inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.29824904px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02485409"
+         x="-520.61017"
+         y="-104.6656"
+         id="text14375-8-2-3"><tspan
+           sodipodi:role="line"
+           x="-520.61017"
+           y="-104.6656"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.87537634px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.02485409"
+           id="tspan9997">G</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.29824904px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02485409"
+         x="-523.02393"
+         y="-104.67475"
+         id="text14375-8-2-3-0"><tspan
+           sodipodi:role="line"
+           x="-523.02393"
+           y="-104.67475"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.87537634px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.02485409"
+           id="tspan9997-6">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.29824904px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02485409"
+         x="-525.45825"
+         y="-104.66372"
+         id="text14375-8-2-3-0-5"><tspan
+           sodipodi:role="line"
+           x="-525.45825"
+           y="-104.66372"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.87537634px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.02485409"
+           id="tspan9997-6-1">S</tspan></text>
       <g
-         transform="matrix(0.0238125,0,0,0.0238125,65.118211,102.03212)"
-         id="g79682"
-         style="display:inline">
-        <g
-           id="g79640"
-           transform="translate(-5.5555555,237.5)">
-          <rect
-             ry="2.0766783"
-             transform="rotate(-90)"
-             rx="2.0766783"
-             y="349.60693"
-             x="-989.97864"
-             height="99.577477"
-             width="192.93941"
-             id="rect6749"
-             style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:7.65314722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <rect
-             ry="2.0766869"
-             transform="rotate(-90)"
-             rx="2.0766869"
-             y="448.81747"
-             x="-989.979"
-             height="99.578285"
-             width="192.9402"
-             id="rect6749-9"
-             style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:7.65235424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <rect
-             ry="2.0766871"
-             transform="rotate(-90)"
-             rx="2.0766871"
-             y="548.02844"
-             x="-989.97906"
-             height="99.578285"
-             width="192.9402"
-             id="rect6749-9-3"
-             style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:7.65235472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <circle
-             transform="matrix(8.5017124,0,0,8.5017124,565.10655,96.969414)"
-             id="path4180"
-             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             cx="-19.501408"
-             cy="88.399887"
-             r="4.3003101" />
-          <circle
-             transform="matrix(8.5017124,0,0,8.5017124,664.40187,96.969414)"
-             id="path4180-2"
-             style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             cx="-19.501408"
-             cy="88.399887"
-             r="4.3003101" />
-          <rect
-             ry="7.1444483"
-             rx="7.1444483"
-             y="811.95984"
-             x="561.34192"
-             height="73.120003"
-             width="73.120003"
-             id="rect4216"
-             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-          <g
-             transform="translate(0.69444444,-0.69443444)"
-             id="g4114">
-            <g
-               id="g3132"
-               transform="translate(-0.78573089,-0.78573089)">
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-                 height="31.65897"
-                 width="33.3386"
-                 y="-613.70831"
-                 x="833.33075"
-                 id="_x30_.1.5.0.0.6-7" />
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-                 height="16.284117"
-                 width="17.20562"
-                 y="-606.021"
-                 x="841.36096"
-                 id="_x30_.1.5.0.0.37-1" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-                 points="4.759,2.454 4.203,3.012 4.203,4.193 4.759,4.751 "
-                 id="_x30_.1.5.0.0.38-1" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-                 points="3.016,4.193 4.203,4.193 4.759,4.751 2.462,4.751 "
-                 id="_x30_.1.5.0.0.39-3" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-                 points="3.016,3.012 3.016,4.193 2.462,4.751 2.462,2.454 "
-                 id="_x30_.1.5.0.0.40-25" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-                 points="4.759,2.454 4.203,3.012 3.016,3.012 2.462,2.454 "
-                 id="_x30_.1.5.0.0.41-35" />
-            </g>
-            <g
-               id="g3154"
-               transform="translate(-0.78573089,-0.78573089)">
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-                 height="31.65897"
-                 width="33.3386"
-                 y="-415.3465"
-                 x="833.33075"
-                 id="_x30_.1.5.0.0.7-6-40" />
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-                 height="16.311668"
-                 width="17.20562"
-                 y="-407.64511"
-                 x="841.36096"
-                 id="_x30_.1.5.0.0.32-4-7" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-                 points="4.759,11.951 4.759,9.653 4.203,10.212 4.203,11.393 "
-                 id="_x30_.1.5.0.0.33-0-0" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-                 points="2.462,11.951 3.016,11.393 4.203,11.393 4.759,11.951 "
-                 id="_x30_.1.5.0.0.34-7-3" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-                 points="2.462,9.653 3.016,10.212 3.016,11.393 2.462,11.951 "
-                 id="_x30_.1.5.0.0.35-0-4" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-                 points="2.462,9.653 4.759,9.653 4.203,10.212 3.016,10.212 "
-                 id="_x30_.1.5.0.0.36-3-0" />
-            </g>
-            <g
-               id="g3140"
-               transform="translate(-0.78573089,-0.78573089)">
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-                 height="31.65897"
-                 width="33.3386"
-                 y="-514.52954"
-                 x="833.33075"
-                 id="_x30_.1.5.0.0.7-2" />
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-                 height="16.311668"
-                 width="17.20562"
-                 y="-506.82816"
-                 x="841.36096"
-                 id="_x30_.1.5.0.0.32-9" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-                 points="4.759,9.653 4.203,10.212 4.203,11.393 4.759,11.951 "
-                 id="_x30_.1.5.0.0.33-7" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-                 points="3.016,11.393 4.203,11.393 4.759,11.951 2.462,11.951 "
-                 id="_x30_.1.5.0.0.34-53" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-                 points="3.016,10.212 3.016,11.393 2.462,11.951 2.462,9.653 "
-                 id="_x30_.1.5.0.0.35-4" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-                 points="4.759,9.653 4.203,10.212 3.016,10.212 2.462,9.653 "
-                 id="_x30_.1.5.0.0.36-32" />
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-                 height="31.65897"
-                 width="33.3386"
-                 y="-514.52521"
-                 x="833.33075"
-                 id="_x30_.1.5.0.0.6-2-26" />
-              <rect
-                 transform="rotate(90)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-                 height="16.284117"
-                 width="17.20562"
-                 y="-506.83768"
-                 x="841.36096"
-                 id="_x30_.1.5.0.0.37-4-0" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-                 points="4.759,4.751 4.759,2.454 4.203,3.012 4.203,4.193 "
-                 id="_x30_.1.5.0.0.38-0-5" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-                 points="2.462,4.751 3.016,4.193 4.203,4.193 4.759,4.751 "
-                 id="_x30_.1.5.0.0.39-0-3" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-                 points="2.462,2.454 3.016,3.012 3.016,4.193 2.462,4.751 "
-                 id="_x30_.1.5.0.0.40-5-10" />
-              <polygon
-                 transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-                 style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-                 points="2.462,2.454 4.759,2.454 4.203,3.012 3.016,3.012 "
-                 id="_x30_.1.5.0.0.41-3-6" />
-            </g>
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-             x="573.56299"
-             y="967.5882"
-             id="text14375-8-2-3"><tspan
-               sodipodi:role="line"
-               x="573.56299"
-               y="967.5882"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.45545197px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start"
-               id="tspan9997">G</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-             x="476.44525"
-             y="967.21991"
-             id="text14375-8-2-3-0"><tspan
-               sodipodi:role="line"
-               x="476.44525"
-               y="967.21991"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.45545197px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start"
-               id="tspan9997-6">V</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-             x="377.55035"
-             y="966.71185"
-             id="text14375-8-2-3-0-5"><tspan
-               sodipodi:role="line"
-               x="377.55035"
-               y="966.71185"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.45545197px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start"
-               id="tspan9997-6-1">S</tspan></text>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.21895727,0,0,0.22859618,82.488896,98.154968)"
+         transform="matrix(0.22853472,0,0,0.23859525,-516.80956,-138.59282)"
          id="g20359-3-6-9-1-6-4"
          style="display:inline">
         <g
@@ -473,260 +603,41 @@
              id="rect11758-6-6-01-3-6-7" />
         </g>
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.29824904px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02485409"
+         x="-525.53302"
+         y="-127.05259"
+         id="text14375-8-2-3-3"><tspan
+           sodipodi:role="line"
+           x="-525.53302"
+           y="-127.05259"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.87537634px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.02485409"
+           id="tspan9997-12">G</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.29824904px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02485409"
+         x="-523.18915"
+         y="-127.0704"
+         id="text14375-8-2-3-3-1"><tspan
+           sodipodi:role="line"
+           x="-523.18915"
+           y="-127.0704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.87537634px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.02485409"
+           id="tspan9997-12-3">H</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:0.29824904px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02485409"
+         x="-520.51947"
+         y="-127.04045"
+         id="text14375-8-2-3-3-1-7"><tspan
+           sodipodi:role="line"
+           x="-520.51947"
+           y="-127.04045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.87537634px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start;stroke-width:0.02485409"
+           id="tspan9997-12-3-1">E</tspan></text>
       <g
-         id="g79746"
-         style="display:inline"
-         transform="matrix(0.0238125,0,0,0.0238125,65.184357,107.48915)">
-        <rect
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:7.65314722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect6749-8"
-           width="192.93941"
-           height="99.577477"
-           x="-2.0252357"
-           y="-648.99963"
-           rx="2.0766783"
-           transform="rotate(90)"
-           ry="2.0766783" />
-        <rect
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:7.65235424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect6749-9-8"
-           width="192.9402"
-           height="99.578285"
-           x="-2.0256019"
-           y="-549.78906"
-           rx="2.0766869"
-           transform="rotate(90)"
-           ry="2.0766869" />
-        <rect
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:none;stroke:#000000;stroke-width:7.65235472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect6749-9-3-2"
-           width="192.9402"
-           height="99.578285"
-           x="-2.0256629"
-           y="-450.57812"
-           rx="2.0766871"
-           transform="rotate(90)"
-           ry="2.0766871" />
-        <circle
-           style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4180-4"
-           transform="matrix(-8.5017124,0,0,-8.5017124,433.49999,890.98401)"
-           cx="-19.501408"
-           cy="88.399887"
-           r="4.3003101" />
-        <circle
-           style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path4180-2-5"
-           transform="matrix(-8.5017124,0,0,-8.5017124,334.20467,890.98401)"
-           cx="-19.501408"
-           cy="88.399887"
-           r="4.3003101" />
-        <rect
-           style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="rect4216-5"
-           width="73.120003"
-           height="73.120003"
-           x="-437.26465"
-           y="-175.99356"
-           rx="7.1444483"
-           ry="7.1444483"
-           transform="scale(-1)" />
-        <g
-           id="g4114-1"
-           transform="rotate(180,498.95605,494.32393)">
-          <g
-             transform="translate(-0.78573089,-0.78573089)"
-             id="g3132-7">
-            <rect
-               id="_x30_.1.5.0.0.6-7-1"
-               x="833.33075"
-               y="-613.70831"
-               width="33.3386"
-               height="31.65897"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <rect
-               id="_x30_.1.5.0.0.37-1-1"
-               x="841.36096"
-               y="-606.021"
-               width="17.20562"
-               height="16.284117"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <polygon
-               id="_x30_.1.5.0.0.38-1-5"
-               points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.39-3-2"
-               points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.40-25-7"
-               points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.41-35-6"
-               points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-          </g>
-          <g
-             transform="translate(-0.78573089,-0.78573089)"
-             id="g3154-1">
-            <rect
-               id="_x30_.1.5.0.0.7-6-40-4"
-               x="833.33075"
-               y="-415.3465"
-               width="33.3386"
-               height="31.65897"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <rect
-               id="_x30_.1.5.0.0.32-4-7-2"
-               x="841.36096"
-               y="-407.64511"
-               width="17.20562"
-               height="16.311668"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <polygon
-               id="_x30_.1.5.0.0.33-0-0-3"
-               points="4.759,9.653 4.203,10.212 4.203,11.393 4.759,11.951 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.34-7-3-2"
-               points="3.016,11.393 4.203,11.393 4.759,11.951 2.462,11.951 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.35-0-4-2"
-               points="3.016,10.212 3.016,11.393 2.462,11.951 2.462,9.653 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.36-3-0-1"
-               points="4.759,9.653 4.203,10.212 3.016,10.212 2.462,9.653 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-          </g>
-          <g
-             transform="translate(-0.78573089,-0.78573089)"
-             id="g3140-6">
-            <rect
-               id="_x30_.1.5.0.0.7-2-8"
-               x="833.33075"
-               y="-514.52954"
-               width="33.3386"
-               height="31.65897"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <rect
-               id="_x30_.1.5.0.0.32-9-5"
-               x="841.36096"
-               y="-506.82816"
-               width="17.20562"
-               height="16.311668"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <polygon
-               id="_x30_.1.5.0.0.33-7-7"
-               points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.34-53-6"
-               points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.35-4-1"
-               points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.36-32-8"
-               points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
-            <rect
-               id="_x30_.1.5.0.0.6-2-26-9"
-               x="833.33075"
-               y="-514.52521"
-               width="33.3386"
-               height="31.65897"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <rect
-               id="_x30_.1.5.0.0.37-4-0-2"
-               x="841.36096"
-               y="-506.83768"
-               width="17.20562"
-               height="16.284117"
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none"
-               transform="rotate(90)" />
-            <polygon
-               id="_x30_.1.5.0.0.38-0-5-7"
-               points="4.759,2.454 4.203,3.012 4.203,4.193 4.759,4.751 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.39-0-3-9"
-               points="3.016,4.193 4.203,4.193 4.759,4.751 2.462,4.751 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.40-5-10-5"
-               points="3.016,3.012 3.016,4.193 2.462,4.751 2.462,2.454 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-            <polygon
-               id="_x30_.1.5.0.0.41-3-6-4"
-               points="4.759,2.454 4.203,3.012 3.016,3.012 2.462,2.454 "
-               style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none"
-               transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
-          </g>
-        </g>
-        <text
-           id="text14375-8-2-3-3"
-           y="74.709343"
-           x="376.18912"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan9997-12"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.45545197px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start"
-             y="74.709343"
-             x="376.18912"
-             sodipodi:role="line">G</tspan></text>
-        <text
-           id="text14375-8-2-3-3-1"
-           y="71.616531"
-           x="470.01718"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan9997-12-3"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.45545197px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start"
-             y="71.616531"
-             x="470.01718"
-             sodipodi:role="line">H</tspan></text>
-        <text
-           id="text14375-8-2-3-3-1-7"
-           y="72.821259"
-           x="577.43335"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan9997-12-3-1"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.45545197px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;text-anchor:start"
-             y="72.821259"
-             x="577.43335"
-             sodipodi:role="line">E</tspan></text>
-      </g>
-      <g
-         transform="matrix(0.0238125,0,0,0.0238125,52.28592,105.83551)"
+         transform="matrix(0.02485409,0,0,0.02485409,-548.33365,-130.57633)"
          id="g107132"
          style="display:inline">
         <text
@@ -745,12 +656,12 @@
            id="g34174-8-8-6-2-3-2">
           <polygon
              id="_x30_.1.5.0.0.2-28-3-3-6-6-5"
-             points="0.001,1.556 0.001,5.489 0.001,8.83 0.001,12.762 1.509,14.274 5.442,14.274 6.955,12.762 6.955,8.83 6.955,5.489 6.955,1.556 5.442,0.045 1.509,0.045 "
+             points="5.442,14.274 6.955,12.762 6.955,8.83 6.955,5.489 6.955,1.556 5.442,0.045 1.509,0.045 0.001,1.556 0.001,5.489 0.001,8.83 0.001,12.762 1.509,14.274 "
              style="fill:#404040"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.5-9-9-4-5-3-4"
-             points="0.001,1.556 0.001,5.489 0.001,8.83 0.001,12.762 1.509,14.274 5.442,14.274 6.955,12.762 6.955,8.83 6.955,5.489 6.955,1.556 5.442,0.045 1.509,0.045 "
+             points="5.442,14.274 6.955,12.762 6.955,8.83 6.955,5.489 6.955,1.556 5.442,0.045 1.509,0.045 0.001,1.556 0.001,5.489 0.001,8.83 0.001,12.762 1.509,14.274 "
              style="fill:#404040"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <rect
@@ -779,22 +690,22 @@
              transform="rotate(90)" />
           <polygon
              id="_x30_.1.5.0.0.33-1-7-7-4-2-5"
-             points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
+             points="4.759,11.951 4.759,9.653 4.203,10.212 4.203,11.393 "
              style="fill:#b8af82"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.34-5-9-5-4-8-8"
-             points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
+             points="2.462,11.951 3.016,11.393 4.203,11.393 4.759,11.951 "
              style="fill:#80795b"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.35-86-9-8-2-0-2"
-             points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
+             points="2.462,9.653 3.016,10.212 3.016,11.393 2.462,11.951 "
              style="fill:#5e5b43"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.36-12-7-1-7-7-7"
-             points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
+             points="2.462,9.653 4.759,9.653 4.203,10.212 3.016,10.212 "
              style="fill:#9a916c"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <rect
@@ -807,28 +718,28 @@
              transform="rotate(90)" />
           <polygon
              id="_x30_.1.5.0.0.38-5-9-5-2-2-6"
-             points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
+             points="4.759,4.751 4.759,2.454 4.203,3.012 4.203,4.193 "
              style="fill:#b8af82"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.39-8-3-7-3-5-1"
-             points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
+             points="2.462,4.751 3.016,4.193 4.203,4.193 4.759,4.751 "
              style="fill:#80795b"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.40-6-5-4-7-9-7"
-             points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
+             points="2.462,2.454 3.016,3.012 3.016,4.193 2.462,4.751 "
              style="fill:#5e5b43"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
           <polygon
              id="_x30_.1.5.0.0.41-26-7-4-3-1-7"
-             points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
+             points="2.462,2.454 4.759,2.454 4.203,3.012 3.016,3.012 "
              style="fill:#9a916c"
              transform="matrix(0,3.5572447,-3.5572447,0,357.66161,1068.7026)" />
         </g>
       </g>
       <g
-         transform="matrix(0,0.36786042,-0.36437671,0,431.2191,103.56577)"
+         transform="matrix(0,0.38395106,-0.38031497,0,-152.82549,-132.94535)"
          style="display:inline"
          id="g55125-0">
         <g
@@ -860,7 +771,7 @@
         </g>
       </g>
       <g
-         transform="matrix(-0.25211702,0,0,-0.25000319,102.66128,172.66131)"
+         transform="matrix(-0.26314491,0,0,-0.26093862,-495.75482,-60.827492)"
          id="g15368-5"
          style="display:inline">
         <path
@@ -909,7 +820,7 @@
            transform="rotate(90)" />
       </g>
       <g
-         transform="matrix(0,0.36786042,-0.36437671,0,447.11415,87.588883)"
+         transform="matrix(0,0.38395106,-0.38031497,0,-136.23516,-149.62108)"
          style="display:inline"
          id="g55125-0-0">
         <g
@@ -945,7 +856,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.9644088,0,0,0.9644088,21.194196,-13.736341)"
+         transform="matrix(1.0065932,0,0,1.0065932,-580.78536,-255.37839)"
          id="g5806">
         <path
            inkscape:connector-curvature="0"
