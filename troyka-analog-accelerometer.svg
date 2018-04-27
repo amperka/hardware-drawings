@@ -18,6 +18,90 @@
    sodipodi:docname="troyka-analog-accelerometer.svg">
   <defs
      id="defs12857">
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5044"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondSstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondSstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5002"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5250"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5248"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5047"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4932"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4908"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
     <clipPath
        id="clipPath3149-1-0"
        clipPathUnits="userSpaceOnUse">
@@ -106,9 +190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="70.171464"
-     inkscape:cy="41.504001"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-107.72789"
+     inkscape:cy="-24.137054"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -127,9 +211,14 @@
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="13.608148,26.04912"
+       position="-1.683798,23.94735"
        orientation="0,1"
        id="guide6415"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.68695,6.2323913"
+       orientation="1,0"
+       id="guide5782"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -140,7 +229,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,7 +239,7 @@
      id="layer1"
      transform="translate(-87.115426,42.295572)">
     <g
-       id="g7160">
+       id="g6025">
       <path
          id="rect3082-1"
          d="m 88.781731,-42.216197 c 0,0.87846 -0.70847,1.58694 -1.58693,1.58694 v 22.07682 c 0.87846,0 1.58693,0.70847 1.58693,1.58693 h 22.076829 c 0,-0.87846 0.70848,-1.58693 1.58694,-1.58693 v -22.07682 c -0.87846,0 -1.58694,-0.70848 -1.58694,-1.58694 z"
@@ -363,22 +452,22 @@
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="4.759,2.454 4.203,3.012 4.203,4.193 4.759,4.751 "
+             points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
              id="_x30_.1.5.0.0.38-1-5-9" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="3.016,4.193 4.203,4.193 4.759,4.751 2.462,4.751 "
+             points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
              id="_x30_.1.5.0.0.39-3-2-2" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="3.016,3.012 3.016,4.193 2.462,4.751 2.462,2.454 "
+             points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
              id="_x30_.1.5.0.0.40-25-7-7" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="4.759,2.454 4.203,3.012 3.016,3.012 2.462,2.454 "
+             points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
              id="_x30_.1.5.0.0.41-35-6-2" />
         </g>
         <g
@@ -404,22 +493,22 @@
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="4.759,11.951 4.759,9.653 4.203,10.212 4.203,11.393 "
+             points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
              id="_x30_.1.5.0.0.33-0-0-3-5-9" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="2.462,11.951 3.016,11.393 4.203,11.393 4.759,11.951 "
+             points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
              id="_x30_.1.5.0.0.34-7-3-2-3-0" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="2.462,9.653 3.016,10.212 3.016,11.393 2.462,11.951 "
+             points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
              id="_x30_.1.5.0.0.35-0-4-2-5" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="2.462,9.653 4.759,9.653 4.203,10.212 3.016,10.212 "
+             points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
              id="_x30_.1.5.0.0.36-3-0-1-6" />
         </g>
         <g
@@ -445,22 +534,22 @@
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="4.759,9.653 4.203,10.212 4.203,11.393 4.759,11.951 "
+             points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
              id="_x30_.1.5.0.0.33-7-7-3" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="3.016,11.393 4.203,11.393 4.759,11.951 2.462,11.951 "
+             points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
              id="_x30_.1.5.0.0.34-53-6-9" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="3.016,10.212 3.016,11.393 2.462,11.951 2.462,9.653 "
+             points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
              id="_x30_.1.5.0.0.35-4-1-6-3" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="4.759,9.653 4.203,10.212 3.016,10.212 2.462,9.653 "
+             points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
              id="_x30_.1.5.0.0.36-32-8-9" />
           <rect
              transform="rotate(90)"
@@ -481,22 +570,22 @@
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="4.759,4.751 4.759,2.454 4.203,3.012 4.203,4.193 "
+             points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
              id="_x30_.1.5.0.0.38-0-5-7-3" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="2.462,4.751 3.016,4.193 4.203,4.193 4.759,4.751 "
+             points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
              id="_x30_.1.5.0.0.39-0-3-9-4" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="2.462,2.454 3.016,3.012 3.016,4.193 2.462,4.751 "
+             points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
              id="_x30_.1.5.0.0.40-5-10-5-1" />
           <polygon
              transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
              style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-             points="2.462,2.454 4.759,2.454 4.203,3.012 3.016,3.012 "
+             points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
              id="_x30_.1.5.0.0.41-3-6-4-0" />
         </g>
       </g>
@@ -1028,22 +1117,22 @@
                transform="rotate(90)" />
             <polygon
                id="_x30_.1.5.0.0.38-1-1"
-               points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
+               points="4.759,4.751 4.759,2.454 4.203,3.012 4.203,4.193 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.39-3-1"
-               points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
+               points="2.462,4.751 3.016,4.193 4.203,4.193 4.759,4.751 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.40-25-0"
-               points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
+               points="2.462,2.454 3.016,3.012 3.016,4.193 2.462,4.751 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.41-35-60"
-               points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
+               points="2.462,2.454 4.759,2.454 4.203,3.012 3.016,3.012 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
           </g>
@@ -1069,22 +1158,22 @@
                transform="rotate(90)" />
             <polygon
                id="_x30_.1.5.0.0.33-0-0-32"
-               points="4.759,9.653 4.203,10.212 4.203,11.393 4.759,11.951 "
+               points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.34-7-3-9"
-               points="3.016,11.393 4.203,11.393 4.759,11.951 2.462,11.951 "
+               points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.35-0-4-9"
-               points="3.016,10.212 3.016,11.393 2.462,11.951 2.462,9.653 "
+               points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.36-3-0-4"
-               points="4.759,9.653 4.203,10.212 3.016,10.212 2.462,9.653 "
+               points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
           </g>
@@ -1110,22 +1199,22 @@
                transform="rotate(90)" />
             <polygon
                id="_x30_.1.5.0.0.33-7-6"
-               points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
+               points="4.759,11.951 4.759,9.653 4.203,10.212 4.203,11.393 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.34-53-5"
-               points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
+               points="2.462,11.951 3.016,11.393 4.203,11.393 4.759,11.951 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.35-4-5-6"
-               points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
+               points="2.462,9.653 3.016,10.212 3.016,11.393 2.462,11.951 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.36-32-1"
-               points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
+               points="2.462,9.653 4.759,9.653 4.203,10.212 3.016,10.212 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)" />
             <rect
@@ -1146,22 +1235,22 @@
                transform="rotate(90)" />
             <polygon
                id="_x30_.1.5.0.0.38-0-5-1-2"
-               points="4.759,2.454 4.203,3.012 4.203,4.193 4.759,4.751 "
+               points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.39-0-3-91"
-               points="3.016,4.193 4.203,4.193 4.759,4.751 2.462,4.751 "
+               points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.40-5-10-2"
-               points="3.016,3.012 3.016,4.193 2.462,4.751 2.462,2.454 "
+               points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
             <polygon
                id="_x30_.1.5.0.0.41-3-6-43"
-               points="4.759,2.454 4.203,3.012 3.016,3.012 2.462,2.454 "
+               points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
                style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
                transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)" />
           </g>
@@ -1248,18 +1337,6 @@
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.14567459;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          cx="102.26692"
          cy="-23.606937" />
-      <text
-         transform="scale(-1.1373635,-0.87922639)"
-         id="text12095-2"
-         y="27.835981"
-         x="-88.854698"
-         style="font-style:normal;font-weight:normal;font-size:0.25883538px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02043812"
-         xml:space="preserve"><tspan
-           style="font-size:2.64781141px;line-height:1.25;font-family:sans-serif;stroke-width:0.02043812"
-           y="27.835981"
-           x="-88.854698"
-           id="tspan12097-1"
-           sodipodi:role="line">↓</tspan></text>
       <path
          sodipodi:open="true"
          sodipodi:end="3.1110379"
@@ -1297,18 +1374,6 @@
            x="103.3762"
            id="tspan8222-5-7"
            sodipodi:role="line">Z</tspan></text>
-      <text
-         transform="matrix(0,-1.1373635,0.87922639,0,0,0)"
-         id="text12095-2-3"
-         y="111.65045"
-         x="19.636202"
-         style="font-style:normal;font-weight:normal;font-size:0.25883538px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02043812;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:2.64781141px;line-height:1.25;font-family:sans-serif;stroke:none;stroke-width:0.02043812;stroke-opacity:1"
-           y="111.65045"
-           x="19.636202"
-           id="tspan12097-1-1"
-           sodipodi:role="line">↓</tspan></text>
       <path
          sodipodi:open="true"
          sodipodi:end="3.1110379"
@@ -1322,6 +1387,44 @@
          id="path12105-6-0"
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:type="arc" />
+      <g
+         transform="translate(13.660826,-4.4004103)"
+         id="g5780">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.127711,-20.117314 c 0,1.696316 0,1.737691 0,1.737691"
+           id="path4906"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.100076,-20.047176 c -0.443252,0.436485 -0.454062,0.447131 -0.454062,0.447131"
+           id="path4906-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.156019,-20.046401 c 0.443252,0.436485 0.454062,0.447131 0.454062,0.447131"
+           id="path4906-2-4"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="rotate(90,93.914823,-15.828146)"
+         id="g5780-4">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.127711,-20.117314 c 0,1.696316 0,1.737691 0,1.737691"
+           id="path4906-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.100076,-20.047176 c -0.443252,0.436485 -0.454062,0.447131 -0.454062,0.447131"
+           id="path4906-2-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.156019,-20.046401 c 0.443252,0.436485 0.454062,0.447131 0.454062,0.447131"
+           id="path4906-2-4-6"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>
