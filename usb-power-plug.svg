@@ -60,7 +60,7 @@
        x2="-673.54779"
        y2="303.84018"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.84899971,0,0,1.0120429,684.81356,-322.11455)" />
+       gradientTransform="matrix(0.84899971,0,0,1.0120429,684.10485,-285.30912)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4354">
@@ -82,7 +82,7 @@
        x2="-673.54779"
        y2="303.84018"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.84899971,0,0,1.0120429,459.43303,-322.11453)" />
+       gradientTransform="matrix(0.84899971,0,0,1.0120429,460.14173,-285.3091)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -91,9 +91,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="164.88117"
-     inkscape:cy="21.057521"
+     inkscape:zoom="3.959798"
+     inkscape:cx="35.205905"
+     inkscape:cy="47.84877"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,7 +105,8 @@
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true" />
   <metadata
      id="metadata4942">
     <rdf:RDF>
@@ -122,9 +123,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(10.976961,-104.36977)">
+     transform="translate(10.976961,-104.65514)">
     <g
-       id="g5618">
+       id="g4595">
       <g
          transform="matrix(0.23115422,0,0,0.26458333,194.27637,45.904306)"
          id="g12849">
@@ -161,49 +162,24 @@
              style="fill:#e6e6e6;fill-opacity:1;stroke:#e0e0d9;stroke-width:0.0443292;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
       </g>
-      <text
-         id="text1760"
-         y="111.61842"
-         x="7.8789034"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-         xml:space="preserve"><tspan
-           style="font-size:1.76388884px;text-align:start;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;"
-           y="111.61842"
-           x="7.8789034"
-           id="tspan1758"
-           sodipodi:role="line">Input: 110–240VAC</tspan><tspan
-           id="tspan1764"
-           style="font-size:1.76388884px;text-align:start;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;"
-           y="114.26426"
-           x="7.8789034"
-           sodipodi:role="line">Output: 5V</tspan><tspan
-           id="tspan1762"
-           style="text-align:start;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332;"
-           y="116.91009"
-           x="7.8789034"
-           sodipodi:role="line" /></text>
       <rect
-         transform="rotate(90)"
-         ry="0.52597618"
-         rx="0.4412398"
-         y="-22.556185"
-         x="104.98655"
-         height="15.88186"
-         width="7.7037516"
-         id="rect12708-1"
-         style="fill:url(#linearGradient4356);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61439818;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         y="106.01969"
+         x="-1.7653829"
+         height="13.051211"
+         width="8.2991514"
+         id="rect12708-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43443757;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         transform="matrix(0,-1,-1,0,0,0)"
-         ry="0.52597618"
-         rx="0.4412398"
-         y="-22.556185"
-         x="-120.39405"
-         height="15.88186"
-         width="7.7037516"
-         id="rect12708-1-7"
-         style="fill:url(#linearGradient4356-6);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61439818;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         ry="0.51971728"
+         rx="0.51971728"
+         y="104.70118"
+         x="6.6743135"
+         height="15.692872"
+         width="16.066475"
+         id="rect12708"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66282165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="matrix(1.0679328,0,0,1.1870172,738.5773,-268.21397)"
+         transform="matrix(1.0587995,0,0,1.2024453,732.31544,-273.20655)"
          id="g4790">
         <rect
            style="fill:url(#linearGradient4738);fill-opacity:1;stroke:none;stroke-width:0.33498093;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -222,22 +198,67 @@
            y="685.52179"
            transform="matrix(0,-1,-1,0,0,0)" />
       </g>
+      <g
+         transform="translate(36.990034,0.70870209)"
+         id="g4533">
+        <rect
+           style="fill:url(#linearGradient4356);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61439818;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect12708-1"
+           width="7.7037516"
+           height="15.88186"
+           x="104.27785"
+           y="14.249247"
+           rx="0.4412398"
+           ry="0.52597618"
+           transform="rotate(90)" />
+        <rect
+           style="fill:url(#linearGradient4356-6);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61439818;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect12708-1-7"
+           width="7.7037516"
+           height="15.88186"
+           x="-119.68535"
+           y="14.249247"
+           rx="0.4412398"
+           ry="0.52597618"
+           transform="matrix(0,-1,-1,0,0,0)" />
+      </g>
       <rect
-         y="106.01969"
-         x="-1.7653829"
+         y="106.06898"
+         x="-1.8138394"
          height="13.051211"
          width="8.2991514"
-         id="rect12708-4"
-         style="fill:none;fill-opacity:1;stroke:#bfbfbe;stroke-width:0.43443757;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect12708-4-7"
+         style="fill:none;fill-opacity:1;stroke:#bfbfbe;stroke-width:0.4344376;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          ry="0.51971728"
          rx="0.51971728"
-         y="104.70118"
-         x="6.6743135"
+         y="104.98655"
+         x="6.6743126"
          height="15.692872"
          width="16.066475"
-         id="rect12708"
+         id="rect12708-6"
          style="fill:none;fill-opacity:1;stroke:#d9dbdc;stroke-width:0.66282165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1760"
+         y="111.92191"
+         x="7.5399065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:1.76388884px;text-align:start;text-anchor:start;fill:#999999;stroke-width:0.26458332"
+           y="111.92191"
+           x="7.5399065"
+           id="tspan1758"
+           sodipodi:role="line">Input: 110–240VAC</tspan><tspan
+           id="tspan1764"
+           style="font-size:1.76388884px;text-align:start;text-anchor:start;fill:#999999;stroke-width:0.26458332"
+           y="114.56775"
+           x="7.5399065"
+           sodipodi:role="line">Output: 5V</tspan><tspan
+           id="tspan1762"
+           style="text-align:start;text-anchor:start;fill:#999999;stroke-width:0.26458332"
+           y="117.21358"
+           x="7.5399065"
+           sodipodi:role="line" /></text>
     </g>
   </g>
 </svg>
