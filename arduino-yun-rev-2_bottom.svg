@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.337872mm"
-   height="75.37291mm"
-   viewBox="0 0 53.337872 75.37291"
+   width="75.37291mm"
+   height="53.337872mm"
+   viewBox="0 0 75.37291 53.337872"
    version="1.1"
    id="svg179949"
    inkscape:version="0.92.1 r15371"
@@ -146,9 +146,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="195.35313"
-     inkscape:cy="24.739947"
+     inkscape:zoom="1.4"
+     inkscape:cx="228.52011"
+     inkscape:cy="-64.022722"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -156,8 +156,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -177,9 +177,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(215.65701,-43.867117)">
+     transform="translate(226.67453,-54.884633)">
     <g
-       id="g188229">
+       id="g188229"
+       transform="rotate(90,-188.98807,81.553573)">
       <g
          style="opacity:1;stroke-width:0.9902094"
          transform="matrix(1,0,0,1.0198725,-330.78864,-34.16129)"
@@ -1360,7 +1361,7 @@
         <polygon
            transform="matrix(0,0.38319736,-0.37591209,0,2.422831,109.44929)"
            id="0.1.40.0"
-           points="17.16,15.892 17.16,34.737 0.035,34.735 0.035,15.892 "
+           points="0.035,15.892 17.16,15.892 17.16,34.737 0.035,34.735 "
            style="fill:#b3b3b3;stroke:#000000;stroke-width:0.06971209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <rect
            transform="rotate(90)"
@@ -1444,12 +1445,12 @@
         <polygon
            transform="matrix(0,0.38319736,-0.37591209,0,2.422831,109.44929)"
            id="0.1.40.12"
-           points="16.593,15.661 16.593,17.191 0.151,16.066 0.151,15.661 "
+           points="0.151,15.661 16.593,15.661 16.593,17.191 0.151,16.066 "
            style="fill:#f2f2f2;stroke:#000000;stroke-width:0.06971209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <polygon
            transform="matrix(0,0.38319736,-0.37591209,0,2.422831,109.44929)"
            id="0.1.40.13"
-           points="16.593,33.799 16.593,34.936 0.151,34.936 11.129,34.368 "
+           points="11.129,34.368 16.593,33.799 16.593,34.936 0.151,34.936 "
            style="fill:#999999;stroke:#000000;stroke-width:0.06971209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <rect
            transform="rotate(90)"
