@@ -1,1263 +1,267 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="troyka-5mm-led-module-yellow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.4mm" height="25.4mm" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f2;
+        stroke-miterlimit: 1;
+        stroke-width: 0.43px;
+      }
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="25.409439mm"
-   height="25.409435mm"
-   viewBox="0 0 25.409439 25.409435"
-   version="1.1"
-   id="svg29209"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="troyka-5mm-led-module_yellow.svg">
-  <defs
-     id="defs29203">
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient16594"
-       id="radialGradient16596"
-       cx="136.09544"
-       cy="126.41506"
-       fx="136.09544"
-       fy="126.41506"
-       r="6.18151"
-       gradientTransform="matrix(1,0,0,1.0195155,9.3549107,-14.278814)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient16594">
-      <stop
-         style="stop-color:#ffff00;stop-opacity:1;"
-         offset="0"
-         id="stop16590" />
-      <stop
-         style="stop-color:#ffff00;stop-opacity:0;"
-         offset="1"
-         id="stop16592" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient24179"
-       id="radialGradient16568"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.14805829,0,0,0.15097595,200.6798,119.75113)"
-       cx="-373.02515"
-       cy="-34.09721"
-       fx="-373.02515"
-       fy="-34.09721"
-       r="41.346596" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient24179">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop24181" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop24183" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient16594"
-       id="radialGradient16588"
-       cx="-145.16219"
-       cy="-114.54749"
-       fx="-145.16219"
-       fy="-114.54749"
-       r="10.072744"
-       gradientTransform="matrix(1,0,0,0.73083271,0,-30.832438)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient24179"
-       id="radialGradient16572"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.16848953,0.01267863,-0.00343016,0.16204512,-82.428402,-104.29274)"
-       cx="-373.02515"
-       cy="-34.09721"
-       fx="-373.02515"
-       fy="-34.09721"
-       r="41.346596" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient16594"
-       id="radialGradient16604"
-       cx="-165.45839"
-       cy="-130.5417"
-       fx="-165.45839"
-       fy="-130.5417"
-       r="5.0174289"
-       gradientTransform="matrix(1,0,0,1.0730671,20.032738,25.507801)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10456"
-       id="radialGradient16576"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(5.8293519,0,0,1.3561834,-1267.2427,231.52373)"
-       cx="15.790983"
-       cy="192.44286"
-       fx="15.790983"
-       fy="192.44286"
-       r="1.7997853" />
-    <linearGradient
-       id="linearGradient10456"
-       inkscape:collect="always">
-      <stop
-         id="stop10450"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1" />
-      <stop
-         style="stop-color:#02dd55;stop-opacity:1"
-         offset="0.55881912"
-         id="stop10452" />
-      <stop
-         id="stop10454"
-         offset="1"
-         style="stop-color:#00dd55;stop-opacity:0" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10507"
-       id="radialGradient16578"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.2174113,0,0,3.2156846,-972.70483,-59.966648)"
-       cx="196.13083"
-       cy="-16.819706"
-       fx="196.13083"
-       fy="-16.819706"
-       r="0.97593349" />
-    <linearGradient
-       id="linearGradient10507"
-       inkscape:collect="always">
-      <stop
-         id="stop10503"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop10505"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient24179"
-       id="radialGradient16580"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.06873748,-8.3751149e-4,0.00243099,0.05027001,-119.81686,-112.65186)"
-       cx="-373.02515"
-       cy="-34.09721"
-       fx="-373.02515"
-       fy="-34.09721"
-       r="41.346596" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3453-2-9-0-3-2">
-      <path
-         d="m 79.3516,70.2334 h 8.291 V 18.4463 h -8.291 z"
-         id="path3455-7-3-1-9-9"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3457-8-6-6-9-0">
-      <path
-         d="m 79.3516,70.2334 h 8.291 V 18.4463 h -8.291 z"
-         id="path3459-85-5-4-7-7"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3377-47-1-78-0-5">
-      <path
-         d="m 52.7187,88.6362 h 3.2657 v -7.6049 h -3.2657 z"
-         id="path3379-68-3-3-7-4"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3381-2-9-5-3-1">
-      <path
-         d="m 52.7187,88.6362 h 3.2657 v -7.6049 h -3.2657 z"
-         id="path3383-30-3-12-0-0"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3349-8-6-5-8-4">
-      <path
-         d="m 43.4316,88.603 h 3.9893 v -7.605 h -3.9893 z"
-         id="path3351-3-9-0-0-5"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3353-57-8-9-2-3">
-      <path
-         d="m 43.4316,88.603 h 3.9893 v -7.605 h -3.9893 z"
-         id="path3355-1-0-4-6-3"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3321-7-1-38-7-4">
-      <path
-         d="m 34.0879,88.6362 h 4.5928 v -7.6049 h -4.5928 z"
-         id="path3323-41-3-0-2-5"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath3325-2-8-1-2-0">
-      <path
-         d="m 34.0879,88.6362 h 4.5928 v -7.6049 h -4.5928 z"
-         id="path3327-1-1-2-5-5"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
-       x1="0"
-       y1="0"
-       x2="1"
-       y2="0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-5.5e-6,-125.77148,-125.77148,5.5e-6,251.78662,354.37646)"
-       spreadMethod="pad"
-       id="linearGradient8907">
-      <stop
-         style="stop-opacity:1;stop-color:#f1f2f2"
-         offset="0"
-         id="stop8901" />
-      <stop
-         style="stop-opacity:1;stop-color:#414042"
-         offset="0.97400384"
-         id="stop8903" />
-      <stop
-         style="stop-opacity:1;stop-color:#414042"
-         offset="1"
-         id="stop8905" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8917">
-      <path
-         d="M 135.932,28.184 H 681.563 V 565.077 H 135.932 Z"
-         id="path8915"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8929">
-      <path
-         d="m 190.574,291.494 c 0,-33.422 27.351,-60.514 61.091,-60.514 v 0 c 25.464,0 47.288,15.428 56.465,37.362 v 0 c -5.39,2.21 -10.779,4.419 -16.169,6.631 v 0 c -7.129,2.922 -14.256,5.843 -21.383,8.765 v 0 c -6.305,2.586 -12.609,5.168 -18.913,7.752 v 0 c 6.304,-2.584 12.608,-5.166 18.913,-7.752 v 0 c 7.127,-2.922 14.254,-5.843 21.383,-8.765 v 0 c 5.39,-2.212 10.779,-4.421 16.169,-6.631 v 0 c 2.984,7.131 4.631,14.951 4.631,23.152 v 0 c 0,33.416 -27.352,60.51 -61.096,60.51 v 0 c -33.74,0 -61.091,-27.094 -61.091,-60.51"
-         id="path8927-2"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath9567">
-      <path
-         d="M 135.932,28.184 H 681.563 V 565.077 H 135.932 Z"
-         id="path9565"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath9575">
-      <path
-         d="m 214.416,328.828 h 74.742 v -74.674 h -74.742 z"
-         id="path9573"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath9591">
-      <path
-         d="M 213.913,329.328 H 289.66 V 253.654 H 213.913 Z"
-         id="path9589"
-         inkscape:connector-curvature="0" />
-    </clipPath>
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-20 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 0.28px;
+      }
+
+      .cls-3 {
+        fill: #666;
+      }
+
+      .cls-4 {
+        fill: #8d8c8c;
+      }
+
+      .cls-5 {
+        fill: #8c8663;
+      }
+
+      .cls-6 {
+        fill: #b8af82;
+      }
+
+      .cls-7 {
+        fill: #80795b;
+      }
+
+      .cls-8 {
+        fill: #5e5b43;
+      }
+
+      .cls-9 {
+        fill: #9a916c;
+      }
+
+      .cls-10, .cls-11, .cls-18, .cls-19, .cls-21, .cls-22, .cls-23, .cls-24 {
+        isolation: isolate;
+      }
+
+      .cls-11 {
+        font-size: 5.41px;
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-12 {
+        fill: #404040;
+      }
+
+      .cls-13 {
+        fill: #b3b3b3;
+      }
+
+      .cls-14 {
+        fill: gray;
+      }
+
+      .cls-15 {
+        fill: #1a1a1a;
+      }
+
+      .cls-16 {
+        fill: #8c8c8c;
+      }
+
+      .cls-17 {
+        fill: #ff0;
+      }
+
+      .cls-18 {
+        fill: #fe0;
+        opacity: 0.5;
+      }
+
+      .cls-19 {
+        fill: #fff;
+        opacity: 0.6;
+      }
+
+      .cls-20 {
+        stroke: #fff000;
+        stroke-width: 0.2px;
+      }
+
+      .cls-20, .cls-21, .cls-23, .cls-24 {
+        stroke-linecap: round;
+      }
+
+      .cls-21 {
+        stroke-width: 0.12px;
+        fill: url(#Безымянный_градиент);
+        stroke: url(#Безымянный_градиент_2);
+      }
+
+      .cls-21, .cls-22, .cls-23 {
+        opacity: 0.46;
+      }
+
+      .cls-22 {
+        fill: url(#Безымянный_градиент_3);
+      }
+
+      .cls-23 {
+        stroke-width: 0.27px;
+        fill: url(#Безымянный_градиент_5);
+        stroke: url(#Безымянный_градиент_6);
+      }
+
+      .cls-24 {
+        stroke-width: 0.07px;
+        opacity: 0.39;
+        fill: url(#Безымянный_градиент_7);
+        stroke: url(#Безымянный_градиент_8);
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент" data-name="Безымянный градиент" cx="-60.01" cy="145.74" r="6.18" gradientTransform="matrix(2.83, 0, 0, -2.89, 204.81, 455.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff0"/>
+      <stop offset="1" stop-color="#ff0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_2" data-name="Безымянный градиент 2" cx="45.93" cy="-296.91" r="41.35" gradientTransform="matrix(0.42, 0, 0, -0.43, 15.42, -92.34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_3" data-name="Безымянный градиент 3" cx="-555.05" cy="637.81" r="10.07" gradientTransform="matrix(-2.83, 0, 0, 2.07, -1539.5, -1286.74)" xlink:href="#Безымянный_градиент"/>
+    <radialGradient id="Безымянный_градиент_5" data-name="Безымянный градиент 5" cx="-575.35" cy="607.15" r="5.02" gradientTransform="matrix(-2.83, 0, 0, 3.04, -1596.29, -1812.18)" xlink:href="#Безымянный_градиент"/>
+    <radialGradient id="Безымянный_градиент_6" data-name="Безымянный градиент 6" cx="-305.55" cy="263.38" r="1.8" gradientTransform="matrix(-16.52, 0, 0, 3.84, -2095.23, -2698.72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="0.56" stop-color="#02dd55"/>
+      <stop offset="1" stop-color="#0d5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_7" data-name="Безымянный градиент 7" cx="-132.21" cy="427.06" r="0.98" gradientTransform="matrix(-11.95, 0, 0, 9.12, -1545.65, -3859.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_8" data-name="Безымянный градиент 8" cx="-2155.02" cy="2562.09" r="41.35" gradientTransform="matrix(-0.19, 0, 0.01, 0.14, -402.6, -326.81)" xlink:href="#Безымянный_градиент_2"/>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-25.599007"
-     inkscape:cy="7.0435359"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata29206">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(302.99044,-83.967899)">
-    <path
-       id="path16926"
-       d="m -301.32413,84.047274 c 0,0.87846 -0.70847,1.58694 -1.58693,1.58694 v 22.076816 c 0.87846,0 1.58693,0.70847 1.58693,1.58693 h 22.07682 c 0,-0.87846 0.70848,-1.58693 1.58694,-1.58693 V 85.634214 c -0.87846,0 -1.58694,-0.70848 -1.58694,-1.58694 z"
-       style="display:inline;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15875003;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       ry="0.049450915"
-       transform="rotate(-90)"
-       rx="0.049450915"
-       y="-294.10077"
-       x="-109.22781"
-       height="2.5144005"
-       width="4.8718543"
-       id="rect16928"
-       style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18224059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       ry="0.049451116"
-       transform="rotate(-90)"
-       rx="0.049451116"
-       y="-291.59564"
-       x="-109.22783"
-       height="2.514421"
-       width="4.8718739"
-       id="rect16930"
-       style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.1822217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       ry="0.049451116"
-       transform="rotate(-90)"
-       rx="0.049451116"
-       y="-289.09048"
-       x="-109.22783"
-       height="2.514421"
-       width="4.8718739"
-       id="rect16932"
-       style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18222171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       id="circle16934"
-       style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
-       cx="-292.8457"
-       cy="105.65588"
-       r="0.92316538"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       id="circle16936"
-       style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
-       cx="-290.33844"
-       cy="105.65588"
-       r="0.92316538"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       ry="0.17012718"
-       rx="0.17012718"
-       y="104.73271"
-       x="-288.75433"
-       height="1.8463308"
-       width="1.8463308"
-       id="rect16938"
-       style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <g
-       transform="matrix(0.02525069,0,0,0.02525069,-302.91106,84.212633)"
-       id="g16994"
-       style="display:inline;stroke-width:0.94304347"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <g
-         id="g16952"
-         transform="translate(-0.78573089,-0.78573089)"
-         style="stroke-width:0.94304347">
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-613.70831"
-           x="833.33075"
-           id="rect16940" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.284117"
-           width="17.20562"
-           y="-606.021"
-           x="841.36096"
-           id="rect16942" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
-           id="polygon16944" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
-           id="polygon16946" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
-           id="polygon16948" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
-           id="polygon16950" />
+  <title>troyka-5mm-led-module_yellow</title>
+  <g id="all">
+    <path id="troyka-oneunit" class="cls-1" d="M4.72.23A4.48,4.48,0,0,1,.23,4.72V67.3a4.49,4.49,0,0,1,4.49,4.5H67.3a4.49,4.49,0,0,1,4.5-4.5V4.72A4.49,4.49,0,0,1,67.3.23Z" transform="translate(-0.01 -0.01)"/>
+    <g id="troyka-pin1">
+      <rect id="rect16996" class="cls-2" x="39.49" y="0.3" width="7.13" height="13.81" rx="0.14" ry="0.14"/>
+      <rect id="rect16998" class="cls-2" x="32.39" y="0.3" width="7.13" height="13.81" rx="0.14" ry="0.14"/>
+      <rect id="rect17000" class="cls-2" x="25.29" y="0.3" width="7.13" height="13.81" rx="0.14" ry="0.14"/>
+      <circle id="circle17002" class="cls-3" cx="43.06" cy="10.43" r="2.62"/>
+      <circle id="circle17004" class="cls-3" cx="35.95" cy="10.43" r="2.62"/>
+      <rect id="rect17006" class="cls-3" x="26.23" y="7.81" width="5.23" height="5.23" rx="0.48" ry="0.48"/>
+      <rect id="rect17008" class="cls-4" x="27.72" y="9.24" width="2.27" height="2.39"/>
+      <rect id="rect17010" class="cls-5" x="28.27" y="9.82" width="1.17" height="1.23"/>
+      <polygon id="polygon17012" class="cls-6" points="29.98 9.24 27.72 9.24 28.27 9.82 29.43 9.82 29.98 9.24"/>
+      <polygon id="polygon17014" class="cls-7" points="29.98 11.62 29.43 11.05 29.43 9.82 29.98 9.24 29.98 11.62"/>
+      <polygon id="polygon17016" class="cls-8" points="27.72 11.62 28.27 11.05 29.43 11.05 29.98 11.62 27.72 11.62"/>
+      <polygon id="polygon17018" class="cls-9" points="27.72 11.62 27.72 9.24 28.27 9.82 28.27 11.05 27.72 11.62"/>
+      <rect id="rect17022" class="cls-4" x="41.92" y="9.24" width="2.27" height="2.39"/>
+      <rect id="rect17024" class="cls-5" x="42.47" y="9.82" width="1.17" height="1.23"/>
+      <polygon id="polygon17026" class="cls-6" points="43.63 9.82 44.18 9.24 41.92 9.24 42.47 9.82 43.63 9.82"/>
+      <polygon id="polygon17028" class="cls-7" points="44.18 9.24 44.18 11.62 43.63 11.05 43.63 9.82 44.18 9.24"/>
+      <polygon id="polygon17030" class="cls-8" points="44.18 11.62 41.92 11.62 42.47 11.05 43.63 11.05 44.18 11.62"/>
+      <polygon id="polygon17032" class="cls-9" points="42.47 11.05 41.92 11.62 41.92 9.24 42.47 9.82 42.47 11.05"/>
+      <rect id="rect17036" class="cls-4" x="34.82" y="9.24" width="2.27" height="2.39"/>
+      <rect id="rect17038" class="cls-5" x="35.37" y="9.82" width="1.17" height="1.23"/>
+      <polygon id="polygon17040" class="cls-6" points="37.08 9.24 34.82 9.24 35.37 9.82 36.53 9.82 37.08 9.24"/>
+      <polygon id="polygon17042" class="cls-7" points="37.08 11.62 36.53 11.05 36.53 9.82 37.08 9.24 37.08 11.62"/>
+      <polygon id="polygon17044" class="cls-8" points="34.82 11.62 35.37 11.05 36.53 11.05 37.08 11.62 34.82 11.62"/>
+      <polygon id="polygon17046" class="cls-9" points="34.82 11.62 34.82 9.24 35.37 9.82 35.37 11.05 34.82 11.62"/>
+      <rect id="rect17048" class="cls-4" x="34.82" y="9.24" width="2.27" height="2.39"/>
+      <rect id="rect17050" class="cls-5" x="35.37" y="9.82" width="1.17" height="1.23"/>
+      <polygon id="polygon17052" class="cls-6" points="36.53 9.82 37.08 9.24 34.82 9.24 35.37 9.82 36.53 9.82"/>
+      <polygon id="polygon17054" class="cls-7" points="37.08 9.24 37.08 11.62 36.53 11.05 36.53 9.82 37.08 9.24"/>
+      <polygon id="polygon17056" class="cls-8" points="37.08 11.62 34.82 11.62 35.37 11.05 36.53 11.05 37.08 11.62"/>
+      <polygon id="polygon17058" class="cls-9" points="35.37 11.05 34.82 11.62 34.82 9.24 35.37 9.82 35.37 11.05"/>
+    </g>
+    <g id="troyka-pin2">
+      <rect id="rect16928" class="cls-2" x="25.19" y="57.78" width="7.13" height="13.81" rx="0.14" ry="0.14"/>
+      <rect id="rect16930" class="cls-2" x="32.29" y="57.78" width="7.13" height="13.81" rx="0.14" ry="0.14"/>
+      <rect id="rect16932" class="cls-2" x="39.39" y="57.78" width="7.13" height="13.81" rx="0.14" ry="0.14"/>
+      <circle id="circle16934" class="cls-3" cx="28.74" cy="61.47" r="2.62"/>
+      <circle id="circle16936" class="cls-3" cx="35.85" cy="61.47" r="2.62"/>
+      <rect id="rect16938" class="cls-3" x="40.34" y="58.85" width="5.23" height="5.23" rx="0.48" ry="0.48"/>
+      <rect id="rect16940" class="cls-4" x="41.82" y="60.27" width="2.27" height="2.39"/>
+      <rect id="rect16942" class="cls-5" x="42.37" y="60.85" width="1.17" height="1.23"/>
+      <polygon id="polygon16944" class="cls-6" points="42.37 62.08 41.82 62.66 44.08 62.66 43.53 62.08 42.37 62.08"/>
+      <polygon id="polygon16946" class="cls-7" points="41.82 62.66 41.82 60.27 42.37 60.85 42.37 62.08 41.82 62.66"/>
+      <polygon id="polygon16948" class="cls-8" points="41.82 60.27 44.08 60.27 43.53 60.85 42.37 60.85 41.82 60.27"/>
+      <polygon id="polygon16950" class="cls-9" points="43.53 60.85 44.08 60.27 44.08 62.66 43.53 62.08 43.53 60.85"/>
+      <rect id="rect16954" class="cls-4" x="27.62" y="60.27" width="2.27" height="2.39"/>
+      <rect id="rect16956" class="cls-5" x="28.17" y="60.85" width="1.17" height="1.23"/>
+      <polygon id="polygon16958" class="cls-6" points="29.33 62.08 28.17 62.08 27.62 62.66 29.89 62.66 29.33 62.08"/>
+      <polygon id="polygon16960" class="cls-7" points="28.17 62.08 27.62 62.66 27.62 60.27 28.17 60.85 28.17 62.08"/>
+      <polygon id="polygon16962" class="cls-8" points="28.17 60.85 27.62 60.27 29.89 60.27 29.33 60.85 28.17 60.85"/>
+      <polygon id="polygon16964" class="cls-9" points="29.33 62.08 29.33 60.85 29.89 60.27 29.89 62.66 29.33 62.08"/>
+      <rect id="rect16968" class="cls-4" x="34.72" y="60.27" width="2.27" height="2.39"/>
+      <rect id="rect16970" class="cls-5" x="35.27" y="60.85" width="1.17" height="1.23"/>
+      <polygon id="polygon16972" class="cls-6" points="35.27 62.08 34.72 62.66 36.98 62.66 36.43 62.08 35.27 62.08"/>
+      <polygon id="polygon16974" class="cls-7" points="34.72 62.66 34.72 60.27 35.27 60.85 35.27 62.08 34.72 62.66"/>
+      <polygon id="polygon16976" class="cls-8" points="34.72 60.27 36.98 60.27 36.43 60.85 35.27 60.85 34.72 60.27"/>
+      <polygon id="polygon16978" class="cls-9" points="36.43 60.85 36.98 60.27 36.98 62.66 36.43 62.08 36.43 60.85"/>
+      <rect id="rect16980" class="cls-4" x="34.72" y="60.27" width="2.27" height="2.39"/>
+      <rect id="rect16982" class="cls-5" x="35.27" y="60.85" width="1.17" height="1.23"/>
+      <polygon id="polygon16984" class="cls-6" points="36.43 62.08 35.27 62.08 34.72 62.66 36.98 62.66 36.43 62.08"/>
+      <polygon id="polygon16986" class="cls-7" points="35.27 62.08 34.72 62.66 34.72 60.27 35.27 60.85 35.27 62.08"/>
+      <polygon id="polygon16988" class="cls-8" points="35.27 60.85 34.72 60.27 36.98 60.27 36.43 60.85 35.27 60.85"/>
+      <polygon id="polygon16990" class="cls-9" points="36.43 62.08 36.43 60.85 36.98 60.27 36.98 62.66 36.43 62.08"/>
+      <g id="text17070" class="cls-10">
+        <text class="cls-11" transform="translate(41.38 69.39)">G</text>
       </g>
-      <g
-         id="g16966"
-         transform="translate(-0.78573089,-0.78573089)"
-         style="stroke-width:0.94304347">
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-415.3465"
-           x="833.33075"
-           id="rect16954" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.311668"
-           width="17.20562"
-           y="-407.64511"
-           x="841.36096"
-           id="rect16956" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,10.212 4.203,11.393 4.759,11.951 4.759,9.653 "
-           id="polygon16958" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,11.393 4.759,11.951 2.462,11.951 3.016,11.393 "
-           id="polygon16960" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="3.016,11.393 2.462,11.951 2.462,9.653 3.016,10.212 "
-           id="polygon16962" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,10.212 3.016,10.212 2.462,9.653 4.759,9.653 "
-           id="polygon16964" />
+      <g id="text17090" class="cls-10">
+        <text class="cls-11" transform="translate(34.43 69.36)">V</text>
       </g>
-      <g
-         id="g16992"
-         transform="translate(-0.78573089,-0.78573089)"
-         style="stroke-width:0.94304347">
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-514.52954"
-           x="833.33075"
-           id="rect16968" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.311668"
-           width="17.20562"
-           y="-506.82816"
-           x="841.36096"
-           id="rect16970" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
-           id="polygon16972" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
-           id="polygon16974" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
-           id="polygon16976" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
-           id="polygon16978" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-514.52521"
-           x="833.33075"
-           id="rect16980" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.284117"
-           width="17.20562"
-           y="-506.83768"
-           x="841.36096"
-           id="rect16982" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,3.012 4.203,4.193 4.759,4.751 4.759,2.454 "
-           id="polygon16984" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,4.193 4.759,4.751 2.462,4.751 3.016,4.193 "
-           id="polygon16986" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="3.016,4.193 2.462,4.751 2.462,2.454 3.016,3.012 "
-           id="polygon16988" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,3.012 3.016,3.012 2.462,2.454 4.759,2.454 "
-           id="polygon16990" />
+      <g id="text17110" class="cls-10">
+        <text class="cls-11" transform="translate(27.61 69.39)">S</text>
       </g>
     </g>
-    <rect
-       ry="0.049450915"
-       transform="rotate(90)"
-       rx="0.049450915"
-       y="286.54089"
-       x="84.079819"
-       height="2.5144005"
-       width="4.8718543"
-       id="rect16996"
-       style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18224059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       ry="0.049451116"
-       transform="rotate(90)"
-       rx="0.049451116"
-       y="289.04605"
-       x="84.079803"
-       height="2.514421"
-       width="4.8718739"
-       id="rect16998"
-       style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.1822217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       ry="0.049451116"
-       transform="rotate(90)"
-       rx="0.049451116"
-       y="291.55118"
-       x="84.079803"
-       height="2.514421"
-       width="4.8718739"
-       id="rect17000"
-       style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:none;stroke:#000000;stroke-width:0.18222171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       transform="scale(-1)"
-       id="circle17002"
-       style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
-       cx="287.79596"
-       cy="-87.651749"
-       r="0.92316538"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       transform="scale(-1)"
-       id="circle17004"
-       style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20244706"
-       cx="290.30325"
-       cy="-87.651749"
-       r="0.92316538"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <rect
-       transform="scale(-1)"
-       ry="0.1701272"
-       rx="0.1701272"
-       y="-88.574905"
-       x="291.88736"
-       height="1.846331"
-       width="1.846331"
-       id="rect17006"
-       style="display:inline;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0238125"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <g
-       transform="matrix(-0.02525069,0,0,-0.02525069,-277.73062,109.095)"
-       id="g17062"
-       style="display:inline;stroke-width:0.94304347"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <g
-         id="g17020"
-         transform="translate(-0.78573089,-0.78573089)"
-         style="stroke-width:0.94304347">
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-613.70831"
-           x="833.33075"
-           id="rect17008" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.284117"
-           width="17.20562"
-           y="-606.021"
-           x="841.36096"
-           id="rect17010" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.759,4.751 4.759,2.454 4.203,3.012 4.203,4.193 "
-           id="polygon17012" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,4.751 3.016,4.193 4.203,4.193 4.759,4.751 "
-           id="polygon17014" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,2.454 3.016,3.012 3.016,4.193 2.462,4.751 "
-           id="polygon17016" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,2.454 4.759,2.454 4.203,3.012 3.016,3.012 "
-           id="polygon17018" />
-      </g>
-      <g
-         id="g17034"
-         transform="translate(-0.78573089,-0.78573089)"
-         style="stroke-width:0.94304347">
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-415.3465"
-           x="833.33075"
-           id="rect17022" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.311668"
-           width="17.20562"
-           y="-407.64511"
-           x="841.36096"
-           id="rect17024" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,11.393 4.759,11.951 4.759,9.653 4.203,10.212 "
-           id="polygon17026" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.759,11.951 2.462,11.951 3.016,11.393 4.203,11.393 "
-           id="polygon17028" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,11.951 2.462,9.653 3.016,10.212 3.016,11.393 "
-           id="polygon17030" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="3.016,10.212 2.462,9.653 4.759,9.653 4.203,10.212 "
-           id="polygon17032" />
-      </g>
-      <g
-         id="g17060"
-         transform="translate(-0.78573089,-0.78573089)"
-         style="stroke-width:0.94304347">
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-514.52954"
-           x="833.33075"
-           id="rect17036" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.311668"
-           width="17.20562"
-           y="-506.82816"
-           x="841.36096"
-           id="rect17038" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.759,11.951 4.759,9.653 4.203,10.212 4.203,11.393 "
-           id="polygon17040" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,11.951 3.016,11.393 4.203,11.393 4.759,11.951 "
-           id="polygon17042" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,9.653 3.016,10.212 3.016,11.393 2.462,11.951 "
-           id="polygon17044" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,647.51645,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,9.653 4.759,9.653 4.203,10.212 3.016,10.212 "
-           id="polygon17046" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8d8c8c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="31.65897"
-           width="33.3386"
-           y="-514.52521"
-           x="833.33075"
-           id="rect17048" />
-        <rect
-           transform="rotate(90)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8663;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           height="16.284117"
-           width="17.20562"
-           y="-506.83768"
-           x="841.36096"
-           id="rect17050" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b8af82;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.203,4.193 4.759,4.751 4.759,2.454 4.203,3.012 "
-           id="polygon17052" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#80795b;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="4.759,4.751 2.462,4.751 3.016,4.193 4.203,4.193 "
-           id="polygon17054" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5b43;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="2.462,4.751 2.462,2.454 3.016,3.012 3.016,4.193 "
-           id="polygon17056" />
-        <polygon
-           transform="matrix(0,14.495044,-13.776748,0,548.33325,797.64384)"
-           style="font-style:normal;font-weight:normal;font-size:105.24749756px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.94304347"
-           points="3.016,3.012 2.462,2.454 4.759,2.454 4.203,3.012 "
-           id="polygon17058" />
-      </g>
+    <g id="T1-SOP23">
+      <path id="path17192" class="cls-12" d="M17.25,59.46H10.14V56.52h7.11Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17194" class="cls-13" d="M16.7,61.62H15.34V59.45H16.7Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17196" class="cls-14" d="M16.7,60.38H15.34v-.69H16.7Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17198" class="cls-13" d="M12.05,61.62H10.69V59.45h1.36Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17200" class="cls-14" d="M12.05,60.38H10.69v-.69h1.36Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17202" class="cls-13" d="M14.38,54.37H13v2.16h1.37Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17204" class="cls-14" d="M14.38,55.61H13v.69h1.37Z" transform="translate(-0.01 -0.01)"/>
     </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-277.5237,84.058362)"
-       id="g17082"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <g
-         id="g17064" />
-      <g
-         id="g17080">
-        <g
-           id="g17078"
-           clip-path="url(#clipPath3321-7-1-38-7-4)">
-          <g
-             id="g17076">
-            <g
-               id="g17066" />
-            <g
-               id="g17074">
-              <g
-                 id="g17072"
-                 clip-path="url(#clipPath3325-2-8-1-2-0)">
-                <text
-                   style="line-height:0%"
-                   id="text17070"
-                   transform="matrix(-1,0,0,1,38.6807,86.8555)">
-                  <tspan
-                     id="tspan17068"
-                     y="0"
-                     x="0"
-                     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79099989px;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">G</tspan>
-                </text>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
+    <g id="R2-0603">
+      <path id="path17208" class="cls-15" d="M52.6,61.29h-3V55.85h3Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17210" class="cls-13" d="M52.62,56.16h-3v-.95h3Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17212" class="cls-13" d="M52.62,61.83h-3v-1h3Z" transform="translate(-0.01 -0.01)"/>
     </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-277.5237,84.058362)"
-       id="g17102"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <g
-         id="g17084" />
-      <g
-         id="g17100">
-        <g
-           id="g17098"
-           clip-path="url(#clipPath3349-8-6-5-8-4)">
-          <g
-             id="g17096">
-            <g
-               id="g17086" />
-            <g
-               id="g17094">
-              <g
-                 id="g17092"
-                 clip-path="url(#clipPath3353-57-8-9-2-3)">
-                <text
-                   style="line-height:0%"
-                   id="text17090"
-                   transform="matrix(-1,0,0,1,47.4209,86.8223)">
-                  <tspan
-                     id="tspan17088"
-                     y="0"
-                     x="0"
-                     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79099989px;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">V</tspan>
-                </text>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
+    <g id="R3-0605">
+      <path id="path17214" class="cls-15" d="M22.73,60.54H19.78V55.21h2.95Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17216" class="cls-13" d="M22.74,55.74h-3v-1h3Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17218" class="cls-13" d="M22.74,61.4h-3v-1h3Z" transform="translate(-0.01 -0.01)"/>
     </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-277.5237,84.058362)"
-       id="g17122"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <g
-         id="g17104" />
-      <g
-         id="g17120">
-        <g
-           id="g17118"
-           clip-path="url(#clipPath3377-47-1-78-0-5)">
-          <g
-             id="g17116">
-            <g
-               id="g17106" />
-            <g
-               id="g17114">
-              <g
-                 id="g17112"
-                 clip-path="url(#clipPath3381-2-9-5-3-1)">
-                <text
-                   style="line-height:0%"
-                   id="text17110"
-                   transform="matrix(-1,0,0,1,55.9844,86.8555)">
-                  <tspan
-                     id="tspan17108"
-                     y="0"
-                     x="0"
-                     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.79099989px;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">S</tspan>
-                </text>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
+    <g id="R1-0603">
+      <path id="path17222" class="cls-15" d="M60.41,61.18H57.46V55.74h2.95Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17224" class="cls-13" d="M60.44,56.05h-3v-1h3Z" transform="translate(-0.01 -0.01)"/>
+      <path id="path17226" class="cls-13" d="M60.44,61.72h-3v-1h3Z" transform="translate(-0.01 -0.01)"/>
     </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-279.70789,102.3624)"
-       id="g17126"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17124"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v -9.951 c -0.263,0.074 -0.524,0.149 -0.787,0.224 v 9.502 C -0.524,-0.148 -0.263,-0.074 0,0 m -3.892,-9.129 c 0.262,0 0.562,-0.037 0.824,-0.074 v 8.418 c -0.262,0 -0.562,-0.037 -0.711,-0.037 -0.075,0 -0.075,0 -0.225,0.074 -0.15,0.037 -0.486,0.225 -0.56,-0.225 -0.525,-3.03 -0.525,-4.414 -0.114,-7.968 0.037,-0.262 0.375,-0.299 0.562,-0.225 0.075,0 0.149,0.037 0.224,0.037 m 18.371,8.156 c 2.993,-0.336 3.216,-4.003 3.216,-4.003 0,0 -0.223,-3.704 -3.216,-4.003 -1.085,-0.15 -3.255,0.188 -4.34,0 l -0.037,-0.037 -2.545,3.854 2.545,4.189 h 0.037 c 1.085,-0.224 3.255,0.114 4.34,0 m 1.908,-2.881 -2.956,-2.767 v -1.385 h 1.646 l 1.31,1.758 z m -2.956,1.797 1.272,-2.357 1.385,1.234 -0.899,1.123 z m -14.966,1.609 c -0.299,-0.075 -0.598,-0.15 -0.785,-0.225 v -8.642 c 0.187,-0.039 0.486,-0.113 0.785,-0.225 z m 2.283,0.635 v -10.363 c 0.711,-0.187 1.422,-0.375 1.833,-0.449 0.823,-0.112 2.843,-0.074 3.367,0 0.898,0.187 2.095,0.823 3.105,1.271 L 6.883,-6.248 6.359,-7.107 H 4.863 l 1.272,1.945 -1.272,1.833 H 6.359 L 6.846,-4.04 9.053,-0.598 C 8.043,-0.187 6.846,0.449 5.948,0.637 5.424,0.711 3.404,0.748 2.581,0.637 2.17,0.562 1.459,0.375 0.748,0.187"
-         inkscape:connector-curvature="0" />
+    <g id="L1-5mm">
+      <circle id="circle17228" class="cls-16" cx="35.65" cy="35.34" r="3.7"/>
+      <circle id="circle17230" class="cls-17" cx="35.49" cy="35.37" r="1.4"/>
+      <circle id="circle17232" class="cls-18" cx="35.55" cy="35.35" r="7.35"/>
+      <path id="path17234" class="cls-19" d="M34.85,31.27a4.18,4.18,0,0,1,1.07-.13,4.63,4.63,0,0,1,.92.09l.38-1.83a6.16,6.16,0,0,0-1.3-.13,10,10,0,0,0-1.65.18ZM33,30a6.44,6.44,0,0,0-3.38,7l1.82-.41a4.61,4.61,0,0,1-.07-.84,4.55,4.55,0,0,1,2.34-4Z" transform="translate(-0.01 -0.01)"/>
+      <circle id="circle17236" class="cls-20" cx="35.6" cy="35.27" r="7.47"/>
+      <ellipse id="ellipse16558" class="cls-21" cx="34.7" cy="34.73" rx="17.35" ry="17.69"/>
+      <ellipse id="ellipse16560" class="cls-22" cx="33.88" cy="34.57" rx="28.32" ry="20.63"/>
+      <ellipse id="ellipse16562" class="cls-23" cx="34.63" cy="34.64" rx="13.83" ry="14.87"/>
+      <ellipse id="ellipse16564" class="cls-24" cx="34.95" cy="33.17" rx="11.53" ry="8.83"/>
     </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-301.78711,89.154084)"
-       id="g17130"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17128"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -5.536 c -0.873,0 -1.581,0.708 -1.581,1.581 v 50.37 c 0,0.873 0.708,1.58 1.581,1.58 H 0 c 0.873,0 1.581,-0.707 1.581,-1.58 V 1.581 C 1.581,0.708 0.873,0 0,0"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-279.47043,98.185522)"
-       id="g17134"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17132"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 -1.836,0.588 v -1.2 z m -3.502,-1.225 1.004,0.368 v 1.69 l -1.004,0.343 v 0.98 L 1.52,0.195 v -0.39 L -3.502,-2.18 Z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-278.48696,96.265973)"
-       id="g17138"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17136"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 H 2.277 C 2.743,0 2.988,0.196 2.988,0.638 2.988,0.76 2.939,0.882 2.865,1.005 2.793,1.103 2.719,1.2 2.621,1.249 H 0 v 0.834 h 2.4 c 0.172,0 0.319,0.049 0.416,0.171 0.098,0.099 0.172,0.269 0.172,0.466 0,0.097 -0.049,0.22 -0.123,0.343 C 2.793,3.185 2.694,3.282 2.596,3.332 H 0 V 4.165 H 3.625 V 3.601 L 3.307,3.43 C 3.552,3.185 3.674,2.892 3.674,2.523 3.674,2.034 3.552,1.666 3.282,1.421 3.404,1.323 3.502,1.177 3.576,0.979 3.65,0.809 3.674,0.612 3.674,0.417 3.674,0.024 3.576,-0.294 3.331,-0.515 3.111,-0.735 2.793,-0.857 2.376,-0.857 H 0 Z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-279.25736,95.550452)"
-       id="g17142"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17140"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 h -1.911 c -0.122,-0.146 -0.195,-0.318 -0.195,-0.539 0,-0.392 0.097,-0.661 0.293,-0.832 0.171,-0.172 0.466,-0.246 0.882,-0.246 0.416,0 0.711,0.074 0.907,0.246 0.171,0.171 0.245,0.44 0.245,0.832 C 0.221,-0.343 0.147,-0.146 0,0 M -2.646,0 H -4.165 V 0.857 H 0.882 V 0 H 0.638 c 0.195,-0.195 0.293,-0.465 0.293,-0.783 0,-1.153 -0.613,-1.715 -1.887,-1.715 -0.588,0 -1.053,0.146 -1.371,0.465 -0.319,0.318 -0.49,0.76 -0.49,1.322 0,0.246 0.048,0.49 0.171,0.711"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-279.09911,94.449584)"
-       id="g17146"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17144"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 v -1.764 c 0.539,0.049 0.809,0.344 0.809,0.858 0,0.49 -0.27,0.784 -0.809,0.906 m -0.637,-2.547 v 2.572 c -0.269,0 -0.514,-0.097 -0.662,-0.295 -0.171,-0.17 -0.244,-0.416 -0.244,-0.734 0,-0.392 0.098,-0.662 0.293,-0.882 l -0.637,-0.318 c -0.244,0.294 -0.367,0.735 -0.367,1.323 0,0.563 0.172,1.004 0.49,1.322 0.319,0.319 0.784,0.465 1.348,0.465 0.588,0 1.029,-0.171 1.396,-0.513 0.342,-0.368 0.514,-0.785 0.514,-1.274 0,-0.515 -0.146,-0.956 -0.465,-1.274 -0.318,-0.294 -0.711,-0.466 -1.201,-0.466 -0.098,0 -0.244,0.025 -0.465,0.074"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-279.28505,92.936213)"
-       id="g17150"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17148"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 c 0.098,0.146 0.146,0.318 0.146,0.514 0,0.196 -0.097,0.368 -0.269,0.515 -0.195,0.147 -0.393,0.22 -0.662,0.22 H -2.842 V 2.106 H 0.783 V 1.249 H 0.44 C 0.71,1.029 0.832,0.71 0.832,0.318 0.832,0.024 0.809,-0.196 0.71,-0.344 Z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-278.48696,92.048702)"
-       id="g17154"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17152"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 1.641,1.053 1.199,1.445 H 0 V 2.303 H 4.973 L 5.168,1.445 H 2.229 L 3.625,0.244 V -0.76 L 2.254,0.465 0,-1.005 Z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-278.96855,91.085534)"
-       id="g17158"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17156"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 c 0.023,0.146 0.023,0.244 0.023,0.318 0,0.686 -0.219,1.004 -0.636,1.004 -0.343,0 -0.491,-0.172 -0.491,-0.562 0,-0.49 0.247,-0.76 0.76,-0.76 z M -1.348,-0.074 C -1.471,0 -1.593,0.122 -1.666,0.318 -1.74,0.514 -1.789,0.71 -1.789,0.931 c 0,0.368 0.098,0.686 0.295,0.906 0.195,0.221 0.465,0.343 0.832,0.343 0.416,0 0.76,-0.172 0.98,-0.491 C 0.562,1.396 0.686,0.931 0.686,0.367 0.686,0.27 0.661,0.146 0.637,0 1.053,0 1.273,0.27 1.273,0.809 1.273,1.127 1.199,1.396 1.102,1.617 L 1.764,1.788 C 1.91,1.519 1.959,1.15 1.959,0.76 1.959,0.221 1.837,-0.196 1.592,-0.441 1.347,-0.711 0.857,-0.833 0.171,-0.833 h -0.784 c -0.465,0 -0.783,-0.099 -0.907,-0.294 -0.123,0.073 -0.195,0.147 -0.22,0.244 -0.024,0.074 -0.049,0.172 -0.049,0.295 0,0.122 0.049,0.221 0.146,0.318 0.075,0.098 0.172,0.172 0.295,0.196"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-278.61064,90.555635)"
-       id="g17162"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17160"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 C 0.171,0 0.318,-0.049 0.44,-0.172 0.563,-0.294 0.612,-0.441 0.612,-0.612 0.612,-0.783 0.563,-0.906 0.44,-1.029 0.318,-1.151 0.171,-1.2 0,-1.2 c -0.171,0 -0.318,0.049 -0.44,0.171 -0.099,0.123 -0.172,0.246 -0.172,0.417 0,0.171 0.073,0.318 0.172,0.44 C -0.318,-0.049 -0.171,0 0,0"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-279.28505,89.296792)"
-       id="g17166"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17164"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 c 0.098,0.146 0.146,0.318 0.146,0.489 0,0.197 -0.097,0.368 -0.269,0.515 -0.195,0.146 -0.393,0.221 -0.662,0.221 H -2.842 V 2.082 H 0.783 V 1.225 H 0.44 C 0.71,1.004 0.832,0.686 0.832,0.293 0.832,0 0.809,-0.221 0.71,-0.368 Z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-278.48696,88.395574)"
-       id="g17170"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         id="path17168"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 H 0.293 C 0.195,0.121 0.122,0.293 0.049,0.489 c -0.074,0.22 -0.123,0.417 -0.123,0.588 0,0.833 0.466,1.249 1.347,1.249 H 3.625 V 1.494 H 1.322 C 0.881,1.494 0.637,1.273 0.637,0.857 0.637,0.66 0.686,0.489 0.783,0.318 0.881,0.171 1.004,0.049 1.127,0 H 3.625 V -0.834 H 0 Z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(-0.28084108,0,0,0.28084108,-277.5237,84.058362)"
-       id="g17190"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <g
-         id="g17172" />
-      <g
-         id="g17188">
-        <g
-           id="g17186"
-           clip-path="url(#clipPath3453-2-9-0-3-2)">
-          <g
-             id="g17184">
-            <g
-               id="g17174" />
-            <g
-               id="g17182">
-              <g
-                 id="g17180"
-                 clip-path="url(#clipPath3457-8-6-6-9-0)">
-                <text
-                   style="line-height:0%"
-                   id="text17178"
-                   transform="matrix(0,-1,-1,0,81.334,70.2334)">
-                  <tspan
-                     id="tspan17176"
-                     sodipodi:role="line"
-                     y="0"
-                     x="0 3.7464616 6.8875165 11.051069 14.979226 18.780123 22.700924 24.915112 30.395405 34.558956 38.829174 43.176628 45.34668 49.576435"
-                     style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.35610008px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:TrebuchetMS-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none">Troyka Module</tspan>
-                </text>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       transform="matrix(0.2824013,0,0,0.2824013,-322.57893,24.493722)"
-       id="g17206"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         d="m 90.913963,284.87675 h -8.884461 v -3.66616 h 8.884461 z"
-         style="fill:#404040;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17192"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 90.228843,287.57643 h -1.70005 v -2.70478 h 1.70005 z"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17194"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 90.228843,286.02258 h -1.70005 v -0.85937 h 1.70005 z"
-         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17196"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 84.414673,287.57643 h -1.699201 v -2.70478 h 1.699201 z"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17198"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 84.414673,286.02258 h -1.699201 v -0.85937 h 1.699201 z"
-         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17200"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 87.321763,278.51856 h -1.70005 v 2.70478 h 1.70005 z"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17202"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 87.321763,280.07326 h -1.70005 v 0.85852 h 1.70005 z"
-         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17204"
-         inkscape:connector-curvature="0" />
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path17208"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28240129"
-       d="m -284.43512,105.59013 h -1.04204 v -1.91952 h 1.04204 z"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <path
-       id="path17210"
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28240129"
-       d="m -284.42565,103.78155 h -1.05625 v -0.33841 h 1.05625 z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <path
-       id="path17212"
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28240129"
-       d="m -284.42565,105.77945 h -1.05625 v -0.33841 h 1.05625 z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <g
-       transform="matrix(0.2824013,0,0,0.2824013,-326.71409,29.334883)"
-       id="g17220"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939">
-      <path
-         d="m 112.40212,269.08743 h -3.69093 v -6.66303 h 3.69093 z"
-         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17214"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 112.41888,263.08441 h -3.74121 v -1.19834 h 3.74121 z"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17216" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 112.41888,270.16011 h -3.74121 v -1.19835 h 3.74121 z"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17218" />
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path17222"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28240129"
-       d="m -281.67939,105.55097 h -1.04204 v -1.91952 h 1.04204 z"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <path
-       id="path17224"
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28240129"
-       d="m -281.66992,103.74239 h -1.05625 v -0.33841 h 1.05625 z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <path
-       id="path17226"
-       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28240129"
-       d="m -281.66992,105.7403 h -1.05625 v -0.33842 h 1.05625 z"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       id="circle17228"
-       cy="96.439423"
-       cx="-290.41068"
-       r="1.3047805"
-       style="fill:#8c8c8c;stroke-width:0.36589473"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       style="fill:#ffff00;fill-opacity:1;stroke-width:0.36589473"
-       id="circle17230"
-       r="0.49395788"
-       cx="-290.46606"
-       cy="96.451157"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       style="opacity:0.5;fill:#ffee00;fill-opacity:1;stroke:none;stroke-width:0.36589473"
-       id="circle17232"
-       r="2.5930958"
-       cx="-290.44308"
-       cy="96.443802"
-       enable-background="new    "
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <path
-       style="opacity:0.6;fill:#ffffff;stroke-width:0.29271576"
-       inkscape:connector-curvature="0"
-       d="m -290.69649,94.997624 c 0.12148,-0.0293 0.24881,-0.045 0.37944,-0.045 0.11086,0 0.2188,0.0111 0.32308,0.0325 l 0.13282,-0.6458 c -0.1471,-0.03 -0.30003,-0.0457 -0.4559,-0.0457 -0.16575,0 -0.42664,0.0308 -0.58214,0.0644 z m -0.64946,-0.457 c -0.73289,0.37467 -1.23453,1.13719 -1.23453,2.01718 0,0.15148 0.0151,0.29929 0.0432,0.44273 l 0.64325,-0.14417 c -0.0183,-0.0966 -0.0278,-0.19612 -0.0278,-0.2982 0,-0.60337 0.33334,-1.12988 0.8262,-1.40394 z"
-       enable-background="new    "
-       id="path17234"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <circle
-       r="2.6345608"
-       cy="96.414749"
-       cx="-290.42877"
-       id="circle17236"
-       style="fill:none;stroke:#fff000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939" />
-    <g
-       id="g22767"
-       transform="translate(-436.19563,-18.379574)"
-       inkscape:export-xdpi="162.939"
-       inkscape:export-ydpi="162.939"
-       style="opacity:0.46200005">
-      <ellipse
-         ry="6.2423415"
-         rx="6.121706"
-         cy="114.60331"
-         cx="145.45035"
-         id="ellipse16558"
-         style="opacity:1;fill:url(#radialGradient16596);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient16568);stroke-width:0.11960802;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="7.2789927"
-         rx="9.9902458"
-         style="opacity:1;fill:url(#radialGradient16588);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient16572);stroke-width:0.16499624;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse16560"
-         cx="-145.16219"
-         cy="-114.54749"
-         transform="scale(-1)" />
-      <ellipse
-         ry="5.2470837"
-         rx="4.8804746"
-         cy="-114.5722"
-         cx="-145.42564"
-         id="ellipse16562"
-         style="opacity:1;fill:url(#radialGradient16604);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient16576);stroke-width:0.27390847;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="scale(-1)" />
-      <ellipse
-         ry="3.1139464"
-         rx="4.0672288"
-         style="opacity:0.83699999;fill:url(#radialGradient16578);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient16580);stroke-width:0.06885812;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse16564"
-         cx="-145.54051"
-         cy="-114.05354"
-         transform="scale(-1)"
-         inkscape:transform-center-x="0.13224282"
-         inkscape:transform-center-y="0.9879761" />
+    <g id="amperka-logo">
+      <path id="path532-5-4-9-8-5-6-8-0" d="M10.82,11.1a2,2,0,1,1-2,2,2,2,0,0,1,2-2m0,5.32a3.28,3.28,0,1,0-3.28-3.28h0a3.28,3.28,0,0,0,3.28,3.28" transform="translate(-0.01 -0.01)"/>
+      <path id="path536-1-4-0-5-1-3-3-2" d="M10.82,4.72a2.29,2.29,0,1,1-.05,0h.05m0,1.24a1,1,0,1,0,1,1,1,1,0,0,0-1-1" transform="translate(-0.01 -0.01)"/>
+      <path id="path540-3-7-2-9-1-0-6-4" d="M11.16,18.58a5.47,5.47,0,0,0,5.07-5.09,5.36,5.36,0,0,0-1.18-3.77l.4-.4a.62.62,0,0,0,.06-.85.61.61,0,0,0-.86-.05l-.05.05-.89.89a.54.54,0,0,0,0,.76A4.32,4.32,0,0,1,15,12.9a4.22,4.22,0,1,1-7.17-2.75v-.06a.54.54,0,0,0,0-.76L7,8.46A.64.64,0,0,0,6.1,8.4a.63.63,0,0,0,0,.88l0,0,.42.42a5.38,5.38,0,0,0-1.2,3.39A5.49,5.49,0,0,0,10.8,18.6l.36,0" transform="translate(-0.01 -0.01)"/>
     </g>
   </g>
 </svg>
