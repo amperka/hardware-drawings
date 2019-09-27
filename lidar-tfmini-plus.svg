@@ -1,0 +1,86 @@
+<svg id="lidar-tfmini-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99.0264" height="111.0305" viewBox="0 0 99.0264 111.0305">
+  <defs>
+    <style>
+      .cls-1, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-width: 2.8346px;
+      }
+
+      .cls-2 {
+        fill: #141313;
+      }
+
+      .cls-3 {
+        fill: #161616;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-7, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        stroke-width: 0.4252px;
+      }
+
+      .cls-4 {
+        fill: #2d2d2d;
+      }
+
+      .cls-5 {
+        fill: #515151;
+        opacity: 0.28;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        stroke: #b5b0b0;
+        opacity: 0.24;
+        fill: url(#Безымянный_градиент);
+      }
+
+      .cls-7 {
+        stroke-width: 0.2835px;
+      }
+
+      .cls-8 {
+        fill: #262626;
+      }
+
+      .cls-9 {
+        stroke: #fff;
+        stroke-width: 1.16px;
+        opacity: 0.1;
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент" data-name="Безымянный градиент" cx="49.6" cy="741" r="39.0474" gradientTransform="translate(0.0126 -655.9827)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <title>lidar-tfmini-plus</title>
+  <g id="lidar-tfmini-plus-2">
+    <path class="cls-1" d="M49.6406,40.5313c0-21.5,20.672-39.114,46.572-39.114" transform="translate(0.0006 0)"/>
+    <rect class="cls-2" x="43.4132" y="56.9173" width="12.3" height="2.4"/>
+    <path class="cls-3" d="M2.3126,59.2173h94.4a2.0506,2.0506,0,0,1,2.1,2c.0008.0333.0008.0667,0,.1v47.4a2.0506,2.0506,0,0,1-2,2.1c-.0333.0008-.0667.0008-.1,0h-94.4a2.0506,2.0506,0,0,1-2.1-2c-.0008-.0333-.0008-.0667,0-.1v-47.4A2.1123,2.1123,0,0,1,2.3126,59.2173Z" transform="translate(0.0006 0)"/>
+    <path class="cls-4" d="M.7126,97.1173v-24.2c0-3.1,10.5-13.7,13.6-13.7h70.6c3.1,0,13.6,10.6,13.6,13.7v24.2c0,3.1-10.5,13.7-13.6,13.7h-70.6C11.2126,110.8173.7126,100.2173.7126,97.1173Z" transform="translate(0.0006 0)"/>
+    <polygon class="cls-5" points="50.114 59.317 50.114 110.617 50.714 110.617 50.814 103.717 50.814 66.217 50.714 59.317 50.114 59.317"/>
+    <polygon class="cls-5" points="1.014 71.517 1.014 74.917 1.014 93.617 1.014 97.117 1.214 97.117 1.214 71.517 1.014 71.517"/>
+    <path class="cls-6" d="M.7126,97.1173v-24.2c0-3.1,10.5-13.7,13.6-13.7h70.6c3.1,0,13.6,10.6,13.6,13.7v24.2c0,3.1-10.5,13.7-13.6,13.7h-70.6C11.2126,110.8173.7126,100.2173.7126,97.1173Z" transform="translate(0.0006 0)"/>
+    <line class="cls-7" x1="49.3132" y1="59.0173" x2="49.3132" y2="110.6173"/>
+    <polygon class="cls-5" points="48.114 59.317 48.114 110.617 48.714 110.617 48.814 103.717 48.814 66.217 48.714 59.317 48.114 59.317"/>
+    <polygon class="cls-5" points="98.014 71.517 97.914 74.917 97.914 93.617 98.014 97.117 98.514 97.117 98.514 71.517 98.014 71.517"/>
+    <polygon id="polygon83480" class="cls-8" points="46.114 57.017 53.014 57.017 53.014 46.617 51.714 44.017 51.714 40.317 47.414 40.317 47.414 44.017 46.114 46.617 46.114 57.017"/>
+    <polyline id="polyline83754" class="cls-9" points="47.214 55.717 47.214 47.017 48.514 44.417 48.514 41.617"/>
+  </g>
+</svg>
