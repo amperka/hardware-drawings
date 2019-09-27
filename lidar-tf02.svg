@@ -1,0 +1,130 @@
+<svg id="lidar-tf02" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="201.2338" height="224.1447" viewBox="0 0 201.2338 224.1447">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #262424;
+        stroke: #1e1d1d;
+        stroke-width: 2.83px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10, .cls-2, .cls-5 {
+        fill: #494848;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        stroke-width: 1.42px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 5.6693px;
+      }
+
+      .cls-4 {
+        fill: #232323;
+      }
+
+      .cls-5 {
+        stroke-width: 0.71px;
+      }
+
+      .cls-6 {
+        fill: #d1d3d4;
+      }
+
+      .cls-7 {
+        fill: #323232;
+      }
+
+      .cls-8 {
+        fill: #333030;
+      }
+
+      .cls-9 {
+        opacity: 0.97;
+      }
+
+      .cls-11 {
+        fill: url(#Безымянный_градиент);
+      }
+
+      .cls-12 {
+        fill: url(#Безымянный_градиент_2);
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент" data-name="Безымянный градиент" x1="172.92" y1="1255.83" x2="177.92" y2="1255.83" gradientTransform="translate(-0.0008 -1084.7854)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_2" data-name="Безымянный градиент 2" x1="-4631.0801" y1="1255.84" x2="-4626.0801" y2="1255.84" gradientTransform="matrix(-1, 0, 0, 1, -4603.1609, -1084.7854)" xlink:href="#Безымянный_градиент"/>
+  </defs>
+  <title>lidar-tf02</title>
+  <g id="lidar-tf02-2">
+    <path class="cls-1" d="M12.8692,160.845c-4,.85-6.71,1.78-8.52,3.24s-2.68,3.49-2.93,6.52c.5,6.94,4.5,8.94,11.45,9.75l10.05,14.46v-47.77Zm-1.45,16.7a6.45,6.45,0,1,1,.1,0Z" transform="translate(0 -0.0004)"/>
+    <path class="cls-2" d="M166.7492,223.435H34.0892l-10.2-10.22v-81.34l10.2-10.21h132.66l10.25,10.21v81.34Z" transform="translate(0 -0.0004)"/>
+    <path class="cls-3" d="M100.4,70.2187C99.875,10.625,145.38,2.835,198.3992,2.835" transform="translate(0 -0.0004)"/>
+    <g>
+      <path id="rect5420" class="cls-4" d="M94.8092,70.045h11.19a3.57,3.57,0,0,1,3.74,3.36v27.66a3.56,3.56,0,0,1-3.74,3.35h-11.19a3.57,3.57,0,0,1-3.75-3.35V73.405A3.58,3.58,0,0,1,94.8092,70.045Z" transform="translate(0 -0.0004)"/>
+      <path class="cls-5" d="M103.5292,77.355" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-10" class="cls-6" d="M92.7292,96.515h3.8957v-1.57H92.7292Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-4-7" class="cls-6" d="M92.7292,92.135h3.8957v-1.57H92.7292Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-48-5" class="cls-6" d="M92.7292,87.755h3.8957v-1.54H92.7292Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-8-8" class="cls-6" d="M92.7292,83.375h3.8957v-1.57H92.7292Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-41-2" class="cls-6" d="M92.7292,78.995h3.8957v-1.57H92.7292Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-3-0" class="cls-6" d="M92.7292,74.615h3.8957v-1.57H92.7292Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-1-3" class="cls-6" d="M104.1249,96.515h3.8143v-1.57h-3.8143Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-4-8-3" class="cls-6" d="M104.1249,92.135h3.8143v-1.57h-3.8143Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-48-1-0" class="cls-6" d="M104.1249,87.755h3.8143v-1.54h-3.8143Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-8-6-0" class="cls-6" d="M104.1249,83.375h3.8143v-1.57h-3.8143Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-41-0-0" class="cls-6" d="M104.1249,78.995h3.8143v-1.57h-3.8143Z" transform="translate(0 -0.0004)"/>
+      <path id="path7753-6-5-3-8-1" class="cls-6" d="M104.1249,74.615h3.8143v-1.57h-3.8143Z" transform="translate(0 -0.0004)"/>
+    </g>
+    <rect class="cls-7" x="84.8292" y="100.9147" width="31.18" height="20.96"/>
+    <path class="cls-1" d="M165.4192,221.745h-130l-10-9.87v-78.66l10-9.87h130l10,9.87v78.65Z" transform="translate(0 -0.0004)"/>
+    <g>
+      <circle class="cls-8" cx="141.9192" cy="172.5446" r="20.91"/>
+      <path d="M141.9192,151.995a20.56,20.56,0,1,1-20.55,20.57v-.02a20.57,20.57,0,0,1,20.55-20.55m0-.71a21.33,21.33,0,0,0-21.26,21.26h0a21.26,21.26,0,0,0,42.52,0h0A21.33,21.33,0,0,0,141.9192,151.285Z" transform="translate(0 -0.0004)"/>
+    </g>
+    <g>
+      <rect class="cls-8" x="34.2992" y="133.9247" width="77.24" height="77.24" rx="38.15" ry="38.15"/>
+      <path d="M73.3992,134.285a37.83,37.83,0,0,1,37.79,37.79v.95a37.83,37.83,0,0,1-37.79,37.79h-1a37.84,37.84,0,0,1-37.8-37.79v-.95a37.84,37.84,0,0,1,37.8-37.79h1m0-.71h-1a38.61,38.61,0,0,0-38.4,38.5v.95a38.61,38.61,0,0,0,38.5,38.5h1a38.61,38.61,0,0,0,38.5-38.5v-.95a38.61,38.61,0,0,0-38.5-38.5Z" transform="translate(0 -0.0004)"/>
+    </g>
+    <g class="cls-9">
+      <rect x="34.3892" y="134.2446" width="77.24" height="77.24" rx="38.15" ry="38.15"/>
+      <path d="M73.4892,134.595a37.83,37.83,0,0,1,37.79,37.79v1a37.84,37.84,0,0,1-37.79,37.79h-.95a37.84,37.84,0,0,1-37.79-37.79v-1a37.83,37.83,0,0,1,37.79-37.79h.95m0-.71h-.95a38.61,38.61,0,0,0-38.54,38.5v1a38.61,38.61,0,0,0,38.5,38.5h.95a38.61,38.61,0,0,0,38.5-38.5v-1a38.61,38.61,0,0,0-38.5-38.5Z" transform="translate(0 -0.0004)"/>
+    </g>
+    <g>
+      <rect class="cls-10" x="172.9192" y="152.5446" width="5" height="36"/>
+      <rect class="cls-11" x="172.9192" y="153.0446" width="5" height="36"/>
+      <rect class="cls-8" x="172.9192" y="154.0446" width="5" height="4"/>
+      <rect class="cls-8" x="172.9192" y="161.2946" width="5" height="4"/>
+      <rect class="cls-8" x="172.9192" y="168.5446" width="5" height="4"/>
+      <rect class="cls-8" x="172.9192" y="175.7946" width="5" height="4"/>
+      <rect class="cls-8" x="172.9192" y="183.0446" width="5" height="4"/>
+    </g>
+    <g>
+      <rect class="cls-10" x="22.9192" y="152.5546" width="5" height="36"/>
+      <rect class="cls-12" x="22.9192" y="153.0546" width="5" height="36"/>
+      <rect class="cls-8" x="22.9192" y="154.0446" width="5" height="4"/>
+      <rect class="cls-8" x="22.9192" y="161.2946" width="5" height="4"/>
+      <rect class="cls-8" x="22.9192" y="168.5446" width="5" height="4"/>
+      <rect class="cls-8" x="22.9192" y="175.7946" width="5" height="4"/>
+      <rect class="cls-8" x="22.9192" y="183.0446" width="5" height="4"/>
+    </g>
+    <g>
+      <circle cx="141.9192" cy="172.5446" r="20.91"/>
+      <path d="M141.9192,151.995a20.56,20.56,0,1,1-20.55,20.57v-.02a20.57,20.57,0,0,1,20.55-20.55m0-.71a21.33,21.33,0,0,0-21.26,21.26h0a21.26,21.26,0,0,0,42.52,0h0A21.33,21.33,0,0,0,141.9192,151.285Z" transform="translate(0 -0.0004)"/>
+    </g>
+    <path class="cls-1" d="M177.4192,147.045v47.77l10.05-14.46c6.95-.81,10.95-2.81,11.45-9.75-.25-3-1.12-5-2.93-6.52s-4.55-2.39-8.52-3.24Zm5,24a6.45,6.45,0,1,1,0,.1C182.4189,171.1119,182.4189,171.0785,182.4192,171.045Z" transform="translate(0 -0.0004)"/>
+  </g>
+  <rect class="cls-10" x="86.4146" y="101.9804" width="28.0092" height="18.8285"/>
+</svg>
