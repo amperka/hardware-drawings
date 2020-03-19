@@ -103,13 +103,16 @@
         fill: url(#Безымянный_градиент_108-10);
       }
 
-      .cls-22, .cls-63, .cls-64 {
+      .cls-22, .cls-63, .cls-64, .cls-96 {
         font-size: 5px;
       }
 
       .cls-22, .cls-23 {
         stroke-miterlimit: 11.339;
         stroke-width: 0.028px;
+      }
+
+      .cls-22, .cls-23, .cls-96 {
         font-family: TrebuchetMS-Bold, Trebuchet MS;
         font-weight: 700;
       }
@@ -296,7 +299,7 @@
         fill: gray;
       }
 
-      .cls-63, .cls-64, .cls-67, .cls-68, .cls-71, .cls-72 {
+      .cls-63, .cls-64, .cls-67, .cls-68, .cls-71, .cls-72, .cls-96 {
         fill: #fff;
       }
 
@@ -3984,6 +3987,13 @@
           <rect id="rect12177" class="cls-95" x="189.094" y="70.759" width="0.882" height="0.828"/>
           <rect id="rect11197" class="cls-95" x="137.907" y="70.759" width="0.882" height="0.828"/>
         </g>
+        <text class="cls-96" transform="translate(132.644 113.578)">15</text>
+        <text class="cls-96" transform="translate(140.314 113.578)">17</text>
+        <text class="cls-96" transform="translate(147.12 113.578)">18</text>
+        <text class="cls-96" transform="translate(125.624 113.578)">16</text>
+        <text class="cls-96" transform="translate(119.987 113.578)">1</text>
+        <text class="cls-96" transform="translate(112.971 113.578)">2</text>
+        <text class="cls-96" transform="translate(24.621 113.578)">14</text>
       </g>
     </g>
   </g>
