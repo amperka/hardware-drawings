@@ -1,0 +1,1016 @@
+<svg id="breadboard-power-supply" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.124mm" height="40.558mm" viewBox="0 0 320.666 114.967">
+  <defs>
+    <style>
+      .cls-1, .cls-16 {
+        fill: #f2f2f2;
+      }
+
+      .cls-1, .cls-31, .cls-47 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-11, .cls-44 {
+        stroke-miterlimit: 1;
+      }
+
+      .cls-1 {
+        stroke-width: 0.43px;
+      }
+
+      .cls-2 {
+        fill: #404040;
+      }
+
+      .cls-3 {
+        fill: #8d8c8c;
+      }
+
+      .cls-4 {
+        fill: #8c8663;
+      }
+
+      .cls-5 {
+        fill: #b8af82;
+      }
+
+      .cls-6 {
+        fill: #80795b;
+      }
+
+      .cls-7 {
+        fill: #5e5b43;
+      }
+
+      .cls-8 {
+        fill: #9a916c;
+      }
+
+      .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-32, .cls-9 {
+        font-size: 7px;
+      }
+
+      .cls-30, .cls-32, .cls-46, .cls-49, .cls-50, .cls-9 {
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-10 {
+        fill: #666;
+      }
+
+      .cls-11, .cls-31, .cls-42, .cls-47 {
+        fill: none;
+      }
+
+      .cls-11 {
+        stroke: #333;
+        stroke-width: 0.283px;
+      }
+
+      .cls-12, .cls-44 {
+        fill: #b3b3b3;
+      }
+
+      .cls-13 {
+        fill: #ccc;
+      }
+
+      .cls-14 {
+        fill: #333;
+      }
+
+      .cls-15 {
+        fill: #e6e6e6;
+      }
+
+      .cls-17 {
+        fill: #999;
+      }
+
+      .cls-18 {
+        fill: gray;
+      }
+
+      .cls-19 {
+        fill: #242424;
+      }
+
+      .cls-20 {
+        fill: #181818;
+      }
+
+      .cls-21 {
+        fill: #d0d1d0;
+      }
+
+      .cls-22 {
+        fill: #b8b9ba;
+      }
+
+      .cls-23 {
+        fill: #d1d3d4;
+      }
+
+      .cls-24 {
+        fill: #e7b83b;
+      }
+
+      .cls-25 {
+        fill: #808285;
+      }
+
+      .cls-26 {
+        fill: #231f20;
+      }
+
+      .cls-27 {
+        fill: #323232;
+      }
+
+      .cls-28 {
+        fill: #403c3d;
+      }
+
+      .cls-29 {
+        fill: #e9e9e9;
+      }
+
+      .cls-30 {
+        font-size: 3px;
+      }
+
+      .cls-31, .cls-47 {
+        stroke-linejoin: round;
+        stroke-width: 0.567px;
+      }
+
+      .cls-33 {
+        fill: #d2d1d3;
+      }
+
+      .cls-34 {
+        fill: #b7b8b9;
+      }
+
+      .cls-35 {
+        fill: #d7d3d5;
+      }
+
+      .cls-36 {
+        fill: #966432;
+      }
+
+      .cls-37 {
+        fill: #bbffd0;
+      }
+
+      .cls-38 {
+        fill: #545152;
+      }
+
+      .cls-39 {
+        fill: #dcac65;
+      }
+
+      .cls-40 {
+        fill: #805d3d;
+      }
+
+      .cls-41 {
+        fill: #393536;
+      }
+
+      .cls-42 {
+        stroke: #ccc;
+        stroke-miterlimit: 10;
+        stroke-width: 1.417px;
+      }
+
+      .cls-43 {
+        fill: url(#Безымянный_градиент_28);
+      }
+
+      .cls-44 {
+        stroke: #f9d3a5;
+        stroke-width: 0.028px;
+      }
+
+      .cls-45 {
+        fill: url(#Безымянный_градиент_20);
+      }
+
+      .cls-46 {
+        font-size: 4px;
+      }
+
+      .cls-47 {
+        stroke-linecap: round;
+      }
+
+      .cls-48 {
+        fill: #1a1a1a;
+      }
+
+      .cls-49 {
+        font-size: 5.485px;
+      }
+
+      .cls-50 {
+        font-size: 6.023px;
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_28" data-name="Безымянный градиент 28" x1="59.58" y1="22.695" x2="94.554" y2="22.695" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ccc"/>
+      <stop offset="0.517" stop-color="#b3b3b3" stop-opacity="0.97"/>
+      <stop offset="0.703" stop-color="#b6b6b6" stop-opacity="0.973"/>
+      <stop offset="0.859" stop-color="#bebebe" stop-opacity="0.983"/>
+      <stop offset="1" stop-color="#ccc"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_20" data-name="Безымянный градиент 20" x1="58.658" y1="15.758" x2="95.475" y2="15.758" gradientUnits="userSpaceOnUse">
+      <stop offset="0.036" stop-color="#f2f2f2"/>
+      <stop offset="0.179" stop-color="#e6e6e6"/>
+      <stop offset="0.506" stop-color="#fff"/>
+      <stop offset="0.591" stop-color="#f9f9f9"/>
+      <stop offset="0.705" stop-color="#e8e8e8"/>
+      <stop offset="0.834" stop-color="#cdcdcd"/>
+      <stop offset="0.838" stop-color="#ccc"/>
+      <stop offset="0.964" stop-color="#f2f2f2"/>
+    </linearGradient>
+  </defs>
+  <title>breadboard-power-supply</title>
+  <g id="breadboard-power-supply-2" data-name="breadboard-power-supply">
+    <g id="bottom">
+      <path class="cls-1" d="M315.692,15.54H174.974a4.773,4.773,0,0,0-4.759,4.759v89.694a4.773,4.773,0,0,0,4.759,4.759h12.717a4.141,4.141,0,0,0,4.142-4.142V90.644a4.5,4.5,0,0,1,4.5-4.5h98a4.5,4.5,0,0,1,4.5,4.5V110.61a4.142,4.142,0,0,0,4.142,4.142h12.717a4.772,4.772,0,0,0,4.759-4.759V20.3A4.772,4.772,0,0,0,315.692,15.54Z"/>
+      <g>
+        <g>
+          <path id="path106636" class="cls-2" d="M309.671,106.151v3.92l1.6,1.5h4.1l1.6-1.5v-4.2l-1.6-1.5h-4.1l-1.6,1.5Z"/>
+          <rect id="rect106638" class="cls-3" x="312.19" y="106.761" width="2.3" height="2.3"/>
+          <rect id="rect106640" class="cls-4" x="312.69" y="107.331" width="1.2" height="1.09"/>
+          <polygon id="polygon106642" class="cls-5" points="312.2 109.031 312.7 108.421 312.7 107.331 312.2 106.721 312.2 109.031"/>
+          <polygon id="polygon106644" class="cls-6" points="313.89 107.331 312.7 107.331 312.2 106.721 314.5 106.721 313.89 107.331"/>
+          <polygon id="polygon106646" class="cls-7" points="313.89 108.421 313.89 107.331 314.5 106.721 314.5 109.031 313.89 108.421"/>
+          <polygon id="polygon106648" class="cls-8" points="312.2 109.031 312.7 108.421 313.89 108.421 314.5 109.031 312.2 109.031"/>
+          <path id="path106654-2" class="cls-2" d="M309.671,98.941v3.9l1.6,1.5h4.1l1.6-1.5v-4.2l-1.6-1.5h-4.1l-1.6,1.5Z"/>
+          <rect id="rect106656-2" class="cls-3" x="312.19" y="99.531" width="2.3" height="2.3"/>
+          <rect id="rect106658-2" class="cls-4" x="312.69" y="100.122" width="1.2" height="1.109"/>
+          <polygon id="polygon106660-2" class="cls-5" points="312.7 100.122 312.2 99.512 312.2 101.812 312.7 101.212 312.7 100.122"/>
+          <polygon id="polygon106662-2" class="cls-6" points="312.2 99.512 314.5 99.512 313.89 100.122 312.7 100.122 312.2 99.512"/>
+          <polygon id="polygon106664-2" class="cls-7" points="314.5 99.512 314.5 101.812 313.89 101.212 313.89 100.122 314.5 99.512"/>
+          <polygon id="polygon106666-2" class="cls-8" points="313.89 101.212 314.5 101.812 312.2 101.812 312.7 101.212 313.89 101.212"/>
+          <path id="path106672-2" class="cls-2" d="M309.671,91.732v3.9l1.6,1.5h4.1l1.6-1.5v-4.21l-1.6-1.5h-4.1l-1.6,1.5Z"/>
+          <rect id="rect106674-2" class="cls-3" x="312.19" y="92.302" width="2.3" height="2.3"/>
+          <rect id="rect106676-2" class="cls-4" x="312.69" y="92.943" width="1.2" height="1.109"/>
+          <polygon id="polygon106678-2" class="cls-5" points="312.7 92.943 312.2 92.293 312.2 94.623 312.7 94.033 312.7 92.943"/>
+          <polygon id="polygon106680-2" class="cls-6" points="312.2 92.293 314.5 92.293 313.89 92.943 312.7 92.943 312.2 92.293"/>
+          <polygon id="polygon106682-2" class="cls-7" points="314.5 92.293 314.5 94.623 313.89 94.033 313.89 92.943 314.5 92.293"/>
+          <polygon id="polygon106684-2" class="cls-8" points="313.89 94.033 314.5 94.623 312.2 94.623 312.7 94.033 313.89 94.033"/>
+        </g>
+        <g>
+          <path id="path106564-2" class="cls-2" d="M309.751,102.544v-3.93l-1.6-1.5h-4.1l-1.6,1.5v4.2l1.6,1.5h4.1l1.6-1.5Z"/>
+          <rect id="rect106566-2" class="cls-3" x="304.932" y="99.653" width="2.3" height="2.3"/>
+          <rect id="rect106568-2" class="cls-4" x="305.532" y="100.254" width="1.2" height="1.099"/>
+          <polygon id="polygon106570-2" class="cls-5" points="307.222 101.963 307.222 99.643 306.722 100.263 306.722 101.353 307.222 101.963"/>
+          <polygon id="polygon106572-2" class="cls-6" points="304.922 101.963 305.532 101.353 306.722 101.353 307.222 101.963 304.922 101.963"/>
+          <polygon id="polygon106574-2" class="cls-7" points="304.922 99.643 305.532 100.263 305.532 101.353 304.922 101.963 304.922 99.643"/>
+          <polygon id="polygon106576-2" class="cls-8" points="304.922 99.643 307.222 99.643 306.722 100.263 305.532 100.263 304.922 99.643"/>
+          <path id="path106564-3" class="cls-2" d="M309.751,95.334v-3.9l-1.6-1.5h-4.1l-1.6,1.5v4.18l1.6,1.44h4.1l1.6-1.5Z"/>
+          <rect id="rect106566-3" class="cls-3" x="304.932" y="92.434" width="2.3" height="2.3"/>
+          <rect id="rect106568-3" class="cls-4" x="305.532" y="93.034" width="1.2" height="1.11"/>
+          <polygon id="polygon106570-3" class="cls-5" points="307.222 94.744 307.222 92.424 306.722 93.034 306.722 94.144 307.222 94.744"/>
+          <polygon id="polygon106572-3" class="cls-6" points="304.922 94.744 305.532 94.144 306.722 94.144 307.222 94.744 304.922 94.744"/>
+          <polygon id="polygon106574-3" class="cls-7" points="304.922 92.424 305.532 93.034 305.532 94.144 304.922 94.744 304.922 92.424"/>
+          <polygon id="polygon106576-3" class="cls-8" points="304.922 92.424 307.222 92.424 306.722 93.034 305.532 93.034 304.922 92.424"/>
+          <path id="path106564-4" class="cls-2" d="M309.751,109.749v-3.9l-1.6-1.5h-4.1l-1.6,1.5v4.2l1.6,1.51h4.1l1.6-1.51Z"/>
+          <rect id="rect106566-4" class="cls-3" x="304.932" y="106.863" width="2.3" height="2.3"/>
+          <rect id="rect106568-4" class="cls-4" x="305.532" y="107.463" width="1.2" height="1.109"/>
+          <polygon id="polygon106570-4" class="cls-5" points="307.222 109.172 307.222 106.882 306.722 107.462 306.722 108.572 307.222 109.172"/>
+          <polygon id="polygon106572-4" class="cls-6" points="304.922 109.172 305.532 108.572 306.722 108.572 307.222 109.172 304.922 109.172"/>
+          <polygon id="polygon106574-4" class="cls-7" points="304.922 106.882 305.532 107.462 305.532 108.572 304.922 109.172 304.922 106.882"/>
+          <polygon id="polygon106576-4" class="cls-8" points="304.922 106.882 307.222 106.882 306.722 107.462 305.532 107.462 304.922 106.882"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path id="path106636-2" data-name="path106636" class="cls-2" d="M180.949,106.245v3.921l1.6,1.5h4.1l1.6-1.5v-4.2l-1.6-1.5h-4.1l-1.6,1.5Z"/>
+          <rect id="rect106638-2" data-name="rect106638" class="cls-3" x="183.468" y="106.855" width="2.3" height="2.3"/>
+          <rect id="rect106640-2" data-name="rect106640" class="cls-4" x="183.968" y="107.425" width="1.2" height="1.09"/>
+          <polygon id="polygon106642-2" data-name="polygon106642" class="cls-5" points="183.478 109.125 183.978 108.515 183.978 107.425 183.478 106.815 183.478 109.125"/>
+          <polygon id="polygon106644-2" data-name="polygon106644" class="cls-6" points="185.168 107.425 183.978 107.425 183.478 106.815 185.778 106.815 185.168 107.425"/>
+          <polygon id="polygon106646-2" data-name="polygon106646" class="cls-7" points="185.168 108.515 185.168 107.425 185.778 106.815 185.778 109.125 185.168 108.515"/>
+          <polygon id="polygon106648-2" data-name="polygon106648" class="cls-8" points="183.478 109.125 183.978 108.515 185.168 108.515 185.778 109.125 183.478 109.125"/>
+          <path id="path106654-2-2" data-name="path106654-2" class="cls-2" d="M180.949,99.035v3.9l1.6,1.5h4.1l1.6-1.5v-4.2l-1.6-1.5h-4.1l-1.6,1.5Z"/>
+          <rect id="rect106656-2-2" data-name="rect106656-2" class="cls-3" x="183.468" y="99.625" width="2.3" height="2.3"/>
+          <rect id="rect106658-2-2" data-name="rect106658-2" class="cls-4" x="183.968" y="100.216" width="1.2" height="1.109"/>
+          <polygon id="polygon106660-2-2" data-name="polygon106660-2" class="cls-5" points="183.978 100.216 183.478 99.606 183.478 101.906 183.978 101.306 183.978 100.216"/>
+          <polygon id="polygon106662-2-2" data-name="polygon106662-2" class="cls-6" points="183.478 99.606 185.778 99.606 185.168 100.216 183.978 100.216 183.478 99.606"/>
+          <polygon id="polygon106664-2-2" data-name="polygon106664-2" class="cls-7" points="185.778 99.606 185.778 101.906 185.168 101.306 185.168 100.216 185.778 99.606"/>
+          <polygon id="polygon106666-2-2" data-name="polygon106666-2" class="cls-8" points="185.168 101.306 185.778 101.906 183.478 101.906 183.978 101.306 185.168 101.306"/>
+          <path id="path106672-2-2" data-name="path106672-2" class="cls-2" d="M180.949,91.826v3.9l1.6,1.5h4.1l1.6-1.5v-4.21l-1.6-1.5h-4.1l-1.6,1.5Z"/>
+          <rect id="rect106674-2-2" data-name="rect106674-2" class="cls-3" x="183.468" y="92.396" width="2.3" height="2.3"/>
+          <rect id="rect106676-2-2" data-name="rect106676-2" class="cls-4" x="183.968" y="93.037" width="1.2" height="1.109"/>
+          <polygon id="polygon106678-2-2" data-name="polygon106678-2" class="cls-5" points="183.978 93.037 183.478 92.387 183.478 94.717 183.978 94.127 183.978 93.037"/>
+          <polygon id="polygon106680-2-2" data-name="polygon106680-2" class="cls-6" points="183.478 92.387 185.778 92.387 185.168 93.037 183.978 93.037 183.478 92.387"/>
+          <polygon id="polygon106682-2-2" data-name="polygon106682-2" class="cls-7" points="185.778 92.387 185.778 94.717 185.168 94.127 185.168 93.037 185.778 92.387"/>
+          <polygon id="polygon106684-2-2" data-name="polygon106684-2" class="cls-8" points="185.168 94.127 185.778 94.717 183.478 94.717 183.978 94.127 185.168 94.127"/>
+        </g>
+        <g>
+          <path id="path106564-2-2" data-name="path106564-2" class="cls-2" d="M181.029,102.638v-3.93l-1.6-1.5h-4.1l-1.6,1.5v4.2l1.6,1.5h4.1l1.6-1.5Z"/>
+          <rect id="rect106566-2-2" data-name="rect106566-2" class="cls-3" x="176.21" y="99.747" width="2.3" height="2.3"/>
+          <rect id="rect106568-2-2" data-name="rect106568-2" class="cls-4" x="176.81" y="100.349" width="1.2" height="1.099"/>
+          <polygon id="polygon106570-2-2" data-name="polygon106570-2" class="cls-5" points="178.5 102.058 178.5 99.737 178 100.357 178 101.448 178.5 102.058"/>
+          <polygon id="polygon106572-2-2" data-name="polygon106572-2" class="cls-6" points="176.2 102.058 176.81 101.448 178 101.448 178.5 102.058 176.2 102.058"/>
+          <polygon id="polygon106574-2-2" data-name="polygon106574-2" class="cls-7" points="176.2 99.737 176.81 100.357 176.81 101.448 176.2 102.058 176.2 99.737"/>
+          <polygon id="polygon106576-2-2" data-name="polygon106576-2" class="cls-8" points="176.2 99.737 178.5 99.737 178 100.357 176.81 100.357 176.2 99.737"/>
+          <path id="path106564-3-2" data-name="path106564-3" class="cls-2" d="M181.029,95.429v-3.9l-1.6-1.5h-4.1l-1.6,1.5v4.181l1.6,1.439h4.1l1.6-1.5Z"/>
+          <rect id="rect106566-3-2" data-name="rect106566-3" class="cls-3" x="176.21" y="92.528" width="2.3" height="2.3"/>
+          <rect id="rect106568-3-2" data-name="rect106568-3" class="cls-4" x="176.81" y="93.129" width="1.2" height="1.11"/>
+          <polygon id="polygon106570-3-2" data-name="polygon106570-3" class="cls-5" points="178.5 94.839 178.5 92.518 178 93.128 178 94.239 178.5 94.839"/>
+          <polygon id="polygon106572-3-2" data-name="polygon106572-3" class="cls-6" points="176.2 94.839 176.81 94.239 178 94.239 178.5 94.839 176.2 94.839"/>
+          <polygon id="polygon106574-3-2" data-name="polygon106574-3" class="cls-7" points="176.2 92.518 176.81 93.128 176.81 94.239 176.2 94.839 176.2 92.518"/>
+          <polygon id="polygon106576-3-2" data-name="polygon106576-3" class="cls-8" points="176.2 92.518 178.5 92.518 178 93.128 176.81 93.128 176.2 92.518"/>
+          <path id="path106564-4-2" data-name="path106564-4" class="cls-2" d="M181.029,109.844v-3.9l-1.6-1.5h-4.1l-1.6,1.5v4.2l1.6,1.51h4.1l1.6-1.51Z"/>
+          <rect id="rect106566-4-2" data-name="rect106566-4" class="cls-3" x="176.21" y="106.957" width="2.3" height="2.3"/>
+          <rect id="rect106568-4-2" data-name="rect106568-4" class="cls-4" x="176.81" y="107.558" width="1.2" height="1.109"/>
+          <polygon id="polygon106570-4-2" data-name="polygon106570-4" class="cls-5" points="178.5 109.266 178.5 106.976 178 107.557 178 108.667 178.5 109.266"/>
+          <polygon id="polygon106572-4-2" data-name="polygon106572-4" class="cls-6" points="176.2 109.266 176.81 108.667 178 108.667 178.5 109.266 176.2 109.266"/>
+          <polygon id="polygon106574-4-2" data-name="polygon106574-4" class="cls-7" points="176.2 106.976 176.81 107.557 176.81 108.667 176.2 109.266 176.2 106.976"/>
+          <polygon id="polygon106576-4-2" data-name="polygon106576-4" class="cls-8" points="176.2 106.976 178.5 106.976 178 107.557 176.81 107.557 176.2 106.976"/>
+        </g>
+      </g>
+      <g>
+        <g id="amperka-logo-2">
+          <g id="g530-2">
+            <path id="path532-2" d="M226.116,49.387a2.009,2.009,0,1,0,2.009,2.009h0a2.011,2.011,0,0,0-2.009-2.009h0m0,5.235a3.227,3.227,0,1,1,3.227-3.227,3.227,3.227,0,0,1-3.227,3.227h0"/>
+          </g>
+          <g id="g534-2">
+            <path id="path536-2" d="M226.116,43.121a2.229,2.229,0,1,0,2.229,2.229h0a2.228,2.228,0,0,0-2.229-2.228h0m0,1.219a1.01,1.01,0,1,1-1.009,1.011h0a1.011,1.011,0,0,1,1.009-1.01"/>
+          </g>
+          <g id="g538-2">
+            <path id="path540-2" d="M225.748,56.743a5.371,5.371,0,0,1-3.835-8.7l-.393-.394a.626.626,0,0,1-.06-.836.61.61,0,0,1,.858-.084h0a.238.238,0,0,1,.044.04l.876.876a.529.529,0,0,1,0,.747h0a4.267,4.267,0,0,0-1.264,2.736,4.15,4.15,0,1,0,7.077-2.679l-.057-.057a.529.529,0,0,1,0-.746h0l.858-.858a.625.625,0,0,1,.836-.058.608.608,0,0,1,.087.855l0,0h0c-.013.015-.026.03-.04.044l-.412.412a5.37,5.37,0,0,1-4.572,8.7"/>
+          </g>
+        </g>
+        <text class="cls-9" transform="translate(236.106 53.403)">amperka</text>
+      </g>
+      <rect x="285.34" y="55.402" width="1.037" height="1.037"/>
+      <rect x="286.377" y="55.402" width="1.037" height="1.037"/>
+      <rect x="287.414" y="55.402" width="1.037" height="1.037"/>
+      <rect x="288.452" y="55.402" width="1.037" height="1.037"/>
+      <rect x="289.489" y="55.402" width="1.037" height="1.037"/>
+      <rect x="290.526" y="55.402" width="1.037" height="1.037"/>
+      <rect x="291.563" y="55.402" width="1.037" height="1.037"/>
+      <rect x="294.674" y="55.402" width="1.037" height="1.037"/>
+      <rect x="296.748" y="55.402" width="1.037" height="1.037"/>
+      <rect x="297.785" y="55.402" width="1.037" height="1.037"/>
+      <rect x="299.859" y="55.402" width="1.037" height="1.037"/>
+      <rect x="300.896" y="55.402" width="1.037" height="1.037"/>
+      <rect x="301.933" y="55.402" width="1.037" height="1.037"/>
+      <rect x="302.97" y="55.402" width="1.037" height="1.037"/>
+      <rect x="304.007" y="55.402" width="1.037" height="1.037"/>
+      <rect x="305.044" y="55.402" width="1.037" height="1.037"/>
+      <rect x="306.082" y="55.402" width="1.037" height="1.037"/>
+      <rect x="285.34" y="56.439" width="1.037" height="1.037"/>
+      <rect x="291.563" y="56.439" width="1.037" height="1.037"/>
+      <rect x="294.674" y="56.439" width="1.037" height="1.037"/>
+      <rect x="295.711" y="56.439" width="1.037" height="1.037"/>
+      <rect x="296.748" y="56.439" width="1.037" height="1.037"/>
+      <rect x="299.859" y="56.439" width="1.037" height="1.037"/>
+      <rect x="306.082" y="56.439" width="1.037" height="1.037"/>
+      <rect x="285.34" y="57.476" width="1.037" height="1.037"/>
+      <rect x="287.414" y="57.476" width="1.037" height="1.037"/>
+      <rect x="288.452" y="57.476" width="1.037" height="1.037"/>
+      <rect x="289.489" y="57.476" width="1.037" height="1.037"/>
+      <rect x="291.563" y="57.476" width="1.037" height="1.037"/>
+      <rect x="293.637" y="57.476" width="1.037" height="1.037"/>
+      <rect x="294.674" y="57.476" width="1.037" height="1.037"/>
+      <rect x="296.748" y="57.476" width="1.037" height="1.037"/>
+      <rect x="297.785" y="57.476" width="1.037" height="1.037"/>
+      <rect x="299.859" y="57.476" width="1.037" height="1.037"/>
+      <rect x="301.933" y="57.476" width="1.037" height="1.037"/>
+      <rect x="302.97" y="57.476" width="1.037" height="1.037"/>
+      <rect x="304.007" y="57.476" width="1.037" height="1.037"/>
+      <rect x="306.082" y="57.476" width="1.037" height="1.037"/>
+      <rect x="285.34" y="58.514" width="1.037" height="1.037"/>
+      <rect x="287.414" y="58.514" width="1.037" height="1.037"/>
+      <rect x="288.452" y="58.514" width="1.037" height="1.037"/>
+      <rect x="289.489" y="58.514" width="1.037" height="1.037"/>
+      <rect x="291.563" y="58.514" width="1.037" height="1.037"/>
+      <rect x="294.674" y="58.514" width="1.037" height="1.037"/>
+      <rect x="296.748" y="58.514" width="1.037" height="1.037"/>
+      <rect x="299.859" y="58.514" width="1.037" height="1.037"/>
+      <rect x="301.933" y="58.514" width="1.037" height="1.037"/>
+      <rect x="302.97" y="58.514" width="1.037" height="1.037"/>
+      <rect x="304.007" y="58.514" width="1.037" height="1.037"/>
+      <rect x="306.082" y="58.514" width="1.037" height="1.037"/>
+      <rect x="285.34" y="59.551" width="1.037" height="1.037"/>
+      <rect x="287.414" y="59.551" width="1.037" height="1.037"/>
+      <rect x="288.452" y="59.551" width="1.037" height="1.037"/>
+      <rect x="289.489" y="59.551" width="1.037" height="1.037"/>
+      <rect x="291.563" y="59.551" width="1.037" height="1.037"/>
+      <rect x="295.711" y="59.551" width="1.037" height="1.037"/>
+      <rect x="297.785" y="59.551" width="1.037" height="1.037"/>
+      <rect x="299.859" y="59.551" width="1.037" height="1.037"/>
+      <rect x="301.933" y="59.551" width="1.037" height="1.037"/>
+      <rect x="302.97" y="59.551" width="1.037" height="1.037"/>
+      <rect x="304.007" y="59.551" width="1.037" height="1.037"/>
+      <rect x="306.082" y="59.551" width="1.037" height="1.037"/>
+      <rect x="285.34" y="60.588" width="1.037" height="1.037"/>
+      <rect x="291.563" y="60.588" width="1.037" height="1.037"/>
+      <rect x="297.785" y="60.588" width="1.037" height="1.037"/>
+      <rect x="299.859" y="60.588" width="1.037" height="1.037"/>
+      <rect x="306.082" y="60.588" width="1.037" height="1.037"/>
+      <rect x="285.34" y="61.625" width="1.037" height="1.037"/>
+      <rect x="286.377" y="61.625" width="1.037" height="1.037"/>
+      <rect x="287.414" y="61.625" width="1.037" height="1.037"/>
+      <rect x="288.452" y="61.625" width="1.037" height="1.037"/>
+      <rect x="289.489" y="61.625" width="1.037" height="1.037"/>
+      <rect x="290.526" y="61.625" width="1.037" height="1.037"/>
+      <rect x="291.563" y="61.625" width="1.037" height="1.037"/>
+      <rect x="293.637" y="61.625" width="1.037" height="1.037"/>
+      <rect x="295.711" y="61.625" width="1.037" height="1.037"/>
+      <rect x="297.785" y="61.625" width="1.037" height="1.037"/>
+      <rect x="299.859" y="61.625" width="1.037" height="1.037"/>
+      <rect x="300.896" y="61.625" width="1.037" height="1.037"/>
+      <rect x="301.933" y="61.625" width="1.037" height="1.037"/>
+      <rect x="302.97" y="61.625" width="1.037" height="1.037"/>
+      <rect x="304.007" y="61.625" width="1.037" height="1.037"/>
+      <rect x="305.044" y="61.625" width="1.037" height="1.037"/>
+      <rect x="306.082" y="61.625" width="1.037" height="1.037"/>
+      <rect x="293.637" y="62.662" width="1.037" height="1.037"/>
+      <rect x="294.674" y="62.662" width="1.037" height="1.037"/>
+      <rect x="296.748" y="62.662" width="1.037" height="1.037"/>
+      <rect x="297.785" y="62.662" width="1.037" height="1.037"/>
+      <rect x="285.34" y="63.699" width="1.037" height="1.037"/>
+      <rect x="286.377" y="63.699" width="1.037" height="1.037"/>
+      <rect x="287.414" y="63.699" width="1.037" height="1.037"/>
+      <rect x="289.489" y="63.699" width="1.037" height="1.037"/>
+      <rect x="290.526" y="63.699" width="1.037" height="1.037"/>
+      <rect x="291.563" y="63.699" width="1.037" height="1.037"/>
+      <rect x="292.6" y="63.699" width="1.037" height="1.037"/>
+      <rect x="293.637" y="63.699" width="1.037" height="1.037"/>
+      <rect x="294.674" y="63.699" width="1.037" height="1.037"/>
+      <rect x="295.711" y="63.699" width="1.037" height="1.037"/>
+      <rect x="296.748" y="63.699" width="1.037" height="1.037"/>
+      <rect x="298.822" y="63.699" width="1.037" height="1.037"/>
+      <rect x="299.859" y="63.699" width="1.037" height="1.037"/>
+      <rect x="304.007" y="63.699" width="1.037" height="1.037"/>
+      <rect x="287.414" y="64.736" width="1.037" height="1.037"/>
+      <rect x="289.489" y="64.736" width="1.037" height="1.037"/>
+      <rect x="292.6" y="64.736" width="1.037" height="1.037"/>
+      <rect x="293.637" y="64.736" width="1.037" height="1.037"/>
+      <rect x="295.711" y="64.736" width="1.037" height="1.037"/>
+      <rect x="299.859" y="64.736" width="1.037" height="1.037"/>
+      <rect x="302.97" y="64.736" width="1.037" height="1.037"/>
+      <rect x="304.007" y="64.736" width="1.037" height="1.037"/>
+      <rect x="305.044" y="64.736" width="1.037" height="1.037"/>
+      <rect x="306.082" y="64.736" width="1.037" height="1.037"/>
+      <rect x="287.414" y="65.773" width="1.037" height="1.037"/>
+      <rect x="288.452" y="65.773" width="1.037" height="1.037"/>
+      <rect x="289.489" y="65.773" width="1.037" height="1.037"/>
+      <rect x="290.526" y="65.773" width="1.037" height="1.037"/>
+      <rect x="291.563" y="65.773" width="1.037" height="1.037"/>
+      <rect x="293.637" y="65.773" width="1.037" height="1.037"/>
+      <rect x="294.674" y="65.773" width="1.037" height="1.037"/>
+      <rect x="297.785" y="65.773" width="1.037" height="1.037"/>
+      <rect x="301.933" y="65.773" width="1.037" height="1.037"/>
+      <rect x="302.97" y="65.773" width="1.037" height="1.037"/>
+      <rect x="304.007" y="65.773" width="1.037" height="1.037"/>
+      <rect x="290.526" y="66.81" width="1.037" height="1.037"/>
+      <rect x="293.637" y="66.81" width="1.037" height="1.037"/>
+      <rect x="294.674" y="66.81" width="1.037" height="1.037"/>
+      <rect x="299.859" y="66.81" width="1.037" height="1.037"/>
+      <rect x="302.97" y="66.81" width="1.037" height="1.037"/>
+      <rect x="306.082" y="66.81" width="1.037" height="1.037"/>
+      <rect x="286.377" y="67.847" width="1.037" height="1.037"/>
+      <rect x="287.414" y="67.847" width="1.037" height="1.037"/>
+      <rect x="289.489" y="67.847" width="1.037" height="1.037"/>
+      <rect x="291.563" y="67.847" width="1.037" height="1.037"/>
+      <rect x="292.6" y="67.847" width="1.037" height="1.037"/>
+      <rect x="293.637" y="67.847" width="1.037" height="1.037"/>
+      <rect x="294.674" y="67.847" width="1.037" height="1.037"/>
+      <rect x="295.711" y="67.847" width="1.037" height="1.037"/>
+      <rect x="297.785" y="67.847" width="1.037" height="1.037"/>
+      <rect x="299.859" y="67.847" width="1.037" height="1.037"/>
+      <rect x="301.933" y="67.847" width="1.037" height="1.037"/>
+      <rect x="304.007" y="67.847" width="1.037" height="1.037"/>
+      <rect x="305.044" y="67.847" width="1.037" height="1.037"/>
+      <rect x="293.637" y="68.884" width="1.037" height="1.037"/>
+      <rect x="294.674" y="68.884" width="1.037" height="1.037"/>
+      <rect x="296.748" y="68.884" width="1.037" height="1.037"/>
+      <rect x="298.822" y="68.884" width="1.037" height="1.037"/>
+      <rect x="300.896" y="68.884" width="1.037" height="1.037"/>
+      <rect x="302.97" y="68.884" width="1.037" height="1.037"/>
+      <rect x="285.34" y="69.921" width="1.037" height="1.037"/>
+      <rect x="286.377" y="69.921" width="1.037" height="1.037"/>
+      <rect x="287.414" y="69.921" width="1.037" height="1.037"/>
+      <rect x="288.452" y="69.921" width="1.037" height="1.037"/>
+      <rect x="289.489" y="69.921" width="1.037" height="1.037"/>
+      <rect x="290.526" y="69.921" width="1.037" height="1.037"/>
+      <rect x="291.563" y="69.921" width="1.037" height="1.037"/>
+      <rect x="293.637" y="69.921" width="1.037" height="1.037"/>
+      <rect x="295.711" y="69.921" width="1.037" height="1.037"/>
+      <rect x="296.748" y="69.921" width="1.037" height="1.037"/>
+      <rect x="298.822" y="69.921" width="1.037" height="1.037"/>
+      <rect x="299.859" y="69.921" width="1.037" height="1.037"/>
+      <rect x="300.896" y="69.921" width="1.037" height="1.037"/>
+      <rect x="306.082" y="69.921" width="1.037" height="1.037"/>
+      <rect x="285.34" y="70.958" width="1.037" height="1.037"/>
+      <rect x="291.563" y="70.958" width="1.037" height="1.037"/>
+      <rect x="293.637" y="70.958" width="1.037" height="1.037"/>
+      <rect x="294.674" y="70.958" width="1.037" height="1.037"/>
+      <rect x="295.711" y="70.958" width="1.037" height="1.037"/>
+      <rect x="296.748" y="70.958" width="1.037" height="1.037"/>
+      <rect x="297.785" y="70.958" width="1.037" height="1.037"/>
+      <rect x="298.822" y="70.958" width="1.037" height="1.037"/>
+      <rect x="300.896" y="70.958" width="1.037" height="1.037"/>
+      <rect x="301.933" y="70.958" width="1.037" height="1.037"/>
+      <rect x="302.97" y="70.958" width="1.037" height="1.037"/>
+      <rect x="305.044" y="70.958" width="1.037" height="1.037"/>
+      <rect x="306.082" y="70.958" width="1.037" height="1.037"/>
+      <rect x="285.34" y="71.995" width="1.037" height="1.037"/>
+      <rect x="287.414" y="71.995" width="1.037" height="1.037"/>
+      <rect x="288.452" y="71.995" width="1.037" height="1.037"/>
+      <rect x="289.489" y="71.995" width="1.037" height="1.037"/>
+      <rect x="291.563" y="71.995" width="1.037" height="1.037"/>
+      <rect x="293.637" y="71.995" width="1.037" height="1.037"/>
+      <rect x="296.748" y="71.995" width="1.037" height="1.037"/>
+      <rect x="298.822" y="71.995" width="1.037" height="1.037"/>
+      <rect x="299.859" y="71.995" width="1.037" height="1.037"/>
+      <rect x="300.896" y="71.995" width="1.037" height="1.037"/>
+      <rect x="304.007" y="71.995" width="1.037" height="1.037"/>
+      <rect x="306.082" y="71.995" width="1.037" height="1.037"/>
+      <rect x="285.34" y="73.032" width="1.037" height="1.037"/>
+      <rect x="287.414" y="73.032" width="1.037" height="1.037"/>
+      <rect x="288.452" y="73.032" width="1.037" height="1.037"/>
+      <rect x="289.489" y="73.032" width="1.037" height="1.037"/>
+      <rect x="291.563" y="73.032" width="1.037" height="1.037"/>
+      <rect x="299.859" y="73.032" width="1.037" height="1.037"/>
+      <rect x="304.007" y="73.032" width="1.037" height="1.037"/>
+      <rect x="305.044" y="73.032" width="1.037" height="1.037"/>
+      <rect x="285.34" y="74.069" width="1.037" height="1.037"/>
+      <rect x="287.414" y="74.069" width="1.037" height="1.037"/>
+      <rect x="288.452" y="74.069" width="1.037" height="1.037"/>
+      <rect x="289.489" y="74.069" width="1.037" height="1.037"/>
+      <rect x="291.563" y="74.069" width="1.037" height="1.037"/>
+      <rect x="293.637" y="74.069" width="1.037" height="1.037"/>
+      <rect x="297.785" y="74.069" width="1.037" height="1.037"/>
+      <rect x="301.933" y="74.069" width="1.037" height="1.037"/>
+      <rect x="306.082" y="74.069" width="1.037" height="1.037"/>
+      <rect x="285.34" y="75.106" width="1.037" height="1.037"/>
+      <rect x="291.563" y="75.106" width="1.037" height="1.037"/>
+      <rect x="293.637" y="75.106" width="1.037" height="1.037"/>
+      <rect x="295.711" y="75.106" width="1.037" height="1.037"/>
+      <rect x="299.859" y="75.106" width="1.037" height="1.037"/>
+      <rect x="304.007" y="75.106" width="1.037" height="1.037"/>
+      <rect x="305.044" y="75.106" width="1.037" height="1.037"/>
+      <rect x="306.082" y="75.106" width="1.037" height="1.037"/>
+      <rect x="285.34" y="76.144" width="1.037" height="1.037"/>
+      <rect x="286.377" y="76.144" width="1.037" height="1.037"/>
+      <rect x="287.414" y="76.144" width="1.037" height="1.037"/>
+      <rect x="288.452" y="76.144" width="1.037" height="1.037"/>
+      <rect x="289.489" y="76.144" width="1.037" height="1.037"/>
+      <rect x="290.526" y="76.144" width="1.037" height="1.037"/>
+      <rect x="291.563" y="76.144" width="1.037" height="1.037"/>
+      <rect x="293.637" y="76.144" width="1.037" height="1.037"/>
+      <rect x="294.674" y="76.144" width="1.037" height="1.037"/>
+      <rect x="297.785" y="76.144" width="1.037" height="1.037"/>
+      <rect x="299.859" y="76.144" width="1.037" height="1.037"/>
+      <rect x="301.933" y="76.144" width="1.037" height="1.037"/>
+      <rect x="304.007" y="76.144" width="1.037" height="1.037"/>
+      <rect x="306.082" y="76.144" width="1.037" height="1.037"/>
+    </g>
+    <g id="top">
+      <path class="cls-1" d="M145.692,15.54H4.974A4.773,4.773,0,0,0,.215,20.3v89.694a4.773,4.773,0,0,0,4.759,4.759H17.691a4.141,4.141,0,0,0,4.142-4.142V90.644a4.5,4.5,0,0,1,4.5-4.5h98a4.5,4.5,0,0,1,4.5,4.5V110.61a4.142,4.142,0,0,0,4.142,4.142h12.717a4.772,4.772,0,0,0,4.759-4.759V20.3A4.772,4.772,0,0,0,145.692,15.54Z"/>
+      <g>
+        <g>
+          <g>
+            <g id="pin-other-side">
+              <path id="path214942" class="cls-10" d="M14.567,96.233a2.612,2.612,0,1,1,2.611-2.613h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948" class="cls-4" d="M13.955,94.2V93.037h1.23V94.2Z"/>
+              <path id="path214950" class="cls-5" d="M13.955,94.2V93.039l-.576-.547v2.261Z"/>
+              <path id="path214954" class="cls-6" d="M13.955,93.04l-.576-.548h2.378l-.573.548Z"/>
+              <path id="path214958" class="cls-7" d="M15.185,93.04l.574-.548v2.26l-.574-.55Z"/>
+              <path id="path214962" class="cls-8" d="M13.955,94.2h1.23l.573.55H13.379Z"/>
+            </g>
+            <g id="pin-other-side-2">
+              <path id="path214942-2" class="cls-10" d="M14.567,103.445a2.611,2.611,0,1,1,2.611-2.611h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-2" class="cls-4" d="M13.955,101.415V100.25h1.23v1.165Z"/>
+              <path id="path214950-2" class="cls-5" d="M13.955,101.415v-1.163l-.576-.548v2.261Z"/>
+              <path id="path214954-2" class="cls-6" d="M13.955,100.253l-.576-.549h2.378l-.573.549Z"/>
+              <path id="path214958-2" class="cls-7" d="M15.185,100.253l.574-.549v2.261l-.574-.551Z"/>
+              <path id="path214962-2" class="cls-8" d="M13.955,101.415h1.23l.573.55H13.379Z"/>
+            </g>
+            <g id="pin-other-side-3">
+              <path id="path214942-3" class="cls-10" d="M14.567,110.658a2.612,2.612,0,1,1,2.611-2.613h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-3" class="cls-4" d="M13.955,108.627v-1.165h1.23v1.165Z"/>
+              <path id="path214950-3" class="cls-5" d="M13.955,108.627v-1.163l-.576-.548v2.261Z"/>
+              <path id="path214954-3" class="cls-6" d="M13.955,107.465l-.576-.549h2.378l-.573.549Z"/>
+              <path id="path214958-3" class="cls-7" d="M15.185,107.465l.574-.549v2.261l-.574-.55Z"/>
+              <path id="path214962-3" class="cls-8" d="M13.955,108.627h1.23l.573.55H13.379Z"/>
+            </g>
+          </g>
+          <g>
+            <g id="pin-other-side-6">
+              <path id="path214942-6" class="cls-10" d="M7.353,96.232A2.611,2.611,0,1,1,9.964,93.62h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-6" class="cls-4" d="M6.741,94.2V93.037h1.23V94.2Z"/>
+              <path id="path214950-6" class="cls-5" d="M6.741,94.2V93.039l-.576-.548v2.261Z"/>
+              <path id="path214954-6" class="cls-6" d="M6.741,93.04l-.576-.549H8.543l-.573.549Z"/>
+              <path id="path214958-6" class="cls-7" d="M7.971,93.04l.574-.549v2.261l-.574-.55Z"/>
+              <path id="path214962-6" class="cls-8" d="M6.741,94.2h1.23l.573.55H6.165Z"/>
+            </g>
+            <g id="pin-other-side-7">
+              <path id="path214942-7" class="cls-10" d="M7.353,103.444a2.611,2.611,0,1,1,2.611-2.611h0a2.612,2.612,0,0,1-2.61,2.61h0"/>
+              <path id="path214948-7" class="cls-4" d="M6.741,101.421v-1.165h1.23v1.165Z"/>
+              <path id="path214950-7" class="cls-5" d="M6.741,101.421v-1.164l-.576-.547v2.261Z"/>
+              <path id="path214954-7" class="cls-6" d="M6.741,100.252,6.165,99.7H8.543l-.573.548Z"/>
+              <path id="path214958-7" class="cls-7" d="M7.971,100.252l.574-.548v2.261l-.574-.551Z"/>
+              <path id="path214962-7" class="cls-8" d="M6.741,101.421h1.23l.573.55H6.165Z"/>
+            </g>
+            <g id="pin-other-side-8">
+              <path id="path214942-8" class="cls-10" d="M7.353,110.656a2.611,2.611,0,1,1,2.611-2.611h0a2.612,2.612,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-8" class="cls-4" d="M6.741,108.626v-1.165h1.23v1.165Z"/>
+              <path id="path214950-8" class="cls-5" d="M6.741,108.626v-1.163l-.576-.548v2.261Z"/>
+              <path id="path214954-8" class="cls-6" d="M6.741,107.465l-.576-.549H8.543l-.573.549Z"/>
+              <path id="path214958-8" class="cls-7" d="M7.971,107.465l.574-.549v2.26l-.574-.55Z"/>
+              <path id="path214962-8" class="cls-8" d="M6.741,108.626h1.23l.573.55H6.165Z"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <g>
+            <g id="pin-other-side-2-2" data-name="pin-other-side">
+              <path id="path214942-2-2" data-name="path214942" class="cls-10" d="M143.313,96.233a2.612,2.612,0,1,1,2.611-2.613h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-2-2" data-name="path214948" class="cls-4" d="M142.7,94.2V93.037h1.23V94.2Z"/>
+              <path id="path214950-2-2" data-name="path214950" class="cls-5" d="M142.7,94.2V93.039l-.576-.547v2.261Z"/>
+              <path id="path214954-2-2" data-name="path214954" class="cls-6" d="M142.7,93.04l-.576-.548H144.5l-.573.548Z"/>
+              <path id="path214958-2-2" data-name="path214958" class="cls-7" d="M143.931,93.04l.574-.548v2.26l-.574-.55Z"/>
+              <path id="path214962-2-2" data-name="path214962" class="cls-8" d="M142.7,94.2h1.23l.573.55h-2.379Z"/>
+            </g>
+            <g id="pin-other-side-2-3" data-name="pin-other-side-2">
+              <path id="path214942-2-3" data-name="path214942-2" class="cls-10" d="M143.313,103.445a2.611,2.611,0,1,1,2.611-2.611h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-2-3" data-name="path214948-2" class="cls-4" d="M142.7,101.415V100.25h1.23v1.165Z"/>
+              <path id="path214950-2-3" data-name="path214950-2" class="cls-5" d="M142.7,101.415v-1.163l-.576-.548v2.261Z"/>
+              <path id="path214954-2-3" data-name="path214954-2" class="cls-6" d="M142.7,100.253l-.576-.549H144.5l-.573.549Z"/>
+              <path id="path214958-2-3" data-name="path214958-2" class="cls-7" d="M143.931,100.253l.574-.549v2.261l-.574-.551Z"/>
+              <path id="path214962-2-3" data-name="path214962-2" class="cls-8" d="M142.7,101.415h1.23l.573.55h-2.379Z"/>
+            </g>
+            <g id="pin-other-side-3-2" data-name="pin-other-side-3">
+              <path id="path214942-3-2" data-name="path214942-3" class="cls-10" d="M143.313,110.658a2.612,2.612,0,1,1,2.611-2.613h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-3-2" data-name="path214948-3" class="cls-4" d="M142.7,108.627v-1.165h1.23v1.165Z"/>
+              <path id="path214950-3-2" data-name="path214950-3" class="cls-5" d="M142.7,108.627v-1.163l-.576-.548v2.261Z"/>
+              <path id="path214954-3-2" data-name="path214954-3" class="cls-6" d="M142.7,107.465l-.576-.549H144.5l-.573.549Z"/>
+              <path id="path214958-3-2" data-name="path214958-3" class="cls-7" d="M143.931,107.465l.574-.549v2.261l-.574-.55Z"/>
+              <path id="path214962-3-2" data-name="path214962-3" class="cls-8" d="M142.7,108.627h1.23l.573.55h-2.379Z"/>
+            </g>
+          </g>
+          <g>
+            <g id="pin-other-side-6-2" data-name="pin-other-side-6">
+              <path id="path214942-6-2" data-name="path214942-6" class="cls-10" d="M136.1,96.232a2.611,2.611,0,1,1,2.611-2.612h0a2.611,2.611,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-6-2" data-name="path214948-6" class="cls-4" d="M135.487,94.2V93.037h1.23V94.2Z"/>
+              <path id="path214950-6-2" data-name="path214950-6" class="cls-5" d="M135.487,94.2V93.039l-.576-.548v2.261Z"/>
+              <path id="path214954-6-2" data-name="path214954-6" class="cls-6" d="M135.487,93.04l-.576-.549h2.378l-.573.549Z"/>
+              <path id="path214958-6-2" data-name="path214958-6" class="cls-7" d="M136.717,93.04l.574-.549v2.261l-.574-.55Z"/>
+              <path id="path214962-6-2" data-name="path214962-6" class="cls-8" d="M135.487,94.2h1.23l.573.55h-2.379Z"/>
+            </g>
+            <g id="pin-other-side-7-2" data-name="pin-other-side-7">
+              <path id="path214942-7-2" data-name="path214942-7" class="cls-10" d="M136.1,103.444a2.611,2.611,0,1,1,2.611-2.611h0a2.612,2.612,0,0,1-2.61,2.61h0"/>
+              <path id="path214948-7-2" data-name="path214948-7" class="cls-4" d="M135.487,101.421v-1.165h1.23v1.165Z"/>
+              <path id="path214950-7-2" data-name="path214950-7" class="cls-5" d="M135.487,101.421v-1.164l-.576-.547v2.261Z"/>
+              <path id="path214954-7-2" data-name="path214954-7" class="cls-6" d="M135.487,100.252l-.576-.548h2.378l-.573.548Z"/>
+              <path id="path214958-7-2" data-name="path214958-7" class="cls-7" d="M136.717,100.252l.574-.548v2.261l-.574-.551Z"/>
+              <path id="path214962-7-2" data-name="path214962-7" class="cls-8" d="M135.487,101.421h1.23l.573.55h-2.379Z"/>
+            </g>
+            <g id="pin-other-side-8-2" data-name="pin-other-side-8">
+              <path id="path214942-8-2" data-name="path214942-8" class="cls-10" d="M136.1,110.656a2.611,2.611,0,1,1,2.611-2.611h0a2.612,2.612,0,0,1-2.611,2.611h0"/>
+              <path id="path214948-8-2" data-name="path214948-8" class="cls-4" d="M135.487,108.626v-1.165h1.23v1.165Z"/>
+              <path id="path214950-8-2" data-name="path214950-8" class="cls-5" d="M135.487,108.626v-1.163l-.576-.548v2.261Z"/>
+              <path id="path214954-8-2" data-name="path214954-8" class="cls-6" d="M135.487,107.465l-.576-.549h2.378l-.573.549Z"/>
+              <path id="path214958-8-2" data-name="path214958-8" class="cls-7" d="M136.717,107.465l.574-.549v2.26l-.574-.55Z"/>
+              <path id="path214962-8-2" data-name="path214962-8" class="cls-8" d="M135.487,108.626h1.23l.573.55h-2.379Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path id="path106564" class="cls-2" d="M27.18,81.107h3.9l1.5-1.6v-4.1l-1.5-1.6h-4.2l-1.5,1.6v4.1l1.5,1.6Z"/>
+          <rect id="rect106566" class="cls-3" x="27.78" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568" class="cls-4" x="28.37" y="76.888" width="1.2" height="1.2"/>
+          <polygon id="polygon106570" class="cls-5" points="27.771 78.578 30.091 78.578 29.591 78.078 28.381 78.078 27.771 78.578"/>
+          <polygon id="polygon106572" class="cls-6" points="27.771 76.278 28.381 76.888 28.381 78.078 27.771 78.578 27.771 76.278"/>
+          <polygon id="polygon106574" class="cls-7" points="30.091 76.278 29.591 76.888 28.381 76.888 27.771 76.278 30.091 76.278"/>
+          <polygon id="polygon106576" class="cls-8" points="30.091 76.278 30.091 78.578 29.591 78.078 29.591 76.888 30.091 76.278"/>
+          <path id="path106564-2-3" data-name="path106564-2" class="cls-2" d="M12.761,81.107h3.93l1.5-1.6v-4.1l-1.5-1.6h-4.2l-1.5,1.6v4.1l1.5,1.6Z"/>
+          <rect id="rect106566-2-3" data-name="rect106566-2" class="cls-3" x="13.352" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-2-3" data-name="rect106568-2" class="cls-4" x="13.952" y="76.888" width="1.099" height="1.2"/>
+          <polygon id="polygon106570-2-3" data-name="polygon106570-2" class="cls-5" points="13.342 78.578 15.662 78.578 15.042 78.078 13.952 78.078 13.342 78.578"/>
+          <polygon id="polygon106572-2-3" data-name="polygon106572-2" class="cls-6" points="13.342 76.278 13.952 76.888 13.952 78.078 13.342 78.578 13.342 76.278"/>
+          <polygon id="polygon106574-2-3" data-name="polygon106574-2" class="cls-7" points="15.662 76.278 15.042 76.888 13.952 76.888 13.342 76.278 15.662 76.278"/>
+          <polygon id="polygon106576-2-3" data-name="polygon106576-2" class="cls-8" points="15.662 76.278 15.662 78.578 15.042 78.078 15.042 76.888 15.662 76.278"/>
+          <path id="path106564-3-3" data-name="path106564-3" class="cls-2" d="M19.971,81.107h3.9l1.5-1.6v-4.1l-1.5-1.6h-4.18l-1.44,1.6v4.1l1.5,1.6Z"/>
+          <rect id="rect106566-3-3" data-name="rect106566-3" class="cls-3" x="20.571" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-3-3" data-name="rect106568-3" class="cls-4" x="21.161" y="76.888" width="1.11" height="1.2"/>
+          <polygon id="polygon106570-3-3" data-name="polygon106570-3" class="cls-5" points="20.561 78.578 22.881 78.578 22.271 78.078 21.161 78.078 20.561 78.578"/>
+          <polygon id="polygon106572-3-3" data-name="polygon106572-3" class="cls-6" points="20.561 76.278 21.161 76.888 21.161 78.078 20.561 78.578 20.561 76.278"/>
+          <polygon id="polygon106574-3-3" data-name="polygon106574-3" class="cls-7" points="22.881 76.278 22.271 76.888 21.161 76.888 20.561 76.278 22.881 76.278"/>
+          <polygon id="polygon106576-3-3" data-name="polygon106576-3" class="cls-8" points="22.881 76.278 22.881 78.578 22.271 78.078 22.271 76.888 22.881 76.278"/>
+          <path id="path106564-4-3" data-name="path106564-4" class="cls-2" d="M5.556,81.107h3.9l1.5-1.6v-4.1l-1.5-1.6h-4.2l-1.51,1.6v4.1l1.51,1.6Z"/>
+          <rect id="rect106566-4-3" data-name="rect106566-4" class="cls-3" x="6.142" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-4-3" data-name="rect106568-4" class="cls-4" x="6.733" y="76.888" width="1.109" height="1.2"/>
+          <polygon id="polygon106570-4-3" data-name="polygon106570-4" class="cls-5" points="6.133 78.578 8.423 78.578 7.843 78.078 6.733 78.078 6.133 78.578"/>
+          <polygon id="polygon106572-4-3" data-name="polygon106572-4" class="cls-6" points="6.133 76.278 6.733 76.888 6.733 78.078 6.133 78.578 6.133 76.278"/>
+          <polygon id="polygon106574-4-3" data-name="polygon106574-4" class="cls-7" points="8.423 76.278 7.843 76.888 6.733 76.888 6.133 76.278 8.423 76.278"/>
+          <polygon id="polygon106576-4-3" data-name="polygon106576-4" class="cls-8" points="8.423 76.278 8.423 78.578 7.843 78.078 7.843 76.888 8.423 76.278"/>
+        </g>
+        <g>
+          <path id="path106564-2-4" data-name="path106564" class="cls-2" d="M141.525,81.107h3.9l1.5-1.6v-4.1l-1.5-1.6h-4.2l-1.5,1.6v4.1l1.5,1.6Z"/>
+          <rect id="rect106566-2-4" data-name="rect106566" class="cls-3" x="142.125" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-2-4" data-name="rect106568" class="cls-4" x="142.715" y="76.888" width="1.2" height="1.2"/>
+          <polygon id="polygon106570-2-4" data-name="polygon106570" class="cls-5" points="142.116 78.578 144.436 78.578 143.936 78.078 142.726 78.078 142.116 78.578"/>
+          <polygon id="polygon106572-2-4" data-name="polygon106572" class="cls-6" points="142.116 76.278 142.726 76.888 142.726 78.078 142.116 78.578 142.116 76.278"/>
+          <polygon id="polygon106574-2-4" data-name="polygon106574" class="cls-7" points="144.436 76.278 143.936 76.888 142.726 76.888 142.116 76.278 144.436 76.278"/>
+          <polygon id="polygon106576-2-4" data-name="polygon106576" class="cls-8" points="144.436 76.278 144.436 78.578 143.936 78.078 143.936 76.888 144.436 76.278"/>
+          <path id="path106564-2-5" data-name="path106564-2" class="cls-2" d="M127.106,81.107h3.93l1.5-1.6v-4.1l-1.5-1.6h-4.2l-1.5,1.6v4.1l1.5,1.6Z"/>
+          <rect id="rect106566-2-5" data-name="rect106566-2" class="cls-3" x="127.697" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-2-5" data-name="rect106568-2" class="cls-4" x="128.297" y="76.888" width="1.099" height="1.2"/>
+          <polygon id="polygon106570-2-5" data-name="polygon106570-2" class="cls-5" points="127.687 78.578 130.007 78.578 129.387 78.078 128.297 78.078 127.687 78.578"/>
+          <polygon id="polygon106572-2-5" data-name="polygon106572-2" class="cls-6" points="127.687 76.278 128.297 76.888 128.297 78.078 127.687 78.578 127.687 76.278"/>
+          <polygon id="polygon106574-2-5" data-name="polygon106574-2" class="cls-7" points="130.007 76.278 129.387 76.888 128.297 76.888 127.687 76.278 130.007 76.278"/>
+          <polygon id="polygon106576-2-5" data-name="polygon106576-2" class="cls-8" points="130.007 76.278 130.007 78.578 129.387 78.078 129.387 76.888 130.007 76.278"/>
+          <path id="path106564-3-4" data-name="path106564-3" class="cls-2" d="M134.316,81.107h3.9l1.5-1.6v-4.1l-1.5-1.6h-4.18l-1.44,1.6v4.1l1.5,1.6Z"/>
+          <rect id="rect106566-3-4" data-name="rect106566-3" class="cls-3" x="134.916" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-3-4" data-name="rect106568-3" class="cls-4" x="135.506" y="76.888" width="1.11" height="1.2"/>
+          <polygon id="polygon106570-3-4" data-name="polygon106570-3" class="cls-5" points="134.906 78.578 137.226 78.578 136.616 78.078 135.506 78.078 134.906 78.578"/>
+          <polygon id="polygon106572-3-4" data-name="polygon106572-3" class="cls-6" points="134.906 76.278 135.506 76.888 135.506 78.078 134.906 78.578 134.906 76.278"/>
+          <polygon id="polygon106574-3-4" data-name="polygon106574-3" class="cls-7" points="137.226 76.278 136.616 76.888 135.506 76.888 134.906 76.278 137.226 76.278"/>
+          <polygon id="polygon106576-3-4" data-name="polygon106576-3" class="cls-8" points="137.226 76.278 137.226 78.578 136.616 78.078 136.616 76.888 137.226 76.278"/>
+          <path id="path106564-4-4" data-name="path106564-4" class="cls-2" d="M119.9,81.107h3.9l1.5-1.6v-4.1l-1.5-1.6h-4.2l-1.51,1.6v4.1l1.51,1.6Z"/>
+          <rect id="rect106566-4-4" data-name="rect106566-4" class="cls-3" x="120.487" y="76.288" width="2.3" height="2.3"/>
+          <rect id="rect106568-4-4" data-name="rect106568-4" class="cls-4" x="121.078" y="76.888" width="1.109" height="1.2"/>
+          <polygon id="polygon106570-4-4" data-name="polygon106570-4" class="cls-5" points="120.478 78.578 122.768 78.578 122.188 78.078 121.078 78.078 120.478 78.578"/>
+          <polygon id="polygon106572-4-4" data-name="polygon106572-4" class="cls-6" points="120.478 76.278 121.078 76.888 121.078 78.078 120.478 78.578 120.478 76.278"/>
+          <polygon id="polygon106574-4-4" data-name="polygon106574-4" class="cls-7" points="122.768 76.278 122.188 76.888 121.078 76.888 120.478 76.278 122.768 76.278"/>
+          <polygon id="polygon106576-4-4" data-name="polygon106576-4" class="cls-8" points="122.768 76.278 122.768 78.578 122.188 78.078 122.188 76.888 122.768 76.278"/>
+        </g>
+      </g>
+      <g>
+        <path id="path106636-3" data-name="path106636" class="cls-11" d="M3.339,91.786v3.92l1.6,1.5h12.1l1.6-1.5v-4.2l-1.6-1.5H4.939l-1.6,1.5Z"/>
+        <path id="path106636-4" data-name="path106636" class="cls-11" d="M3.339,99.006v3.92l1.6,1.5h12.1l1.6-1.5v-4.2l-1.6-1.5H4.939l-1.6,1.5Z"/>
+        <path id="path106636-5" data-name="path106636" class="cls-11" d="M3.339,106.226v3.92l1.6,1.5h12.1l1.6-1.5v-4.2l-1.6-1.5H4.939l-1.6,1.5Z"/>
+      </g>
+      <g>
+        <path id="path106636-6" data-name="path106636" class="cls-11" d="M132.061,91.786v3.92l1.6,1.5h12.1l1.6-1.5v-4.2l-1.6-1.5h-12.1l-1.6,1.5Z"/>
+        <path id="path106636-7" data-name="path106636" class="cls-11" d="M132.061,99.006v3.92l1.6,1.5h12.1l1.6-1.5v-4.2l-1.6-1.5h-12.1l-1.6,1.5Z"/>
+        <path id="path106636-8" data-name="path106636" class="cls-11" d="M132.061,106.226v3.92l1.6,1.5h12.1l1.6-1.5v-4.2l-1.6-1.5h-12.1l-1.6,1.5Z"/>
+      </g>
+      <g>
+        <g id="g530-2-2-2">
+          <path id="path532-2-2-2" d="M14.286,51.426a2.008,2.008,0,1,0,2.008,2.008h0a2.008,2.008,0,0,0-2.008-2.008h0m0,5.235a3.227,3.227,0,1,1,3.227-3.227,3.227,3.227,0,0,1-3.227,3.227h0"/>
+        </g>
+        <g id="g534-2-2-2">
+          <path id="path536-2-2-2" d="M14.286,45.159a2.229,2.229,0,1,0,2.229,2.229,2.229,2.229,0,0,0-2.229-2.229h0m0,1.219a1.01,1.01,0,1,1-1.009,1.011h0a1.011,1.011,0,0,1,1.009-1.01"/>
+        </g>
+        <g id="g538-2-2-2">
+          <path id="path540-2-2-2" d="M13.917,58.781a5.37,5.37,0,0,1-3.834-8.7l-.393-.394a.626.626,0,0,1-.06-.836.609.609,0,0,1,.857-.088H10.5a.279.279,0,0,1,.044.04l.876.876a.529.529,0,0,1,0,.747h0a4.264,4.264,0,0,0-1.264,2.736,4.15,4.15,0,1,0,7.077-2.679l-.057-.057a.528.528,0,0,1,0-.746h0l.858-.857a.626.626,0,0,1,.831-.059.609.609,0,0,1,.085.857h0c-.013.016-.026.03-.04.045l-.412.412a5.37,5.37,0,0,1-4.572,8.7"/>
+        </g>
+      </g>
+      <g id="connector-micro-usb">
+        <polygon id="_0.1.40.0" data-name=" 0.1.40.0" class="cls-12" points="16.904 29.641 16.904 12.251 35.673 12.251 35.673 29.641 16.904 29.641"/>
+        <rect id="_0.1.40.1" data-name=" 0.1.40.1" class="cls-10" x="14.885" y="19.831" width="1.82" height="3.09"/>
+        <rect id="_0.1.40.2" data-name=" 0.1.40.2" class="cls-10" x="35.904" y="19.831" width="1.82" height="3.09"/>
+        <rect id="_0.1.40.3" data-name=" 0.1.40.3" class="cls-13" x="16.905" y="29.5" width="18.769" height="0.13"/>
+        <rect id="_0.1.40.4" data-name=" 0.1.40.4" class="cls-14" x="21.184" y="12.521" width="10.25" height="17.109"/>
+        <rect id="_0.1.40.5" data-name=" 0.1.40.5" class="cls-12" x="35.904" y="12.211" width="1" height="0.58"/>
+        <rect id="_0.1.40.6" data-name=" 0.1.40.6" class="cls-13" x="35.904" y="12.211" width="0.64" height="0.58"/>
+        <rect id="_0.1.40.7" data-name=" 0.1.40.7" class="cls-12" x="15.715" y="12.211" width="1" height="0.58"/>
+        <rect id="_0.1.40.8" data-name=" 0.1.40.8" class="cls-13" x="16.075" y="12.211" width="0.64" height="0.58"/>
+        <path id="_0.1.40.9" data-name=" 0.1.40.9" class="cls-13" d="M35.944,29.06l-.23.58h-2.53a11.927,11.927,0,0,0,2.35-.28c.08-.17-.11-.29-.11-.29Z"/>
+        <path id="_0.1.40.10" data-name=" 0.1.40.10" class="cls-13" d="M16.715,29.06l.22.57h2.53a12.048,12.048,0,0,1-2.38-.27.24.24,0,0,1,.11-.29Z"/>
+        <path id="_0.1.40.11" data-name=" 0.1.40.11" class="cls-15" d="M20.084,29.06V27.98h1.6v1.66h.46v-.58h8.33v.58h.47V27.98h1.6v1.08h3.4V12.36h-19.2v16.7Zm10.86-13.49v-.83h1.64v.89a1.59,1.59,0,0,1,.71,1.33,1.478,1.478,0,0,1-.71,1.39V22.9H31.005V18.36a1.581,1.581,0,0,1,0-2.78Zm-10.839,0v-.83h1.64v.89a1.61,1.61,0,0,1,.7,1.33,1.5,1.5,0,0,1-.7,1.39V22.9h-1.59V18.36a1.6,1.6,0,0,1,0-2.79Z"/>
+        <polygon id="_0.1.40.12" data-name=" 0.1.40.12" class="cls-16" points="34.383 29.061 35.503 12.361 35.903 12.361 35.903 29.061 34.383 29.061"/>
+        <polygon id="_0.1.40.13" data-name=" 0.1.40.13" class="cls-17" points="16.704 29.061 16.704 12.361 17.274 23.511 17.844 29.061 16.704 29.061"/>
+        <rect id="_0.1.40.14" data-name=" 0.1.40.14" class="cls-13" x="30.994" y="22.771" width="1.59" height="0.13"/>
+        <rect id="_0.1.40.15" data-name=" 0.1.40.15" class="cls-13" x="20.144" y="22.771" width="1.59" height="0.13"/>
+        <rect id="_0.1.40.16" data-name=" 0.1.40.16" class="cls-12" x="17.645" y="12.571" width="17.319" height="0.67"/>
+        <rect id="_0.1.40.17" data-name=" 0.1.40.17" class="cls-13" x="17.645" y="12.361" width="17.319" height="0.32"/>
+      </g>
+      <g id="T-SOT23-3">
+        <path id="path3479-7-2-2" class="cls-12" d="M53.7,41.632V43.2h2.57v-1.57Z"/>
+        <path id="path3481-0-2-2" class="cls-18" d="M53.938,41.632V43.2h.85v-1.57Z"/>
+        <path id="path3483-6-2" class="cls-12" d="M53.7,47.121v1.6h2.57v-1.6Z"/>
+        <path id="path3485-6-2" class="cls-18" d="M53.938,47.121v1.6h.85v-1.6Z"/>
+        <path id="path3487-1-2-2" class="cls-12" d="M50.239,44.341v1.621h-2.56V44.341Z"/>
+        <path id="path3489-6-2-2" class="cls-18" d="M49.939,44.341v1.621h-.79V44.341Z"/>
+        <path id="path3477-9-2" class="cls-19" d="M50.229,40.942v8.419h3.48V40.942Z"/>
+      </g>
+      <g id="T-SOT23-3-2" data-name="T-SOT23-3">
+        <path id="path3479-7-2-2-2" data-name="path3479-7-2-2" class="cls-12" d="M100.929,67.074h-1.57v2.57h1.57Z"/>
+        <path id="path3481-0-2-2-2" data-name="path3481-0-2-2" class="cls-18" d="M100.929,67.314h-1.57v.85h1.57Z"/>
+        <path id="path3483-6-2-2" data-name="path3483-6-2" class="cls-12" d="M95.44,67.074h-1.6v2.57h1.6Z"/>
+        <path id="path3485-6-2-2" data-name="path3485-6-2" class="cls-18" d="M95.44,67.314h-1.6v.85h1.6Z"/>
+        <path id="path3487-1-2-2-2" data-name="path3487-1-2-2" class="cls-12" d="M98.22,63.615H96.6v-2.56H98.22Z"/>
+        <path id="path3489-6-2-2-2" data-name="path3489-6-2-2" class="cls-18" d="M98.22,63.315H96.6v-.79H98.22Z"/>
+        <path id="path3477-9-2-2" data-name="path3477-9-2" class="cls-19" d="M101.619,63.605H93.2v3.48h8.42Z"/>
+      </g>
+      <g id="T-DPak">
+        <rect id="rect22-9" class="cls-12" x="79.815" y="51.633" width="2.65" height="2.41"/>
+        <rect id="rect24-5" class="cls-12" x="86.184" y="50.443" width="2.65" height="3.6"/>
+        <rect id="rect26-0" class="cls-12" x="73.405" y="50.443" width="2.65" height="3.6"/>
+        <polygon id="polygon15-4" class="cls-12" points="76.925 74.651 85.455 74.651 88.595 73.311 88.595 70.931 73.776 70.931 73.776 73.311 76.925 74.651"/>
+        <rect id="rect31-0" class="cls-13" x="86.184" y="49.103" width="2.65" height="1.33"/>
+        <rect id="rect33-9" class="cls-13" x="73.405" y="49.103" width="2.65" height="1.33"/>
+        <polygon class="cls-20" points="71.756 69.321 73.256 71.101 88.884 71.101 90.484 69.321 90.484 53.932 71.756 53.932 71.756 69.321"/>
+        <polygon class="cls-19" points="72.506 68.761 73.986 70.371 88.294 70.371 89.805 68.761 89.805 54.352 72.506 54.352 72.506 68.761"/>
+        <rect id="rect38-5" class="cls-12" x="86.184" y="46.083" width="2.65" height="3.04"/>
+        <rect id="rect40-2" class="cls-12" x="73.405" y="46.083" width="2.65" height="3.04"/>
+      </g>
+      <g id="SOT2223">
+        <path id="path13471-0-1" class="cls-21" d="M39.4,57.2v10h-6.18v-10Z"/>
+        <path id="path13485-5-7" class="cls-21" d="M56.5,66.924v3.27H49v-3.27Z"/>
+        <path id="path13499-3-4" class="cls-21" d="M56.5,54.151v3.271H49V54.151Z"/>
+        <path id="path13513-8-8" class="cls-21" d="M56.5,60.544v3.25H49v-3.26Z"/>
+        <path id="path13515-8-5" class="cls-22" d="M54.471,69.793V67.387h-5.24V69.8Z"/>
+        <path id="path13517-8-5" class="cls-22" d="M54.471,56.993V54.586h-5.24V57Z"/>
+        <path id="path13519-3-2" class="cls-22" d="M54.471,63.386v-2.42h-5.24v2.42Z"/>
+        <path id="path13521-0-5" class="cls-22" d="M34.222,57.7v9H39.4v-9Z"/>
+        <path id="path13523-6-9" class="cls-19" d="M49.231,52.993v18.36H39.348V52.993Z"/>
+      </g>
+      <g id="D-SMA">
+        <path id="path32590-0-9-7-9-9" class="cls-19" d="M118.825,68.747V61.093H106.636v7.654Z"/>
+        <path id="path32578-9-7-2-9-4" class="cls-12" d="M106.636,67.034V62.8h-1.9v4.248Z"/>
+        <rect class="cls-18" x="105.331" y="62.8" width="0.709" height="4.25"/>
+        <path id="path32578-9-7-2-9-4-2" class="cls-12" d="M120.778,67.034V62.8h-1.9v4.248Z"/>
+        <rect class="cls-18" x="119.474" y="62.8" width="0.709" height="4.25"/>
+      </g>
+      <g id="L1812">
+        <path id="path12961-3-6-3" class="cls-23" d="M39.216,39.6h4.65a.742.742,0,0,0,.75-.73v-7.24a.74.74,0,0,0-.74-.74h-4.66Z"/>
+        <path id="path12961-4-4-0" class="cls-23" d="M33.886,30.884H29.237a.74.74,0,0,0-.75.728v7.232a.769.769,0,0,0,.75.75h4.649Z"/>
+        <path id="path8324-7-2" class="cls-24" d="M29.966,34.144a1.17,1.17,0,0,1,1.31,1h0A1.141,1.141,0,0,1,30.3,36.43h-.028a1.5,1.5,0,0,1-.3,0v2.514h12.81v-2.57a1.159,1.159,0,0,1-1.309-.989h0v-.011A1.11,1.11,0,0,1,42.39,34.1h.017a.206.206,0,0,1,.07,0h0a1.5,1.5,0,0,1,.3,0v-2.57H29.968Z"/>
+        <rect id="rect8326-5-3" class="cls-25" x="33.176" y="31.534" width="6.349" height="7.419"/>
+      </g>
+      <g id="connector">
+        <path id="path8589-5-2" class="cls-26" d="M135.805,57.343h-3.861a.2.2,0,1,1,0-.4h3.861a.2.2,0,1,1,0,.4h0"/>
+        <path id="path8593-1-2" class="cls-26" d="M135.805,57.343a.2.2,0,0,1-.2-.2V28.7a.2.2,0,0,1,.194-.206h0a.2.2,0,0,1,.206.194h0V57.143a.2.2,0,0,1-.2.2h0"/>
+        <path id="path8597-7-7" class="cls-26" d="M135.805,28.866a.2.2,0,0,1-.2-.2v-9.9a.2.2,0,1,1,.4-.012V28.7a.2.2,0,0,1-.2.2h0"/>
+        <path id="path8601-0-4" class="cls-26" d="M135.805,18.967H110.227a.2.2,0,0,1,0-.4h25.578a.2.2,0,1,1,0,.4h0"/>
+        <path id="path13223-8-6" class="cls-27" d="M110.957,25.466V54.4c0,5.21,6.21,5.5,13.509,5.5s13.509-.29,13.509-5.5V25.466Z"/>
+        <path id="path13225-0-0" class="cls-19" d="M140.825,25.586h-32.72V15.1h32.717Z"/>
+        <path id="path13229-8-7" class="cls-28" d="M124.467,57.2c-4.84,0-9,0-11.419,1.07,2.42,1.51,6.68,1.64,11.419,1.64s9-.13,11.419-1.64c-2.38-1-6.58-1.07-11.419-1.07"/>
+        <path id="path13241-9-8" class="cls-13" d="M121.217,61.122a.182.182,0,0,1-.18-.16v-.9a.182.182,0,0,1,.18-.16h6.5a.182.182,0,0,1,.18.16v.9a.181.181,0,0,1-.18.16h-6.5Z"/>
+        <path id="path13249-5-9" class="cls-29" d="M109.578,45.954a.182.182,0,0,1,.18-.16h1a.182.182,0,0,1,.18.16V51.7a.179.179,0,0,1-.18.16h-1a.18.18,0,0,1-.18-.16Z"/>
+        <path id="path13233-1-6" class="cls-13" d="M122.567,61.382a.148.148,0,0,1-.129-.16V61.1a.151.151,0,0,1,.129-.16h3.76c.07,0,.121.08.121.16v.13c0,.09,0,.16-.121.16Z"/>
+      </g>
+      <text class="cls-30" transform="translate(6.264 69.369)">+5V</text>
+      <text class="cls-30" transform="translate(15.556 69.369)">OFF</text>
+      <polyline class="cls-31" points="15.17 72.15 15.17 71.094 21.114 71.094 21.114 72.15"/>
+      <polyline class="cls-31" points="3.739 72.15 3.739 71.094 13.698 71.094 13.698 72.15"/>
+      <polyline class="cls-31" points="22.585 72.15 22.585 71.094 32.545 71.094 32.545 72.15"/>
+      <text class="cls-30" transform="translate(23.773 69.369)">+3.3V</text>
+      <text class="cls-30" transform="translate(139.505 69.369)">+5V</text>
+      <text class="cls-30" transform="translate(129.951 69.369)">OFF</text>
+      <polyline class="cls-31" points="129.564 72.15 129.564 71.094 135.508 71.094 135.508 72.15"/>
+      <polyline class="cls-31" points="118.133 72.15 118.133 71.094 128.093 71.094 128.093 72.15"/>
+      <polyline class="cls-31" points="136.98 72.15 136.98 71.094 146.939 71.094 146.939 72.15"/>
+      <text class="cls-30" transform="translate(119.321 69.369)">+3.3V</text>
+      <g>
+        <text class="cls-32" transform="translate(5.473 86.93)">+</text>
+        <text class="cls-32" transform="translate(12.433 86.93) scale(1.67 1)">-</text>
+      </g>
+      <g>
+        <text class="cls-32" transform="translate(134.265 86.93)">+</text>
+        <text class="cls-32" transform="translate(141.225 86.93) scale(1.67 1)">-</text>
+      </g>
+      <g id="C-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-2" class="cls-33" x="64.939" y="45.7" width="2.26" height="2.26"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-2" class="cls-33" x="64.938" y="42.32" width="2.26" height="2.26"/>
+        <path class="cls-34" d="M64.934,47.07V43.19a.327.327,0,0,1,.277-.33h1.7a.306.306,0,0,1,.287.324h0v3.88a.311.311,0,0,1-.286.33H65.231a.321.321,0,0,1-.3-.32h0Z"/>
+        <rect class="cls-35" x="64.932" y="43.288" width="2.27" height="3.685"/>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-2" class="cls-36" d="M67.2,46.55V43.71H64.933v2.84Z"/>
+      </g>
+      <g id="C-0603-2" data-name="C-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-2-2" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-2" class="cls-33" x="58.27" y="67.661" width="2.26" height="2.26"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-2-2" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-2" class="cls-33" x="58.269" y="64.281" width="2.26" height="2.26"/>
+        <path class="cls-34" d="M58.265,69.031v-3.88a.328.328,0,0,1,.277-.33h1.7a.308.308,0,0,1,.287.324h0v3.88a.31.31,0,0,1-.286.33H58.562a.321.321,0,0,1-.3-.32h0Z"/>
+        <rect class="cls-35" x="58.263" y="65.249" width="2.27" height="3.685"/>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-2-2" data-name="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-2" class="cls-36" d="M60.532,68.511v-2.84H58.264v2.84Z"/>
+      </g>
+      <g id="C-1210">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-3-3" class="cls-33" x="66.026" y="54.402" width="3.868" height="7.087"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-3-3" class="cls-33" x="58.144" y="54.402" width="3.868" height="7.087"/>
+        <path class="cls-34" d="M67.943,61.489H60.161a.8.8,0,0,1-.677-.876V55.3a.8.8,0,0,1,.626-.9h7.783a.773.773,0,0,1,.659.854v5.34a.826.826,0,0,1-.659.9h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-3-3">
+          <rect class="cls-35" x="60.34" y="54.402" width="7.37" height="7.087"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-3-3" class="cls-36" d="M66.874,54.4H61.205v7.087h5.669Z"/>
+      </g>
+      <g id="C-1210-2" data-name="C-1210">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-3-3-2" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-3-3" class="cls-33" x="92.476" y="46.07" width="7.087" height="3.868"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-3-3-2" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-3-3" class="cls-33" x="92.476" y="53.952" width="7.087" height="3.868"/>
+        <path class="cls-34" d="M99.563,48.021V55.8a.8.8,0,0,1-.876.677H93.372a.8.8,0,0,1-.9-.626h0V48.071a.774.774,0,0,1,.854-.659h5.34a.825.825,0,0,1,.9.659h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-3-3-2" data-name="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-3-3">
+          <rect class="cls-35" x="92.476" y="48.254" width="7.087" height="7.37"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-3-3-2" data-name="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-3-3" class="cls-36" d="M92.476,49.09v5.669h7.087V49.09Z"/>
+      </g>
+      <g id="R-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5" class="cls-33" x="41.841" y="23.097" width="2.268" height="2.26"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5" class="cls-33" x="41.841" y="19.707" width="2.268" height="2.26"/>
+        <path class="cls-34" d="M41.841,24.467V20.6a.328.328,0,0,1,.278-.33h1.7a.306.306,0,0,1,.287.323h0v3.87a.31.31,0,0,1-.285.33H42.138a.321.321,0,0,1-.3-.32h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5">
+          <rect class="cls-35" x="41.841" y="20.687" width="2.268" height="3.68"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5" class="cls-19" d="M44.109,23.947v-2.83H41.841v2.83Z"/>
+      </g>
+      <g id="R-0603-2" data-name="R-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5-2" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5" class="cls-33" x="59.467" y="45.723" width="2.268" height="2.26"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5-2" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5" class="cls-33" x="59.467" y="42.333" width="2.268" height="2.26"/>
+        <path class="cls-34" d="M59.467,47.093V43.226a.328.328,0,0,1,.278-.33h1.7a.306.306,0,0,1,.287.324h0v3.87a.31.31,0,0,1-.285.33H59.764a.321.321,0,0,1-.3-.32h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5-2" data-name="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5">
+          <rect class="cls-35" x="59.467" y="43.313" width="2.268" height="3.68"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5-2" data-name="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5" class="cls-19" d="M61.735,46.573v-2.83H59.467v2.83Z"/>
+      </g>
+      <g id="R-0603-3" data-name="R-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5-3" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5" class="cls-33" x="52.538" y="29.754" width="2.26" height="2.268"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5-3" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5" class="cls-33" x="49.148" y="29.754" width="2.26" height="2.268"/>
+        <path class="cls-34" d="M53.908,32.022H50.041a.329.329,0,0,1-.33-.278v-1.7a.305.305,0,0,1,.324-.287h3.87a.309.309,0,0,1,.33.285v1.683a.322.322,0,0,1-.32.3h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5-3" data-name="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5">
+          <rect class="cls-35" x="50.128" y="29.754" width="3.68" height="2.268"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5-3" data-name="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5" class="cls-19" d="M53.388,29.754h-2.83v2.268h2.83Z"/>
+      </g>
+      <g id="R-0603-4" data-name="R-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5-4" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5" class="cls-33" x="97.969" y="72.123" width="2.26" height="2.268"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5-4" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5" class="cls-33" x="94.579" y="72.123" width="2.26" height="2.268"/>
+        <path class="cls-34" d="M99.339,74.391H95.472a.33.33,0,0,1-.33-.278v-1.7a.306.306,0,0,1,.324-.287h3.87a.308.308,0,0,1,.33.285v1.683a.321.321,0,0,1-.32.3h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5-4" data-name="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5">
+          <rect class="cls-35" x="95.559" y="72.123" width="3.68" height="2.268"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5-4" data-name="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5" class="cls-19" d="M98.819,72.123h-2.83v2.268h2.83Z"/>
+      </g>
+      <g id="R-0603-5" data-name="R-0603">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5-5" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-5" class="cls-33" x="23.538" y="31.396" width="2.26" height="2.268"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5-5" data-name="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-5" class="cls-33" x="20.148" y="31.396" width="2.26" height="2.268"/>
+        <path class="cls-34" d="M24.908,33.664H21.041a.328.328,0,0,1-.33-.278v-1.7a.306.306,0,0,1,.324-.287h3.87a.309.309,0,0,1,.33.285v1.683a.321.321,0,0,1-.32.3h0Z"/>
+        <g id="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5-5" data-name="path26345-3-6-9-3-6-4-2-5-6-8-7-9-0-90-3-1-3-9-2-2-8-5-0-2-3-5-16-5">
+          <rect class="cls-35" x="21.128" y="31.396" width="3.68" height="2.268"/>
+        </g>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5-5" data-name="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-5" class="cls-19" d="M24.388,31.4h-2.83v2.268h2.83Z"/>
+      </g>
+      <g id="LED-0805">
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-9-16-9" class="cls-33" x="53.598" y="23.093" width="2.9" height="3.4"/>
+        <rect id="rect21332-8-1-9-3-8-2-40-6-2-0-6-6-0-5-6-4-8-7-2-0-7-2-3-10-16-9" class="cls-33" x="48.579" y="23.093" width="2.9" height="3.4"/>
+        <path class="cls-34" d="M54.969,26.493h-4.84a.42.42,0,0,1-.42-.42v-2.55a.41.41,0,0,1,.388-.43h4.84a.412.412,0,0,1,.41.41v2.56a.429.429,0,0,1-.41.43h.032Z"/>
+        <rect class="cls-35" x="50.409" y="23.093" width="4.25" height="3.4"/>
+        <path id="path26341-4-2-6-0-8-1-1-1-5-0-3-3-1-8-3-8-7-7-7-2-4-9-7-2-3-5-16-9" class="cls-37" d="M53.969,23.094H51.128v3.4h2.841Z"/>
+        <path id="path6963-86-8-2-6-0-1-7-9-2-3" class="cls-38" d="M53.709,25h-.391v-.42h.391Z"/>
+      </g>
+      <g>
+        <g>
+          <path id="path65878-6" class="cls-13" d="M69.31,29.06v8.282H64.974V29.06Z"/>
+          <path id="path65890-2" class="cls-39" d="M69.31,35.92V29.06H64.974v6.86Z"/>
+          <path id="path65892-6" class="cls-40" d="M69.31,29.06v5.653H64.974V29.06Z"/>
+        </g>
+        <g>
+          <path id="path65878-6-2" data-name="path65878-6" class="cls-13" d="M79.257,29.06v8.282H74.92V29.06Z"/>
+          <path id="path65890-2-2" data-name="path65890-2" class="cls-39" d="M79.257,35.92V29.06H74.92v6.86Z"/>
+          <path id="path65892-6-2" data-name="path65892-6" class="cls-40" d="M79.257,29.06v5.653H74.92V29.06Z"/>
+        </g>
+        <g>
+          <path id="path65878-6-3" data-name="path65878-6" class="cls-13" d="M89.2,29.06v8.282H84.867V29.06Z"/>
+          <path id="path65890-2-3" data-name="path65890-2" class="cls-39" d="M89.2,35.92V29.06H84.867v6.86Z"/>
+          <path id="path65892-6-3" data-name="path65892-6" class="cls-40" d="M89.2,29.06v5.653H84.867V29.06Z"/>
+        </g>
+        <rect class="cls-17" x="62.418" y="15.003" width="29.367" height="0.36" rx="0.18"/>
+        <polygon class="cls-41" points="71.176 15.074 62.672 15.074 62.672 1.107 63.124 0 63.804 1.107 63.804 1.107 64.642 0 65.34 1.107 65.34 1.107 66.017 0 66.772 1.107 66.772 1.107 67.618 0 68.341 1.158 69.157 0 69.834 1.158 69.834 1.158 70.573 0 71.176 1.107 71.176 15.074"/>
+        <path id="path65904-1" class="cls-13" d="M95.527,29.354l0-.236v-13.7l0-.234H58.676V29.356h0Z"/>
+        <line class="cls-42" x1="59.364" y1="28.837" x2="59.364" y2="37.341"/>
+        <line class="cls-42" x1="94.813" y1="28.837" x2="94.813" y2="37.341"/>
+        <rect class="cls-43" x="59.58" y="15.93" width="34.974" height="13.53"/>
+        <path class="cls-44" d="M74.254,29.46V26.73h5.669v2.73"/>
+        <path class="cls-44" d="M60.081,29.46V26.73H69.66v2.73"/>
+        <path class="cls-44" d="M84.537,29.46V26.73h9.579v2.73"/>
+        <rect class="cls-45" x="58.658" y="15.586" width="36.818" height="0.344"/>
+        <rect class="cls-12" x="58.658" y="15.93" width="0.175" height="21.411"/>
+        <rect class="cls-15" x="95.283" y="15.906" width="0.175" height="21.411"/>
+      </g>
+      <text class="cls-46" transform="translate(49.711 20.27)">ON</text>
+      <text class="cls-46" transform="translate(98.41 20.27)">OFF</text>
+      <text class="cls-46" transform="translate(143.321 48.298) rotate(-90)">+7…+12V</text>
+      <g>
+        <circle class="cls-31" cx="147.165" cy="46.364" r="1.701"/>
+        <path class="cls-47" d="M148.573,39.369a1.7,1.7,0,1,1-3.109.955,1.853,1.853,0,0,1,.267-.942"/>
+        <circle class="cls-31" cx="147.165" cy="34.283" r="1.701"/>
+        <line class="cls-31" x1="147.165" y1="42.024" x2="147.165" y2="44.663"/>
+        <line class="cls-31" x1="147.165" y1="35.984" x2="147.165" y2="40.218"/>
+        <circle class="cls-48" cx="147.165" cy="40.312" r="0.943"/>
+        <text class="cls-49" transform="translate(148.866 35.705) rotate(-90)">+</text>
+        <text class="cls-50" transform="translate(148.866 48.208) rotate(-90) scale(1.67 1)">-</text>
+      </g>
+      <polygon id="JP" class="cls-48" points="5.306 81.138 9.306 81.138 12.606 81.138 16.606 81.138 18.106 79.578 18.106 75.408 16.606 73.838 12.606 73.838 9.306 73.838 5.306 73.838 3.806 75.408 3.806 79.578 5.306 81.138"/>
+      <polygon id="JP-2" data-name="JP" class="cls-48" points="134.075 81.078 138.075 81.078 141.375 81.078 145.375 81.078 146.875 79.518 146.875 75.348 145.375 73.778 141.375 73.778 138.075 73.778 134.075 73.778 132.575 75.348 132.575 79.518 134.075 81.078"/>
+    </g>
+  </g>
+</svg>
