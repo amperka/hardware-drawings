@@ -1,0 +1,219 @@
+<svg id="openmv-telephoto-lens" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.953mm" height="14.353mm" viewBox="0 0 107.583 40.685">
+  <defs>
+    <style>
+      .cls-1, .cls-14, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 17.399;
+      }
+
+      .cls-1 {
+        stroke-width: 0.283px;
+        fill: url(#Безымянный_градиент_5);
+        stroke: url(#Безымянный_градиент_13);
+      }
+
+      .cls-14, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 0.567px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #5c5759;
+      }
+
+      .cls-3 {
+        stroke: #333;
+        stroke-width: 0.283px;
+      }
+
+      .cls-4 {
+        stroke: #e6e6e6;
+      }
+
+      .cls-5 {
+        stroke: url(#Безымянный_градиент_27);
+      }
+
+      .cls-6 {
+        fill: url(#Безымянный_градиент_33);
+      }
+
+      .cls-7 {
+        fill: url(#Безымянный_градиент_18);
+      }
+
+      .cls-8 {
+        fill: url(#Безымянный_градиент_101);
+      }
+
+      .cls-9 {
+        fill: url(#Безымянный_градиент_19);
+      }
+
+      .cls-10 {
+        fill: url(#Безымянный_градиент_19-2);
+      }
+
+      .cls-11 {
+        fill: url(#Безымянный_градиент_19-3);
+      }
+
+      .cls-12 {
+        fill: url(#Безымянный_градиент_63);
+      }
+
+      .cls-13 {
+        fill: url(#Безымянный_градиент_50);
+      }
+
+      .cls-14 {
+        stroke: #5b5a5a;
+      }
+
+      .cls-15 {
+        fill: url(#Безымянный_градиент_38);
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_5" data-name="Безымянный градиент 5" x1="65.008" y1="20.405" x2="104.693" y2="20.405" gradientTransform="translate(64.446 105.255) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.025" stop-color="#282426"/>
+      <stop offset="0.906" stop-color="#282426"/>
+      <stop offset="1" stop-color="#282426"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_13" data-name="Безымянный градиент 13" x1="64.866" y1="20.405" x2="104.835" y2="20.405" gradientTransform="translate(64.446 105.255) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.025" stop-color="#1a1a1a"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_27" data-name="Безымянный градиент 27" x1="20.343" x2="20.343" y2="40.685" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_33" data-name="Безымянный градиент 33" x1="2.626" y1="20.343" x2="38.059" y2="20.343" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#4d4d4d"/>
+      <stop offset="0.12" stop-color="#484848" stop-opacity="0.963"/>
+      <stop offset="0.235" stop-color="#3a3a3a" stop-opacity="0.854"/>
+      <stop offset="0.359" stop-color="#232323" stop-opacity="0.674"/>
+      <stop offset="0.487" stop-color="#030303" stop-opacity="0.423"/>
+      <stop offset="0.497" stop-opacity="0.4"/>
+      <stop offset="0.555" stop-color="#121212" stop-opacity="0.539"/>
+      <stop offset="0.659" stop-color="#2c2c2c" stop-opacity="0.741"/>
+      <stop offset="0.766" stop-color="#3e3e3e" stop-opacity="0.886"/>
+      <stop offset="0.878" stop-color="#494949" stop-opacity="0.972"/>
+      <stop offset="1" stop-color="#4d4d4d"/>
+    </linearGradient>
+    <radialGradient id="Безымянный_градиент_18" data-name="Безымянный градиент 18" cx="20.558" cy="20.343" r="7.559" gradientTransform="translate(-6.64 -6.357) scale(1.313 1.313)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.765" stop-color="#080808" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#0d0d0d" stop-opacity="0.9"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_101" data-name="Безымянный градиент 101" cx="20.353" cy="20.343" r="8.402" gradientTransform="translate(-0.257 -0.246) scale(1.012 1.012)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.008" stop-color="#fff" stop-opacity="0.7"/>
+      <stop offset="0.092" stop-color="#fff" stop-opacity="0.728"/>
+      <stop offset="0.308" stop-color="#fff" stop-opacity="0.782"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="0.696" stop-color="#fff" stop-opacity="0.78"/>
+      <stop offset="0.93" stop-color="#fff" stop-opacity="0.723"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.7"/>
+    </radialGradient>
+    <linearGradient id="Безымянный_градиент_19" data-name="Безымянный градиент 19" x1="15.678" y1="22.723" x2="17.678" y2="22.723" gradientUnits="userSpaceOnUse">
+      <stop offset="0.017" stop-color="#b3b3b3" stop-opacity="0.6"/>
+      <stop offset="0.259" stop-color="#bdbdbd" stop-opacity="0.547"/>
+      <stop offset="0.623" stop-color="#d9d9d9" stop-opacity="0.401"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_19-2" x1="23.244" y1="18.768" x2="25.244" y2="18.768" xlink:href="#Безымянный_градиент_19"/>
+    <linearGradient id="Безымянный_градиент_19-3" x1="19.607" y1="20.768" x2="20.457" y2="20.768" xlink:href="#Безымянный_градиент_19"/>
+    <radialGradient id="Безымянный_градиент_63" data-name="Безымянный градиент 63" cx="20.343" cy="20.343" r="4.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0.014" stop-color="#fff" stop-opacity="0.3"/>
+      <stop offset="0.085" stop-color="#eeccec" stop-opacity="0.349"/>
+      <stop offset="0.235" stop-color="#d274cd" stop-opacity="0.432"/>
+      <stop offset="0.379" stop-color="#c13fba" stop-opacity="0.483"/>
+      <stop offset="0.506" stop-color="#bb2db3" stop-opacity="0.5"/>
+      <stop offset="0.559" stop-color="#bc32b5" stop-opacity="0.511"/>
+      <stop offset="0.624" stop-color="#c13fb9" stop-opacity="0.542"/>
+      <stop offset="0.694" stop-color="#c855c1" stop-opacity="0.595"/>
+      <stop offset="0.768" stop-color="#d273cc" stop-opacity="0.667"/>
+      <stop offset="0.845" stop-color="#df9bdb" stop-opacity="0.761"/>
+      <stop offset="0.923" stop-color="#eecaec" stop-opacity="0.874"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="Безымянный_градиент_50" data-name="Безымянный градиент 50" cx="20.192" cy="20.007" r="9.921" gradientTransform="translate(3.035 2.906) scale(0.857 0.857)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.025" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="0.034" stop-color="#fff" stop-opacity="0.237"/>
+      <stop offset="0.045" stop-color="#fff" stop-opacity="0.361"/>
+      <stop offset="0.057" stop-color="#fff" stop-opacity="0.467"/>
+      <stop offset="0.07" stop-color="#fff" stop-opacity="0.553"/>
+      <stop offset="0.085" stop-color="#fff" stop-opacity="0.62"/>
+      <stop offset="0.105" stop-color="#fff" stop-opacity="0.666"/>
+      <stop offset="0.132" stop-color="#fff" stop-opacity="0.693"/>
+      <stop offset="0.207" stop-color="#fff" stop-opacity="0.7"/>
+      <stop offset="0.545" stop-color="#fff" stop-opacity="0.513"/>
+      <stop offset="0.596" stop-color="#fff" stop-opacity="0.455"/>
+      <stop offset="0.781" stop-color="#fff" stop-opacity="0.263"/>
+      <stop offset="0.921" stop-color="#fff" stop-opacity="0.145"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.1"/>
+    </radialGradient>
+    <linearGradient id="Безымянный_градиент_38" data-name="Безымянный градиент 38" x1="24.591" y1="27.733" x2="16.094" y2="13.015" gradientUnits="userSpaceOnUse">
+      <stop offset="0.025" stop-color="#ab2bb3" stop-opacity="0.1"/>
+      <stop offset="0.122" stop-color="#b23cb9" stop-opacity="0.116"/>
+      <stop offset="0.25" stop-color="#c56ecb" stop-opacity="0.163"/>
+      <stop offset="0.396" stop-color="#e5bee8" stop-opacity="0.239"/>
+      <stop offset="0.492" stop-color="#fff" stop-opacity="0.3"/>
+      <stop offset="0.525" stop-color="#f4e4f5" stop-opacity="0.274"/>
+      <stop offset="0.642" stop-color="#d493d8" stop-opacity="0.198"/>
+      <stop offset="0.76" stop-color="#bd59c4" stop-opacity="0.144"/>
+      <stop offset="0.879" stop-color="#b036b7" stop-opacity="0.111"/>
+      <stop offset="1" stop-color="#ab2bb3" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <title>openmv-telephoto-lens</title>
+  <g id="side">
+    <g id="side-2" data-name="side">
+      <rect class="cls-1" x="67.843" y="0.562" width="34.016" height="39.685" rx="0.505" transform="translate(105.255 -64.446) rotate(90)"/>
+      <g>
+        <line class="cls-2" x1="100.459" y1="3.397" x2="100.459" y2="37.413"/>
+        <line class="cls-2" x1="98.756" y1="3.397" x2="98.756" y2="37.413"/>
+        <line class="cls-2" x1="97.054" y1="3.397" x2="97.054" y2="37.413"/>
+        <line class="cls-2" x1="95.352" y1="3.397" x2="95.352" y2="37.413"/>
+        <line class="cls-2" x1="93.649" y1="3.397" x2="93.649" y2="37.413"/>
+        <line class="cls-2" x1="91.947" y1="3.397" x2="91.947" y2="37.413"/>
+        <line class="cls-2" x1="90.244" y1="3.397" x2="90.244" y2="37.413"/>
+        <line class="cls-2" x1="88.542" y1="3.397" x2="88.542" y2="37.413"/>
+        <line class="cls-2" x1="85.137" y1="3.397" x2="85.137" y2="37.413"/>
+        <line class="cls-2" x1="83.435" y1="3.397" x2="83.435" y2="37.413"/>
+        <line class="cls-2" x1="81.732" y1="3.397" x2="81.732" y2="37.413"/>
+        <line class="cls-2" x1="80.03" y1="3.397" x2="80.03" y2="37.413"/>
+        <line class="cls-2" x1="78.328" y1="3.397" x2="78.328" y2="37.413"/>
+        <line class="cls-2" x1="76.625" y1="3.397" x2="76.625" y2="37.413"/>
+        <line class="cls-2" x1="74.923" y1="3.397" x2="74.923" y2="37.413"/>
+        <line class="cls-2" x1="73.22" y1="3.397" x2="73.22" y2="37.413"/>
+        <line class="cls-2" x1="71.518" y1="3.397" x2="71.518" y2="37.413"/>
+        <line class="cls-2" x1="69.816" y1="3.397" x2="69.816" y2="37.413"/>
+        <line class="cls-2" x1="68.113" y1="3.397" x2="68.113" y2="37.413"/>
+        <line class="cls-2" x1="66.411" y1="3.397" x2="66.411" y2="37.413"/>
+        <line class="cls-2" x1="86.84" y1="3.397" x2="86.84" y2="37.413"/>
+      </g>
+      <rect class="cls-3" x="83.347" y="16.153" width="39.685" height="8.504" rx="0.842" transform="translate(123.594 -82.784) rotate(90)"/>
+    </g>
+    <line class="cls-4" x1="64.595" y1="12.665" x2="64.595" y2="28.144"/>
+  </g>
+  <g id="top">
+    <rect class="cls-5" x="0.5" y="0.5" width="39.685" height="39.685" rx="19.842"/>
+    <rect class="cls-6" x="2.626" y="2.626" width="35.433" height="35.433" rx="17.717"/>
+    <rect class="cls-7" x="10.421" y="10.421" width="19.843" height="19.843" rx="9.921"/>
+    <path class="cls-8" d="M20.343,28.846h0a8.528,8.528,0,0,1-8.5-8.5h0a8.528,8.528,0,0,1,8.5-8.5h.1a8.423,8.423,0,0,1,8.4,8.4v.105A8.528,8.528,0,0,1,20.343,28.846Z"/>
+    <rect class="cls-9" x="15.678" y="21.723" width="2" height="2" rx="1"/>
+    <rect class="cls-10" x="23.244" y="17.768" width="2" height="2" rx="1"/>
+    <rect class="cls-11" x="19.607" y="20.343" width="0.85" height="0.85" rx="0.425"/>
+    <path class="cls-12" d="M20.343,15.832a4.511,4.511,0,1,0,4.51,4.511A4.524,4.524,0,0,0,20.343,15.832Zm0,7.345a2.835,2.835,0,1,1,2.834-2.834A2.842,2.842,0,0,1,20.343,23.177Z"/>
+    <rect class="cls-13" x="11.839" y="11.551" width="17.008" height="17.008" rx="8.504"/>
+    <rect class="cls-14" x="11.839" y="11.87" width="17.008" height="17.008" rx="8.504"/>
+    <rect class="cls-15" x="11.839" y="11.87" width="17.008" height="17.008" rx="8.504"/>
+  </g>
+</svg>
