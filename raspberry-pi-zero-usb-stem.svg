@@ -1,0 +1,241 @@
+<svg id="raspberry-pi-zero-usb-stem" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109.234mm" height="30.249mm" viewBox="0 0 309.639 85.745">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ddd;
+      }
+
+      .cls-2 {
+        fill: #e6e7e8;
+      }
+
+      .cls-11, .cls-15, .cls-16, .cls-3, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #939598;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #f2f2f2;
+      }
+
+      .cls-11, .cls-4, .cls-5, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-11, .cls-4, .cls-9 {
+        stroke-width: 0.709px;
+      }
+
+      .cls-5 {
+        stroke: #ccc;
+        stroke-width: 0.283px;
+      }
+
+      .cls-7 {
+        fill: #f73131;
+        stroke: #aa1f1b;
+      }
+
+      .cls-15, .cls-16, .cls-7 {
+        stroke-miterlimit: 11.339;
+      }
+
+      .cls-16, .cls-7 {
+        stroke-width: 0.425px;
+      }
+
+      .cls-8 {
+        fill: #f9e494;
+      }
+
+      .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-10 {
+        fill: url(#Безымянный_градиент_160);
+      }
+
+      .cls-11 {
+        stroke: gray;
+      }
+
+      .cls-12 {
+        fill: url(#Безымянный_градиент_160-2);
+      }
+
+      .cls-13 {
+        font-size: 4px;
+        fill: #fff;
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.047em;
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #f2ca55;
+      }
+
+      .cls-15 {
+        stroke-width: 0.85px;
+      }
+
+      .cls-17 {
+        fill: url(#Безымянный_градиент_160-3);
+      }
+
+      .cls-18 {
+        fill: url(#Безымянный_градиент_160-4);
+      }
+
+      .cls-19 {
+        fill: #b3b3b3;
+      }
+
+      .cls-20 {
+        fill: #ccc;
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_160" data-name="Безымянный градиент 160" x1="262.101" y1="25.475" x2="255.477" y2="25.475" gradientUnits="userSpaceOnUse">
+      <stop offset="0.023" stop-color="#404040"/>
+      <stop offset="0.118" stop-color="#616161"/>
+      <stop offset="0.267" stop-color="#8e8e8e"/>
+      <stop offset="0.382" stop-color="#aaa"/>
+      <stop offset="0.448" stop-color="#b5b5b5"/>
+      <stop offset="0.553" stop-color="#b1b1b1"/>
+      <stop offset="0.651" stop-color="#a6a6a6"/>
+      <stop offset="0.746" stop-color="#939393"/>
+      <stop offset="0.84" stop-color="#797979"/>
+      <stop offset="0.931" stop-color="#575757"/>
+      <stop offset="1" stop-color="#383838"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_160-2" x1="262.053" y1="59.889" x2="255.429" y2="59.889" xlink:href="#Безымянный_градиент_160"/>
+    <linearGradient id="Безымянный_градиент_160-3" x1="93.101" y1="25.475" x2="86.477" y2="25.475" xlink:href="#Безымянный_градиент_160"/>
+    <linearGradient id="Безымянный_градиент_160-4" x1="93.053" y1="59.889" x2="86.429" y2="59.889" xlink:href="#Безымянный_градиент_160"/>
+  </defs>
+  <title>raspberry-pi-zero-usb-stem</title>
+  <g id="bottom">
+    <g>
+      <rect class="cls-1" x="256.059" y="25.44" width="53.575" height="34.866"/>
+      <g>
+        <g>
+          <path id="path7623-1" class="cls-2" d="M309.634,26.974v31.8H255.965v-31.8Z"/>
+          <path id="path7631-3" class="cls-3" d="M309.634,43.97l-4.133-.037v-1.06h-6.677v1.1H283.15v-1.1h-6.81v1.1h-8.431"/>
+        </g>
+        <g>
+          <rect class="cls-4" x="289.845" y="31.158" width="6.715" height="7.328" transform="translate(586.405 69.644) rotate(-180)"/>
+          <rect class="cls-5" x="290.165" y="31.507" width="6.075" height="6.63" transform="translate(586.405 69.644) rotate(-180)"/>
+        </g>
+        <g>
+          <rect class="cls-4" x="289.845" y="47.158" width="6.715" height="7.328" transform="translate(586.405 101.644) rotate(-180)"/>
+          <rect class="cls-5" x="290.165" y="47.507" width="6.075" height="6.63" transform="translate(586.405 101.644) rotate(-180)"/>
+        </g>
+      </g>
+      <rect class="cls-6" x="255.957" y="28.077" width="11.088" height="29.088"/>
+    </g>
+    <path class="cls-7" d="M259.481.213h-36.87V37.344L209.818,54.576H187.481L169.3,68.688l.042.056h-.008v9.893H170.7a1.753,1.753,0,0,1,3.393,0h1.885a1.753,1.753,0,0,1,3.393,0h1.3V74.358l11.347-8.444h17.8v3.713a1.737,1.737,0,0,1,0,3.47v1.808a1.737,1.737,0,0,1,0,3.47v7.158h49.665a8.484,8.484,0,0,0,8.484-8.484V8.7A8.483,8.483,0,0,0,259.481.213ZM232.718,79.387a3.838,3.838,0,0,1-3.781-3.866,3.764,3.764,0,0,1,3.781-3.781,3.837,3.837,0,0,1,3.865,3.781A3.91,3.91,0,0,1,232.718,79.387Zm0-65.407a3.838,3.838,0,0,1-3.781-3.866,3.764,3.764,0,0,1,3.781-3.781,3.837,3.837,0,0,1,3.865,3.781A3.91,3.91,0,0,1,232.718,13.98Z"/>
+    <g>
+      <path class="cls-8" d="M232.692,69.287a6.18,6.18,0,0,0-6.208,6.208,6.3,6.3,0,0,0,6.208,6.347,6.42,6.42,0,0,0,6.345-6.347A6.3,6.3,0,0,0,232.692,69.287Zm.028,9.945a3.681,3.681,0,0,1-3.626-3.708A3.61,3.61,0,0,1,232.72,71.9a3.68,3.68,0,0,1,3.708,3.627A3.751,3.751,0,0,1,232.72,79.232Z"/>
+      <path class="cls-8" d="M232.692,3.88a6.179,6.179,0,0,0-6.208,6.207,6.3,6.3,0,0,0,6.208,6.347,6.42,6.42,0,0,0,6.345-6.347A6.3,6.3,0,0,0,232.692,3.88Zm.028,9.944a3.681,3.681,0,0,1-3.626-3.708,3.61,3.61,0,0,1,3.626-3.627,3.681,3.681,0,0,1,3.708,3.627A3.751,3.751,0,0,1,232.72,13.824Z"/>
+    </g>
+    <line class="cls-9" x1="250.437" y1="3.885" x2="250.437" y2="81.825"/>
+    <g>
+      <g>
+        <circle class="cls-10" cx="258.789" cy="25.475" r="3.312"/>
+        <circle class="cls-11" cx="258.789" cy="25.475" r="3.543"/>
+      </g>
+      <g>
+        <circle class="cls-12" cx="258.741" cy="59.889" r="3.312"/>
+        <circle class="cls-11" cx="258.741" cy="59.889" r="3.543"/>
+      </g>
+    </g>
+    <g>
+      <text class="cls-13" transform="translate(179.205 76.22) rotate(-90)">D+</text>
+      <text class="cls-13" transform="translate(173.973 76.22) rotate(-90)">D−</text>
+      <text class="cls-13" transform="translate(212.475 78.044)">GND</text>
+      <text class="cls-13" transform="translate(212.475 72.552)">VBUS</text>
+      <text class="cls-13" transform="translate(236.583 58.391) rotate(-90)"><tspan class="cls-14">P</tspan><tspan x="2.043" y="0">i Zero USB Stem</tspan></text>
+    </g>
+    <g>
+      <path class="cls-15" d="M209.619,74.956a1.738,1.738,0,0,1,0,3.473"/>
+      <path class="cls-15" d="M209.619,69.678a1.738,1.738,0,0,1,0,3.473"/>
+    </g>
+    <g>
+      <path class="cls-16" d="M175.933,78.987a1.739,1.739,0,0,1,3.474,0"/>
+      <path class="cls-16" d="M170.655,78.987a1.739,1.739,0,0,1,3.474,0"/>
+      <path class="cls-16" d="M170.658,79.086"/>
+    </g>
+  </g>
+  <g id="top">
+    <path class="cls-7" d="M90.481.213H53.611V37.344L40.818,54.576H18.481L.3,68.688l.042.056H.329v9.893H1.7a1.72,1.72,0,0,1,1.7-1.312,1.719,1.719,0,0,1,1.7,1.312H6.973a1.753,1.753,0,0,1,3.393,0h1.3V74.358l11.347-8.444h17.8v3.713a1.737,1.737,0,0,1,0,3.47v1.808a1.737,1.737,0,0,1,0,3.47v7.158H90.481a8.485,8.485,0,0,0,8.484-8.484V8.7A8.484,8.484,0,0,0,90.481.213ZM63.718,79.387a3.838,3.838,0,0,1-3.781-3.866,3.764,3.764,0,0,1,3.781-3.781,3.837,3.837,0,0,1,3.865,3.781A3.91,3.91,0,0,1,63.718,79.387Zm0-65.407a3.838,3.838,0,0,1-3.781-3.866,3.764,3.764,0,0,1,3.781-3.781,3.837,3.837,0,0,1,3.865,3.781A3.91,3.91,0,0,1,63.718,13.98Z"/>
+    <g>
+      <path class="cls-8" d="M63.692,69.287A6.18,6.18,0,0,0,57.484,75.5a6.3,6.3,0,0,0,6.208,6.347A6.42,6.42,0,0,0,70.037,75.5,6.3,6.3,0,0,0,63.692,69.287Zm.028,9.945a3.681,3.681,0,0,1-3.626-3.708A3.61,3.61,0,0,1,63.72,71.9a3.68,3.68,0,0,1,3.708,3.627A3.751,3.751,0,0,1,63.72,79.232Z"/>
+      <path class="cls-8" d="M63.692,3.88a6.179,6.179,0,0,0-6.208,6.207,6.3,6.3,0,0,0,6.208,6.347,6.42,6.42,0,0,0,6.345-6.347A6.3,6.3,0,0,0,63.692,3.88Zm.028,9.944a3.681,3.681,0,0,1-3.626-3.708A3.61,3.61,0,0,1,63.72,6.489a3.681,3.681,0,0,1,3.708,3.627A3.751,3.751,0,0,1,63.72,13.824Z"/>
+    </g>
+    <g>
+      <g>
+        <circle class="cls-17" cx="89.789" cy="25.475" r="3.312"/>
+        <circle class="cls-11" cx="89.789" cy="25.475" r="3.543"/>
+      </g>
+      <g>
+        <circle class="cls-18" cx="89.741" cy="59.889" r="3.312"/>
+        <circle class="cls-11" cx="89.741" cy="59.889" r="3.543"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <rect id="rect26-0" class="cls-19" x="85.133" y="30.031" width="3.12" height="2.878"/>
+          <rect id="rect33-9" class="cls-20" x="83.972" y="30.031" width="1.153" height="2.878"/>
+          <rect id="rect40-2" class="cls-19" x="81.355" y="30.031" width="2.634" height="2.878"/>
+        </g>
+        <g>
+          <rect id="rect26-0-2" data-name="rect26-0" class="cls-19" x="85.133" y="37.607" width="3.12" height="2.878"/>
+          <rect id="rect33-9-2" data-name="rect33-9" class="cls-20" x="83.972" y="37.607" width="1.153" height="2.878"/>
+          <rect id="rect40-2-2" data-name="rect40-2" class="cls-19" x="81.355" y="37.607" width="2.634" height="2.878"/>
+        </g>
+        <g>
+          <rect id="rect26-0-3" data-name="rect26-0" class="cls-19" x="85.133" y="45.184" width="3.12" height="2.878"/>
+          <rect id="rect33-9-3" data-name="rect33-9" class="cls-20" x="83.972" y="45.184" width="1.153" height="2.878"/>
+          <rect id="rect40-2-3" data-name="rect40-2" class="cls-19" x="81.355" y="45.184" width="2.634" height="2.878"/>
+        </g>
+        <g>
+          <rect id="rect26-0-4" data-name="rect26-0" class="cls-19" x="85.133" y="52.761" width="3.12" height="2.878"/>
+          <rect id="rect33-9-4" data-name="rect33-9" class="cls-20" x="83.972" y="52.761" width="1.153" height="2.878"/>
+          <rect id="rect40-2-4" data-name="rect40-2" class="cls-19" x="81.355" y="52.761" width="2.634" height="2.878"/>
+        </g>
+      </g>
+      <rect class="cls-1" x="87.059" y="25.44" width="53.575" height="34.866"/>
+      <g>
+        <path id="path7623-1-2" data-name="path7623-1" class="cls-2" d="M140.634,26.974v31.8H87.005v-31.8Z"/>
+        <g>
+          <rect class="cls-4" x="120.845" y="31.158" width="6.715" height="7.328" transform="translate(248.405 69.644) rotate(-180)"/>
+          <rect class="cls-5" x="121.165" y="31.507" width="6.075" height="6.63" transform="translate(248.405 69.644) rotate(-180)"/>
+        </g>
+        <g>
+          <rect class="cls-4" x="120.845" y="47.158" width="6.715" height="7.328" transform="translate(248.405 101.644) rotate(-180)"/>
+          <rect class="cls-5" x="121.165" y="47.507" width="6.075" height="6.63" transform="translate(248.405 101.644) rotate(-180)"/>
+        </g>
+      </g>
+    </g>
+    <line class="cls-9" x1="76.437" y1="3.885" x2="76.437" y2="81.825"/>
+    <g>
+      <path class="cls-15" d="M40.619,74.956a1.738,1.738,0,0,1,0,3.473"/>
+      <path class="cls-15" d="M40.619,69.678a1.738,1.738,0,0,1,0,3.473"/>
+    </g>
+    <g>
+      <path class="cls-16" d="M6.933,78.987a1.739,1.739,0,0,1,3.474,0"/>
+      <path class="cls-16" d="M1.655,78.987a1.7,1.7,0,0,1,1.737-1.662,1.7,1.7,0,0,1,1.736,1.662"/>
+      <path class="cls-16" d="M1.658,79.086"/>
+    </g>
+  </g>
+</svg>
