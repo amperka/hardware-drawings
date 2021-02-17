@@ -1,0 +1,107 @@
+<svg id="raspberry-pi-mouse-original" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128.466mm" height="212.404mm" viewBox="0 0 364.155 602.089">
+  <defs>
+    <style>
+      .cls-1, .cls-9 {
+        fill: #ca1146;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 11.339px;
+        stroke: url(#Безымянный_градиент_10);
+      }
+
+      .cls-3, .cls-6 {
+        fill: #e6e6e6;
+      }
+
+      .cls-3 {
+        stroke: #f2f2f2;
+        stroke-width: 1.417px;
+      }
+
+      .cls-3, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        opacity: 0.87;
+        fill: url(#Безымянный_градиент_13);
+      }
+
+      .cls-5 {
+        fill: url(#Безымянный_градиент_15);
+      }
+
+      .cls-6 {
+        stroke: #666;
+        stroke-width: 4.252px;
+      }
+
+      .cls-7 {
+        stroke: #ca1146;
+        stroke-width: 2.126px;
+        opacity: 0.58;
+      }
+
+      .cls-8 {
+        fill: #4d4d4d;
+        stroke: #333;
+        stroke-width: 0.826px;
+        opacity: 0.62;
+      }
+
+      .cls-9 {
+        stroke: #4d4d4d;
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_10" data-name="Безымянный градиент 10" x1="94.452" y1="163.194" x2="364.155" y2="163.194" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#ca1146"/>
+      <stop offset="0.034" stop-color="#ca1146" stop-opacity="0.944"/>
+      <stop offset="0.073" stop-color="#ca1146" stop-opacity="0.819"/>
+      <stop offset="0.116" stop-color="#ca1146" stop-opacity="0.721"/>
+      <stop offset="0.166" stop-color="#ca1146" stop-opacity="0.652"/>
+      <stop offset="0.227" stop-color="#ca1146" stop-opacity="0.612"/>
+      <stop offset="0.335" stop-color="#ca1146" stop-opacity="0.6"/>
+      <stop offset="0.444" stop-color="#ca1146" stop-opacity="0.477"/>
+      <stop offset="0.694" stop-color="#ca1146" stop-opacity="0.22"/>
+      <stop offset="0.882" stop-color="#ca1146" stop-opacity="0.06"/>
+      <stop offset="0.986" stop-color="#ca1146" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="Безымянный_градиент_13" data-name="Безымянный градиент 13" cx="101.99" cy="442.725" r="130.924" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eeeeec" stop-opacity="0"/>
+      <stop offset="0.149" stop-color="#e7e7e6" stop-opacity="0.113"/>
+      <stop offset="0.453" stop-color="#d6d6d5" stop-opacity="0.404"/>
+      <stop offset="0.884" stop-color="#bbb" stop-opacity="0.868"/>
+      <stop offset="1" stop-color="#b3b3b3"/>
+    </radialGradient>
+    <linearGradient id="Безымянный_градиент_15" data-name="Безымянный градиент 15" x1="133.967" y1="472.566" x2="39.319" y2="308.631" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.153" stop-color="#fff" stop-opacity="0.013"/>
+      <stop offset="0.282" stop-color="#fff" stop-opacity="0.054"/>
+      <stop offset="0.403" stop-color="#fff" stop-opacity="0.123"/>
+      <stop offset="0.518" stop-color="#fff" stop-opacity="0.22"/>
+      <stop offset="0.63" stop-color="#fff" stop-opacity="0.345"/>
+      <stop offset="0.739" stop-color="#fff" stop-opacity="0.498"/>
+      <stop offset="0.846" stop-color="#fff" stop-opacity="0.68"/>
+      <stop offset="0.949" stop-color="#fff" stop-opacity="0.886"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>raspberry-pi-mouse-original</title>
+  <g id="мышка">
+    <path class="cls-1" d="M102.358,283.611c95.165-2.944,87.807,89.173,97.006,150.093,7.393,48.966,20.82,168.385-97.006,168.385-121.441,0-105.129-124.009-96.334-175.448C14.467,377.258,13.29,277.724,102.358,283.611Z"/>
+    <path class="cls-2" d="M103.777,320.719s-2.849-65.169-3.64-121.639C98.392,74.353,244.307,1.189,358.485,5.882"/>
+    <path class="cls-3" d="M102.35,287.017c93.127-2.88,85.927,87.264,94.929,146.88,7.235,47.917,20.374,164.78-94.929,164.78-118.841,0-102.878-121.354-94.271-171.692C16.341,378.66,15.189,281.257,102.35,287.017Z"/>
+    <path class="cls-4" d="M102.35,287.017c93.127-2.88,85.927,87.264,94.929,146.88,7.235,47.917,20.374,164.78-94.929,164.78-118.841,0-102.878-121.354-94.271-171.692C16.341,378.66,15.189,281.257,102.35,287.017Z"/>
+    <path class="cls-5" d="M101.99,287.881c93.127-2.88,84.678,84.672,93.679,144.288C199.132,455.1-.573,490.687,3.915,464.442,12.177,416.116,3.84,283.361,101.99,287.881Z"/>
+    <line class="cls-6" x1="102.35" y1="287.017" x2="102.35" y2="430.441"/>
+    <line class="cls-7" x1="102.35" y1="287.017" x2="102.35" y2="430.441"/>
+    <rect class="cls-8" x="91.211" y="322.14" width="21.672" height="57.744" rx="6.624"/>
+    <rect class="cls-9" x="92.327" y="323.364" width="19.44" height="55.296" rx="6.624"/>
+  </g>
+</svg>
