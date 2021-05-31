@@ -5,7 +5,7 @@
         isolation: isolate;
       }
 
-      .cls-15, .cls-17, .cls-2, .cls-218, .cls-221, .cls-223, .cls-23, .cls-231, .cls-242, .cls-248, .cls-284, .cls-3, .cls-308, .cls-313, .cls-314, .cls-328 {
+      .cls-15, .cls-17, .cls-2, .cls-218, .cls-221, .cls-223, .cls-23, .cls-231, .cls-242, .cls-248, .cls-284, .cls-3, .cls-308, .cls-313, .cls-314, .cls-329 {
         fill: none;
       }
 
@@ -82,7 +82,7 @@
         stroke: #fff;
       }
 
-      .cls-17, .cls-18, .cls-218, .cls-223, .cls-242, .cls-25, .cls-266, .cls-284, .cls-299, .cls-308, .cls-313, .cls-314, .cls-316, .cls-328 {
+      .cls-17, .cls-18, .cls-218, .cls-223, .cls-242, .cls-25, .cls-266, .cls-284, .cls-299, .cls-308, .cls-313, .cls-314, .cls-316, .cls-329 {
         stroke-miterlimit: 10;
       }
 
@@ -103,11 +103,11 @@
         stroke-width: 0.283px;
       }
 
-      .cls-19 {
-        font-size: 11px;
+      .cls-19, .cls-330 {
+        font-size: 14px;
       }
 
-      .cls-19, .cls-21, .cls-22, .cls-247, .cls-249, .cls-251, .cls-286, .cls-287, .cls-290, .cls-301, .cls-302, .cls-304, .cls-305, .cls-329 {
+      .cls-19, .cls-21, .cls-22, .cls-247, .cls-249, .cls-251, .cls-286, .cls-287, .cls-290, .cls-301, .cls-302, .cls-304, .cls-305, .cls-330 {
         font-family: TrebuchetMS, Trebuchet MS;
       }
 
@@ -116,7 +116,7 @@
       }
 
       .cls-21, .cls-22 {
-        font-size: 6px;
+        font-size: 8px;
       }
 
       .cls-22 {
@@ -1360,17 +1360,16 @@
       }
 
       .cls-328 {
+        fill: url(#Безымянный_градиент_145);
+      }
+
+      .cls-329 {
         stroke: #353740;
         stroke-width: 1.417px;
       }
 
-      .cls-329 {
-        font-size: 12px;
-        fill: #353740;
-      }
-
       .cls-330 {
-        fill: url(#Безымянный_градиент_145);
+        fill: #353740;
       }
     </style>
     <mask id="mask" x="397.735" y="-5.836" width="109.458" height="54.975" maskUnits="userSpaceOnUse">
@@ -1581,7 +1580,7 @@
     <clipPath id="clip-path-14">
       <path class="cls-2" d="M73.183,25.416l-.327.006a.447.447,0,0,0,0,.894l.327.007Z"/>
     </clipPath>
-    <linearGradient id="Безымянный_градиент_5" data-name="Безымянный градиент 5" x1="306.075" y1="446.883" x2="384.718" y2="446.883" gradientTransform="matrix(1, 0, 0, -1, 0, 561.999)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Безымянный_градиент_5" data-name="Безымянный градиент 5" x1="290.829" y1="417.883" x2="399.963" y2="417.883" gradientTransform="matrix(1, 0, 0, -1, 0, 561.999)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#141016" stop-opacity="0.2"/>
       <stop offset="0.034" stop-color="#817f82" stop-opacity="0.14"/>
       <stop offset="0.076" stop-color="#cbcbcb" stop-opacity="0.1"/>
@@ -1592,13 +1591,13 @@
       <stop offset="0.994" stop-color="#36373a" stop-opacity="0.2"/>
       <stop offset="1" stop-color="#1b1c20" stop-opacity="0.2"/>
     </linearGradient>
-    <linearGradient id="Безымянный_градиент_166" data-name="Безымянный градиент 166" x1="311.847" y1="115.115" x2="378.946" y2="115.115" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Безымянный_градиент_166" data-name="Безымянный градиент 166" x1="292.955" y1="144.115" x2="397.837" y2="144.115" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#141016" stop-opacity="0.2"/>
       <stop offset="0.929" stop-color="#989898" stop-opacity="0.2"/>
       <stop offset="0.994" stop-color="#36373a" stop-opacity="0.2"/>
       <stop offset="1" stop-color="#1b1c20" stop-opacity="0.2"/>
     </linearGradient>
-    <linearGradient id="Безымянный_градиент_145" data-name="Безымянный градиент 145" x1="306.075" y1="446.883" x2="384.718" y2="446.883" gradientTransform="matrix(1, 0, 0, -1, 0, 561.999)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Безымянный_градиент_145" data-name="Безымянный градиент 145" x1="290.829" y1="417.883" x2="399.963" y2="417.883" gradientTransform="matrix(1, 0, 0, -1, 0, 561.999)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#141016" stop-opacity="0.2"/>
       <stop offset="0.859" stop-color="gray" stop-opacity="0.5"/>
       <stop offset="0.881" stop-color="#707171" stop-opacity="0.479"/>
@@ -1785,15 +1784,15 @@
     <path id="path83768-4" class="cls-13" d="M644.673,245.456h13.61a17.785,17.785,0,0,1,0,5.45h-13.64c-.27-.07-.48-1.25-.48-2.72S644.393,245.456,644.673,245.456Z"/>
     <path id="path83772-4" class="cls-10" d="M644.4,244.5a6.63,6.63,0,0,0,.14,1h13.74a5.23,5.23,0,0,1,.07-1Z"/>
     <g>
-      <path class="cls-18" d="M558.46,75.629h40.2c15.979,1.274,19.219,6.362,19.219,19.224V145.5a12,12,0,0,1-12,12H551.236a12,12,0,0,1-12-12V94.853C539.236,80.647,542.639,75.759,558.46,75.629Z"/>
-      <text class="cls-19" transform="translate(543.945 93.583)">GPS<tspan class="cls-20" x="18.863" y="0"> </tspan><tspan x="21.57" y="0">ANTENN</tspan><tspan class="cls-20" x="61.397" y="0">A</tspan></text>
-      <text class="cls-21" transform="translate(548.141 122.043)">Frequence:1575.42MHZ</text>
+      <path class="cls-18" d="M550.668,79.366h55.786c22.175,2.03,26.671,10.134,26.671,30.619v80.663c0,10.555-7.456,19.112-16.653,19.112H540.643c-9.2,0-16.652-8.557-16.652-19.112V109.985C523.991,87.359,528.713,79.573,550.668,79.366Z"/>
+      <text class="cls-19" transform="translate(537.945 123.583)">GPS<tspan class="cls-20" x="24.008" y="0"> </tspan><tspan x="27.453" y="0">ANTENN</tspan><tspan class="cls-20" x="78.142" y="0">A</tspan></text>
+      <text class="cls-21" transform="translate(539.141 169.043)">Frequence:1575.42MHZ</text>
       <g class="cls-1">
-        <text class="cls-22" transform="translate(554.141 140.343)">V</text>
-        <text class="cls-21" transform="translate(556.755 140.343)">oltage 2.7-5.0V</text>
+        <text class="cls-22" transform="translate(544.141 187.343)">V</text>
+        <text class="cls-21" transform="translate(547.755 187.343)">oltage 2.7-5.0V</text>
       </g>
-      <line class="cls-23" x1="545.918" y1="102.758" x2="611.198" y2="102.758"/>
-      <line class="cls-23" x1="545.918" y1="106.758" x2="611.198" y2="106.758"/>
+      <line class="cls-23" x1="537.945" y1="132.758" x2="623.72" y2="132.758"/>
+      <line class="cls-23" x1="537.945" y1="140.758" x2="623.72" y2="140.758"/>
     </g>
   </g>
   <g id="antenna">
@@ -5101,6 +5100,10 @@
       </g>
       <image width="282" height="12" transform="translate(72 20)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARoAAAAMCAYAAAC9S3KIAAAACXBIWXMAAAsSAAALEgHS3X78AAAFEklEQVRoQ+1azW7cNhD+hiOu/BunaZP+BEZQIAUK+ODLXvoMLYq+Te99gN7zDn2EvkqRQxD4oIvX9lqytOT0IFI7q6W86wROU1sfIHBIDofUgvPNUFwSEYwYMeLzwnQ6fZNqL4piDgB1XTvvPQD4xWIhAFBVlSMiASBVVRkAcM7VajgDoK7CDBHZjXXNBUr+Ms9zg1vAbA5F4AF4EdGlAPAAQCPRjHgISDlmURRz55w457z3Hk3TAACqqrqp69b/nHONGpIpOQdgsixbc0Br7fNYJyIbnQutY63A2ux564QiIvBZxoe6n4gmaDvj+Ph0yDJ+BsCLQAARZu7IQav1xq+txRizj3auTscYk/fUWI0VERGijps6ENFO0Avm1uYVY8xepz4SzeOEdszZbFbVde1ilKzrGlVV1U3TeBER770nIohI3MwAsAsA1loAODLGTPpzMJsD7WQIkS7PJ9/1dVfH8RHQOl7rXPBZxk9iN9RmVjKAdWdKrEs7JJCwQUR7up2INAFFxCivx/bt2H4fETHWoT35NodMZRb9OVP2PzX67zMSzbaIjjmbzaqrq6t6sVi4qqpcWZbOOecAkDHGikgOIBMRm+f5QcpWiHLCbLrI1LK/hAjRRkdrs2doN9daZIkOlXCCuLlTEWYfA9B2ZLkpxBgT7cXJhzaMJgAAABHdmnJ/BLZxzBQRrIFS4XoYm3T1XEO6m2w8SNwb0Uyn0zdFUcxns9nNxcVFLSKGmZ9lWXYQnMqLwOe5fRmjFgCZTOzX0YYx5iBuViLKgdYJVJRaiW6pqBp07rKhhjZx5zQJU7fZFqQj0YgRjwZ0fPzSb1IaMWLEiI9B6uz5n+LFi29+LYriq7qu84uLi4OyLL8lIrbWGgATAHvMfEQEA4AAMsxml9kchjoAELPZCSYZAJh57dgQsyQsMxLqySAiM5AppUC9sq3c3xFCY6uM7Q6ZnUZqTKpt2/T4Q9Yw4n+Mezs6fSim0+kvm3S2wdu3//wRRL2pg0yBRJLEsNL26tX3v+u6+r22rp+fnz8FgLqu88ViwWVZ5mVZPgFwGEiIQrkPwDBzJDwKZEhEWLnt6CN84afwTiZQSl+O80TiIwDEzPF2YBMCuQPGmNTNxyas/Lbq+89HIX5fEhHX70qprzV8GPl+atx5jdu81yb/38LEEFZ86rMjmoeG09PT3wCQiKQe6PoteiQiKIriZ3QEBEJLmCaSSKgnCQaBZF6//uHPMA90CXSbbqu+y8vLA6AlTxEh55ypqiovy9JK+9+M3Uiiav4M7bUxiGiNrIgobzNVMr136LLXKCvbhjqybvWXcvubaFl/gNdgbm+1nHNXWK45Omv/Sbb3nFKTeQSlyjCu37bptNG3tYa7Erm0V+xr602QzeCcAxiJZsT20NlmWZY7PXLEXetnZ2c/BXNDDriNk9LJyclfQySpytv6MJ/Pu6N10zQT7z0559g5Z5qmsVVV5SIC730OYG+IgKy1jCXJZFhmgUbLpDLVtq2zBwBkbfYFtgStXqNrG09T+ncAAQAzHzrn5rEt8e5D7UREEBE3Es2IRwtNnNfX13sDZLSJrFba3r9/f6rnUFy5FHoZQj8VIiKcnJz8re0qko5tG9dyfX3dHYkjeYoIee/NYrHgpmmym5ubndAGtH+NmECRBwBMJpPU0TrqbXzyfHI8Es2IEQ8E/e+b8/l8f1MmF0oCgCHdd+/e/aiOdzQg6+NkJ4eM5um/U2jyt2yDDOwAAAAASUVORK5CYII="/>
     </g>
+    <g>
+      <rect class="cls-229" x="526.376" y="7.444" width="1.056" height="36.636"/>
+      <rect class="cls-229" x="396.376" y="7.444" width="1.056" height="36.636"/>
+    </g>
   </g>
   <g id="top_antenna" data-name="top antenna">
     <g>
@@ -5278,17 +5281,15 @@
     <path id="path83768-2" class="cls-13" d="M279.07,245.581H265.46a17.785,17.785,0,0,0,0,5.45H279.1c.27-.07.48-1.25.48-2.72S279.35,245.581,279.07,245.581Z"/>
     <path id="path83772-2" class="cls-10" d="M279.34,244.62a6.612,6.612,0,0,1-.14,1H265.46a5.15,5.15,0,0,0-.07-1Z"/>
     <g>
-      <path class="cls-229" d="M330.3,74.181h29.2c15.585,0,25.219,1.638,25.219,17.224V144.05a12,12,0,0,1-12,12H318.075a12,12,0,0,1-12-12V91.405C306.075,75.817,314.711,74.181,330.3,74.181Z"/>
-      <path class="cls-326" d="M325.3,74.181h40.2c15.979,1.274,19.219,6.362,19.219,19.224V144.05a12,12,0,0,1-12,12H318.075a12,12,0,0,1-12-12V93.405C306.075,79.2,309.478,74.311,325.3,74.181Z"/>
-      <path class="cls-264" d="M328.249,80.19h34.3c13.633,1.087,16.4,5.428,16.4,16.4V139.8a10.239,10.239,0,0,1-10.239,10.238H322.085A10.238,10.238,0,0,1,311.847,139.8V96.592C311.847,84.471,314.75,80.3,328.249,80.19Z"/>
-      <path class="cls-327" d="M328.249,80.19h34.3c13.633,1.087,16.4,5.428,16.4,16.4V139.8a10.239,10.239,0,0,1-10.239,10.238H322.085A10.238,10.238,0,0,1,311.847,139.8V96.592C311.847,84.471,314.75,80.3,328.249,80.19Z"/>
+      <path class="cls-229" d="M324.445,78.918h40.521c21.629,0,35,2.61,35,27.433V190.2c0,10.555-7.456,19.112-16.652,19.112H307.482c-9.2,0-16.653-8.557-16.653-19.112V106.351C290.829,81.525,302.814,78.918,324.445,78.918Z"/>
+      <path class="cls-326" d="M317.507,78.918h55.786c22.174,2.03,26.67,10.134,26.67,30.619V190.2c0,10.555-7.456,19.112-16.652,19.112H307.482c-9.2,0-16.653-8.557-16.653-19.112V109.537C290.829,86.911,295.552,79.125,317.507,78.918Z"/>
+      <path class="cls-264" d="M318.593,83.17h53.613c21.31,1.9,25.631,9.473,25.631,28.622v75.4c0,9.867-7.165,17.866-16,17.866H308.959c-8.839,0-16-8-16-17.866v-75.4C292.955,90.642,297.494,83.364,318.593,83.17Z"/>
+      <path class="cls-327" d="M318.593,83.17h53.613c21.31,1.9,25.631,9.473,25.631,28.622v75.4c0,9.867-7.165,17.866-16,17.866H308.959c-8.839,0-16-8-16-17.866v-75.4C292.955,90.642,297.494,83.364,318.593,83.17Z"/>
+      <path class="cls-328" d="M317.507,78.918h55.786c22.174,2.03,26.67,10.134,26.67,30.619V190.2c0,10.555-7.456,19.112-16.652,19.112H307.482c-9.2,0-16.653-8.557-16.653-19.112V109.537C290.829,86.911,295.552,79.125,317.507,78.918Z"/>
       <g>
-        <ellipse class="cls-328" cx="344.475" cy="104.927" rx="16.488" ry="7.848"/>
-        <text class="cls-329" transform="translate(334.186 108.5)">GPS</text>
+        <ellipse class="cls-329" cx="345.536" cy="128.072" rx="22.386" ry="10.655"/>
+        <text class="cls-330" transform="translate(333.087 131.645)">GPS</text>
       </g>
-      <path class="cls-330" d="M325.3,74.181h40.2c15.979,1.274,19.219,6.362,19.219,19.224V144.05a12,12,0,0,1-12,12H318.075a12,12,0,0,1-12-12V93.405C306.075,79.2,309.478,74.311,325.3,74.181Z"/>
     </g>
   </g>
-  <rect class="cls-229" x="526.376" y="7.444" width="1.056" height="36.636"/>
-  <rect class="cls-229" x="396.376" y="7.444" width="1.056" height="36.636"/>
 </svg>
