@@ -1,0 +1,297 @@
+<svg id="sonoff-smart-usb-adaptor-micro" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.542mm" height="43.195mm" viewBox="0 0 188.623 122.443">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Безымянный_градиент_37);
+      }
+
+      .cls-2 {
+        fill: #d1d3d4;
+      }
+
+      .cls-3 {
+        fill: #a9a9a9;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke-width: 0.709px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #939598;
+      }
+
+      .cls-10, .cls-20, .cls-4, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #f2f2f2;
+      }
+
+      .cls-23, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-width: 0.709px;
+      }
+
+      .cls-6 {
+        stroke: #ccc;
+      }
+
+      .cls-20, .cls-6, .cls-9 {
+        stroke-width: 0.283px;
+      }
+
+      .cls-7 {
+        fill: url(#Безымянный_градиент_37-2);
+      }
+
+      .cls-23, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        stroke: #1a1a1a;
+      }
+
+      .cls-10 {
+        fill: #666;
+        stroke: #333;
+        stroke-width: 0.113px;
+      }
+
+      .cls-11 {
+        fill: url(#Безымянный_градиент_75);
+      }
+
+      .cls-12 {
+        fill: url(#Безымянный_градиент_14);
+      }
+
+      .cls-13 {
+        fill: url(#Безымянный_градиент_24);
+      }
+
+      .cls-14 {
+        fill: #1f1f1f;
+      }
+
+      .cls-15 {
+        fill: #e6e6e6;
+      }
+
+      .cls-16 {
+        fill: url(#Безымянный_градиент_157);
+      }
+
+      .cls-17 {
+        fill: url(#Безымянный_градиент_157-2);
+      }
+
+      .cls-18 {
+        fill: url(#Безымянный_градиент_157-3);
+      }
+
+      .cls-19 {
+        fill: url(#Безымянный_градиент_157-4);
+      }
+
+      .cls-20 {
+        stroke: gray;
+        fill: url(#Безымянный_градиент_137);
+      }
+
+      .cls-21 {
+        fill: url(#Безымянный_градиент_130);
+      }
+
+      .cls-22 {
+        fill: #4d4d4d;
+      }
+
+      .cls-23 {
+        stroke: #000;
+        stroke-width: 0.142px;
+      }
+
+      .cls-24 {
+        fill: url(#Безымянный_градиент_179);
+      }
+
+      .cls-25, .cls-26 {
+        opacity: 0.49;
+        isolation: isolate;
+      }
+
+      .cls-25 {
+        fill: url(#Безымянный_градиент_188);
+      }
+
+      .cls-26 {
+        fill: url(#Безымянный_градиент_188-2);
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_37" data-name="Безымянный градиент 37" y1="82.996" x2="86.457" y2="82.996" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0f0f0"/>
+      <stop offset="0.005" stop-color="#e8e8e8"/>
+      <stop offset="0.028" stop-color="#cacaca"/>
+      <stop offset="0.05" stop-color="#b4b4b4"/>
+      <stop offset="0.072" stop-color="#a7a7a7"/>
+      <stop offset="0.092" stop-color="#a3a3a3"/>
+      <stop offset="0.093" stop-color="#a3a3a3"/>
+      <stop offset="0.185" stop-color="#bbb"/>
+      <stop offset="0.283" stop-color="#ccc"/>
+      <stop offset="0.39" stop-color="#d6d6d6"/>
+      <stop offset="0.522" stop-color="#d9d9d9"/>
+      <stop offset="0.919" stop-color="#b3b3b3"/>
+      <stop offset="1" stop-color="#f7f7f7"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_37-2" x1="1" y1="49.283" x2="85.457" y2="49.283" xlink:href="#Безымянный_градиент_37"/>
+    <linearGradient id="Безымянный_градиент_75" data-name="Безымянный градиент 75" x1="151.773" y1="122.443" x2="151.773" y2="35.987" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dbdbdb"/>
+      <stop offset="0.512" stop-color="#d9d9d9"/>
+      <stop offset="0.718" stop-color="#d2d2d2"/>
+      <stop offset="0.868" stop-color="#c6c6c6"/>
+      <stop offset="0.991" stop-color="#b5b5b5"/>
+      <stop offset="1" stop-color="#b3b3b3"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_14" data-name="Безымянный градиент 14" x1="151.773" y1="126.564" x2="151.773" y2="40.114" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3e3e3"/>
+      <stop offset="1" stop-color="#e3e3e3"/>
+    </linearGradient>
+    <radialGradient id="Безымянный_градиент_24" data-name="Безымянный градиент 24" cx="151.773" cy="83.339" r="40.164" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e3e3e3"/>
+      <stop offset="1" stop-color="#8c8c8c"/>
+    </radialGradient>
+    <linearGradient id="Безымянный_градиент_157" data-name="Безымянный градиент 157" x1="140.329" y1="57.454" x2="142.273" y2="57.454" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e1b53f"/>
+      <stop offset="0.107" stop-color="#e1bb55"/>
+      <stop offset="0.244" stop-color="#e1c069"/>
+      <stop offset="0.379" stop-color="#e1c476"/>
+      <stop offset="0.508" stop-color="#e1c57a"/>
+      <stop offset="0.67" stop-color="#e1c477"/>
+      <stop offset="0.782" stop-color="#e1c26e"/>
+      <stop offset="0.879" stop-color="#e1be5f"/>
+      <stop offset="0.968" stop-color="#e1b849"/>
+      <stop offset="1" stop-color="#e1b53f"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_157-2" x1="147.329" y1="57.454" x2="149.273" y2="57.454" xlink:href="#Безымянный_градиент_157"/>
+    <linearGradient id="Безымянный_градиент_157-3" x1="154.329" y1="57.454" x2="156.273" y2="57.454" xlink:href="#Безымянный_градиент_157"/>
+    <linearGradient id="Безымянный_градиент_157-4" x1="161.329" y1="57.454" x2="163.273" y2="57.454" xlink:href="#Безымянный_градиент_157"/>
+    <linearGradient id="Безымянный_градиент_137" data-name="Безымянный градиент 137" x1="138.417" y1="54.757" x2="165.129" y2="54.757" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#9e9e9e"/>
+      <stop offset="0.034" stop-color="#a7a7a7"/>
+      <stop offset="0.072" stop-color="#b8b8b8"/>
+      <stop offset="0.119" stop-color="#c3c3c3"/>
+      <stop offset="0.185" stop-color="#cacaca"/>
+      <stop offset="0.369" stop-color="#ccc"/>
+      <stop offset="0.546" stop-color="#b6b6b6"/>
+      <stop offset="0.768" stop-color="#949494"/>
+      <stop offset="0.844" stop-color="#9b9b9b"/>
+      <stop offset="0.954" stop-color="#aeaeae"/>
+      <stop offset="1" stop-color="#b8b8b8"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_130" data-name="Безымянный градиент 130" x1="138.913" y1="54.757" x2="164.689" y2="54.757" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9e9e9e"/>
+      <stop offset="0.008" stop-color="#cfcfcf"/>
+      <stop offset="0.014" stop-color="#f2f2f2"/>
+      <stop offset="0.102" stop-color="#e7e7e7"/>
+      <stop offset="0.23" stop-color="#e0e0e0"/>
+      <stop offset="0.584" stop-color="#dedede"/>
+      <stop offset="0.811" stop-color="#dcdcdc"/>
+      <stop offset="0.893" stop-color="#d5d5d5"/>
+      <stop offset="0.951" stop-color="#cacaca"/>
+      <stop offset="0.998" stop-color="#b9b9b9"/>
+      <stop offset="1" stop-color="#b8b8b8"/>
+    </linearGradient>
+    <radialGradient id="Безымянный_градиент_179" data-name="Безымянный градиент 179" cx="42.737" cy="796.649" r="5.922" gradientTransform="translate(0 -696)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ccc"/>
+    </radialGradient>
+    <linearGradient id="Безымянный_градиент_188" data-name="Безымянный градиент 188" x1="133.344" y1="615.283" x2="135.43" y2="615.283" gradientTransform="matrix(0.986, 0.168, -0.168, 0.986, 18.089, -528.625)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.014" stop-color="#f2f2f2" stop-opacity="0"/>
+      <stop offset="0.077" stop-color="#f5f5f5" stop-opacity="0.203"/>
+      <stop offset="0.16" stop-color="#f8f8f8" stop-opacity="0.442"/>
+      <stop offset="0.239" stop-color="#fafafa" stop-opacity="0.642"/>
+      <stop offset="0.313" stop-color="#fcfcfc" stop-opacity="0.797"/>
+      <stop offset="0.38" stop-color="#fefefe" stop-opacity="0.908"/>
+      <stop offset="0.439" stop-color="#fff" stop-opacity="0.976"/>
+      <stop offset="0.482" stop-color="#fff"/>
+      <stop offset="0.526" stop-color="#fff" stop-opacity="0.967"/>
+      <stop offset="0.596" stop-color="#fff" stop-opacity="0.877"/>
+      <stop offset="0.684" stop-color="#fff" stop-opacity="0.73"/>
+      <stop offset="0.785" stop-color="#fff" stop-opacity="0.526"/>
+      <stop offset="0.896" stop-color="#fff" stop-opacity="0.268"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_188-2" x1="-2117.394" y1="-229.66" x2="-2115.308" y2="-229.66" gradientTransform="matrix(-0.986, -0.168, 0.168, -0.986, -2008.685, -481.743)" xlink:href="#Безымянный_градиент_188"/>
+  </defs>
+  <title>sonoff-smart-usb-adaptor-micro</title>
+  <g id="top">
+    <path class="cls-1" d="M82.289,126.571H4.168A4.169,4.169,0,0,1,0,122.4v-55H1V43.59c0-2.3.866-4.168,3.168-4.168H81.289a4.168,4.168,0,0,1,4.168,4.168V67.121l1,.278v55A4.169,4.169,0,0,1,82.289,126.571Z" transform="translate(0 -4.127)"/>
+    <g>
+      <g>
+        <path id="path7623-1" class="cls-2" d="M26.22,43.549H60.236V4.127H26.22Z" transform="translate(0 -4.127)"/>
+        <g>
+          <path id="path7627-4" class="cls-3" d="M27.85,43.549H58.378V4.127H27.85Z" transform="translate(0 -4.127)"/>
+          <path id="path7631-3" class="cls-4" d="M40.225,43.549V33.335H46V22.306H40.225V12.093H46V4.127" transform="translate(0 -4.127)"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-5" x="31.432" y="24.045" width="6.368" height="7.839" transform="translate(6.651 58.454) rotate(-90)"/>
+        <rect class="cls-6" x="31.735" y="24.419" width="5.762" height="7.093" transform="translate(6.651 58.454) rotate(-90)"/>
+      </g>
+      <g>
+        <rect class="cls-5" x="48.548" y="24.045" width="6.368" height="7.839" transform="translate(23.767 75.57) rotate(-90)"/>
+        <rect class="cls-6" x="48.852" y="24.419" width="5.762" height="7.093" transform="translate(23.767 75.57) rotate(-90)"/>
+      </g>
+    </g>
+    <path class="cls-7" d="M4.52,35.294H81.937a3.52,3.52,0,0,1,3.52,3.52V63.272a0,0,0,0,1,0,0H1a0,0,0,0,1,0,0V38.815A3.52,3.52,0,0,1,4.52,35.294Z"/>
+    <rect class="cls-8" x="1" y="61.736" width="84.457" height="1.258"/>
+    <circle class="cls-9" cx="42.736" cy="96.522" r="7.087"/>
+    <rect class="cls-10" x="41.445" y="80.869" width="2.583" height="2.583" rx="1.292"/>
+    <rect class="cls-10" x="41.445" y="73.869" width="2.583" height="2.583" rx="1.292"/>
+  </g>
+  <g id="bottom">
+    <rect class="cls-11" x="114.922" y="35.987" width="73.701" height="86.457" rx="7.871"/>
+    <g>
+      <path class="cls-12" d="M180.753,40.114h-57.96a7.865,7.865,0,0,0-7.87,7.869v70.711a7.866,7.866,0,0,0,7.87,7.87h57.96a7.873,7.873,0,0,0,7.87-7.87V47.983A7.872,7.872,0,0,0,180.753,40.114Zm2.2,78.58a2.2,2.2,0,0,1-2.2,2.2h-57.96a2.194,2.194,0,0,1-2.2-2.2V47.983a2.2,2.2,0,0,1,2.2-2.209h57.96a2.208,2.208,0,0,1,2.2,2.209Z" transform="translate(0 -4.127)"/>
+      <path class="cls-13" d="M180.753,40.4a7.6,7.6,0,0,1,7.586,7.586v70.711a7.6,7.6,0,0,1-7.586,7.586h-57.96a7.6,7.6,0,0,1-7.587-7.586V47.983a7.6,7.6,0,0,1,7.587-7.586h57.96m-57.96,80.78h57.96a2.486,2.486,0,0,0,2.483-2.483V47.983a2.491,2.491,0,0,0-2.483-2.493h-57.96a2.492,2.492,0,0,0-2.484,2.493v70.711a2.486,2.486,0,0,0,2.484,2.483m57.96-81.063h-57.96a7.865,7.865,0,0,0-7.87,7.869v70.711a7.866,7.866,0,0,0,7.87,7.87h57.96a7.873,7.873,0,0,0,7.87-7.87V47.983a7.872,7.872,0,0,0-7.87-7.869Zm-57.96,80.78a2.194,2.194,0,0,1-2.2-2.2V47.983a2.2,2.2,0,0,1,2.2-2.209h57.96a2.208,2.208,0,0,1,2.2,2.209v70.711a2.2,2.2,0,0,1-2.2,2.2Z" transform="translate(0 -4.127)"/>
+    </g>
+    <rect class="cls-14" x="133.348" y="49.267" width="36.85" height="14.173" rx="2.58"/>
+    <rect class="cls-14" x="133.348" y="49.267" width="36.85" height="14.173" rx="2.58"/>
+    <rect class="cls-15" x="146.104" y="43.473" width="11.338" height="34.016" rx="1.163" transform="translate(212.253 -95.42) rotate(90)"/>
+    <g>
+      <rect class="cls-16" x="140.329" y="56.713" width="1.944" height="1.482"/>
+      <rect class="cls-17" x="147.329" y="56.713" width="1.944" height="1.482"/>
+      <rect class="cls-18" x="154.329" y="56.713" width="1.944" height="1.482"/>
+      <rect class="cls-19" x="161.329" y="56.713" width="1.944" height="1.482"/>
+    </g>
+    <rect class="cls-20" x="138.417" y="52.801" width="26.712" height="3.912"/>
+    <rect class="cls-21" x="138.913" y="53.461" width="25.776" height="2.592"/>
+    <g id="logo">
+      <g>
+        <path class="cls-22" d="M137.5,100.668a3.341,3.341,0,0,1,.537.8,4.2,4.2,0,0,1,.243.716,3.66,3.66,0,0,1,.07.716,2.9,2.9,0,0,1-.1.753,3.079,3.079,0,0,1-.235.652,3.327,3.327,0,0,1-.567.823.321.321,0,0,0-.093.157.282.282,0,0,0,.038.21.312.312,0,0,0,.176.131.347.347,0,0,0,.082.008.229.229,0,0,0,.141-.037,3,3,0,0,0,.311-.343,3.854,3.854,0,0,0,.673-1.323,3.353,3.353,0,0,0,.115-.561c0-.036.011-.092.015-.124a4.533,4.533,0,0,0,.012-.614,2.886,2.886,0,0,0-.033-.328c-.008-.053-.055-.3-.069-.358s-.1-.312-.146-.455a3.738,3.738,0,0,0-.417-.8,2.678,2.678,0,0,0-.481-.56.29.29,0,0,0-.267,0,.411.411,0,0,0-.12.115.27.27,0,0,0-.011.264A.669.669,0,0,0,137.5,100.668Z" transform="translate(0 -4.127)"/>
+        <path class="cls-22" d="M136.726,104.884a.282.282,0,0,0,.315-.017,2.659,2.659,0,0,0,.213-.233,2.836,2.836,0,0,0,.6-1.484,2.912,2.912,0,0,0,.01-.432,2.076,2.076,0,0,0-.033-.284,2.771,2.771,0,0,0-.747-1.509c-.074-.074-.095-.088-.16-.1a.28.28,0,0,0-.215.044.3.3,0,0,0-.132.182.229.229,0,0,0,0,.127.279.279,0,0,0,.08.137,2.262,2.262,0,0,1,.636,1.551,2.687,2.687,0,0,1-.048.455,2.28,2.28,0,0,1-.564,1.087.332.332,0,0,0-.1.157.3.3,0,0,0,.023.2A.417.417,0,0,0,136.726,104.884Z" transform="translate(0 -4.127)"/>
+        <path class="cls-22" d="M136.817,102.9c0-.071,0-.14,0-.154,0-.051-.023-.171-.035-.229a1.8,1.8,0,0,0-.31-.693,1.757,1.757,0,0,0-.2-.223.269.269,0,0,0-.337-.009.279.279,0,0,0-.092.383.794.794,0,0,0,.07.085,1.2,1.2,0,0,1,.136.171,1.146,1.146,0,0,1,.182.493,1.608,1.608,0,0,1,0,.318,1.205,1.205,0,0,1-.238.558c-.014.02-.053.065-.086.1a.263.263,0,0,0-.1.225.27.27,0,0,0,.086.192.284.284,0,0,0,.33.063.28.28,0,0,0,.1-.078,1.754,1.754,0,0,0,.462-.87A1.453,1.453,0,0,0,136.817,102.9Z" transform="translate(0 -4.127)"/>
+        <polygon class="cls-22" points="129.706 104.038 134.201 104.038 134.201 107.416 129.551 107.416 129.551 108.695 135.48 108.695 135.48 102.759 130.985 102.759 130.985 99.381 135.571 99.381 135.571 98.102 129.706 98.102 129.706 104.038"/>
+        <path class="cls-22" d="M136.644,112.822h6.614v-5.936h-6.614Zm1.279-4.657h4.055v3.378h-4.055Z" transform="translate(0 -4.127)"/>
+        <path class="cls-22" d="M152.017,112.822h6.614v-5.936h-6.614Zm1.279-4.657h4.055v3.378H153.3Z" transform="translate(0 -4.127)"/>
+        <polygon class="cls-22" points="144.33 108.637 145.609 108.637 145.609 104.038 149.665 104.038 149.665 108.637 150.944 108.637 150.944 102.759 144.33 102.759 144.33 108.637"/>
+        <polygon class="cls-22" points="159.703 108.678 160.982 108.678 160.982 106.881 166.313 106.881 166.313 105.602 160.982 105.602 160.982 104.038 166.313 104.038 166.313 102.759 159.703 102.759 159.703 108.678"/>
+        <polygon class="cls-22" points="173.995 104.038 173.995 102.759 167.385 102.759 167.385 108.678 168.664 108.678 168.664 106.881 173.995 106.881 173.995 105.602 168.664 105.602 168.664 104.038 173.995 104.038"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path id="path6771" class="cls-23" d="M49.432,100.649a6.7,6.7,0,1,1-6.695-6.7,6.7,6.7,0,0,1,6.7,6.7h0" transform="translate(0 -4.127)"/>
+    <path id="path6775" class="cls-15" d="M49.073,100.649a6.336,6.336,0,1,1-6.335-6.336,6.336,6.336,0,0,1,6.335,6.336h0" transform="translate(0 -4.127)"/>
+    <path id="path6787-2" class="cls-24" d="M48.658,100.649a5.922,5.922,0,1,1-5.921-5.922,5.921,5.921,0,0,1,5.921,5.922h0" transform="translate(0 -4.127)"/>
+    <path class="cls-25" d="M47.1,103.469a5.087,5.087,0,0,0,.592-1.294,4.255,4.255,0,0,0-.87-4.64c-.08-.086-.317-.347-.317-.347a5.633,5.633,0,0,1,.9,5.2,9.813,9.813,0,0,1-.464,1.286S47.069,103.523,47.1,103.469Z" transform="translate(0 -4.127)"/>
+    <path class="cls-26" d="M38.661,97.825a5.063,5.063,0,0,0-.593,1.3,4.253,4.253,0,0,0,.87,4.639c.08.086.317.347.317.347a5.632,5.632,0,0,1-.9-5.2,10.014,10.014,0,0,1,.464-1.286S38.7,97.772,38.661,97.825Z" transform="translate(0 -4.127)"/>
+  </g>
+</svg>
