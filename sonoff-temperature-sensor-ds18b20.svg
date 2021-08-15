@@ -1,0 +1,156 @@
+<svg id="sonoff-temperature-sensor-ds18b20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.118mm" height="96.361mm" viewBox="0 0 136.396 273.149">
+  <defs>
+    <style>
+      .cls-1, .cls-16 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke: #000;
+        stroke-width: 9.921px;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+
+      .cls-3 {
+        fill: url(#Безымянный_градиент_35);
+      }
+
+      .cls-4 {
+        fill: url(#Безымянный_градиент_46);
+      }
+
+      .cls-5 {
+        fill: url(#Безымянный_градиент_46-2);
+      }
+
+      .cls-6 {
+        fill: url(#Безымянный_градиент_2);
+      }
+
+      .cls-7 {
+        fill: url(#Безымянный_градиент_2-2);
+      }
+
+      .cls-8 {
+        fill: url(#Безымянный_градиент_5);
+      }
+
+      .cls-9 {
+        fill: url(#Безымянный_градиент_5-2);
+      }
+
+      .cls-10 {
+        fill: url(#Безымянный_градиент_5-3);
+      }
+
+      .cls-11, .cls-12 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        opacity: 0.2;
+        isolation: isolate;
+      }
+
+      .cls-12 {
+        fill-opacity: 0.42;
+      }
+
+      .cls-13 {
+        fill: #5e5e5d;
+      }
+
+      .cls-14 {
+        fill: url(#Безымянный_градиент_22);
+      }
+
+      .cls-15 {
+        fill: url(#Безымянный_градиент_22-2);
+      }
+
+      .cls-16 {
+        stroke: #4d4d4d;
+      }
+
+      .cls-17 {
+        fill: #2b2b2a;
+      }
+    </style>
+    <linearGradient id="Безымянный_градиент_35" data-name="Безымянный градиент 35" y1="202.283" x2="17.858" y2="202.283" gradientUnits="userSpaceOnUse">
+      <stop offset="0.031" stop-color="#b3b3b3"/>
+      <stop offset="0.226" stop-color="#e6e6e6"/>
+      <stop offset="0.69" stop-color="#999"/>
+      <stop offset="0.994" stop-color="#666"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_46" data-name="Безымянный градиент 46" y1="149.723" x2="17.858" y2="149.723" gradientUnits="userSpaceOnUse">
+      <stop offset="0.031" stop-color="#333"/>
+      <stop offset="0.573" stop-color="#666"/>
+      <stop offset="0.994" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_46-2" y1="98.699" x2="17.858" y2="98.699" xlink:href="#Безымянный_градиент_46"/>
+    <linearGradient id="Безымянный_градиент_2" data-name="Безымянный градиент 2" x1="-1164.021" y1="-553.044" x2="-1158.111" y2="-553.044" gradientTransform="translate(-1034.535 -384.216) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="gray"/>
+      <stop offset="0.5" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_2-2" x1="-1166.03" y1="-542.043" x2="-1156.102" y2="-542.043" gradientTransform="translate(-1034.535 -384.435) rotate(180)" xlink:href="#Безымянный_градиент_2"/>
+    <linearGradient id="Безымянный_градиент_5" data-name="Безымянный градиент 5" x1="-711.964" y1="802.773" x2="-711.964" y2="808.683" gradientTransform="translate(-679.197 -546.1) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333"/>
+      <stop offset="0.5"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_5-2" x1="-718.309" y1="802.773" x2="-718.309" y2="808.683" xlink:href="#Безымянный_градиент_5"/>
+    <linearGradient id="Безымянный_градиент_5-3" x1="-724.653" y1="802.773" x2="-724.653" y2="808.683" xlink:href="#Безымянный_градиент_5"/>
+    <linearGradient id="Безымянный_градиент_22" data-name="Безымянный градиент 22" x1="116.554" y1="434.402" x2="136.396" y2="434.402" gradientTransform="translate(0 -328.838)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.031" stop-color="#4d4d4d"/>
+      <stop offset="0.508" stop-color="#666"/>
+      <stop offset="0.653" stop-color="#565656"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="Безымянный_градиент_22-2" x1="116.554" y1="463.788" x2="136.396" y2="463.788" xlink:href="#Безымянный_градиент_22"/>
+  </defs>
+  <title>sonoff-temperature-sensor-ds18b20</title>
+  <g>
+    <path class="cls-1" d="M8.679,73.831C8.271,17.654,28.105,5.363,65.376,5.186,113,4.961,126.144,9.74,126.144,98.918" transform="translate(0 -0.219)"/>
+    <path class="cls-2" d="M2.784,131.417h12.29a2.784,2.784,0,0,1,2.784,2.784V265.435a7.714,7.714,0,0,1-7.714,7.714H7.714A7.714,7.714,0,0,1,0,265.435V134.2A2.784,2.784,0,0,1,2.784,131.417Z"/>
+    <path class="cls-3" d="M2.784,131.417h12.29a2.784,2.784,0,0,1,2.784,2.784V265.435a7.714,7.714,0,0,1-7.714,7.714H7.714A7.714,7.714,0,0,1,0,265.435V134.2A2.784,2.784,0,0,1,2.784,131.417Z"/>
+    <rect class="cls-4" y="127.046" width="17.858" height="45.354"/>
+    <polygon class="cls-5" points="17.858 127.046 0 127.046 3.26 124.163 3.26 70.353 14.598 70.353 14.598 124.019 17.858 127.046"/>
+    <g>
+      <g>
+        <path id="stecker" class="cls-6" d="M128.311,180.705a.765.765,0,0,0-.185.706l1.244,4.678a1.335,1.335,0,0,1-.086.827l-1.073,2.057a.738.738,0,0,1-.571.388h-2.217a.738.738,0,0,1-.571-.388l-1.074-2.057a1.335,1.335,0,0,1-.085-.827l1.244-4.678a.765.765,0,0,0-.185-.706l-.874-.77a1.1,1.1,0,0,1-.3-.73V148.758a.426.426,0,0,1,.369-.463h5.172a.426.426,0,0,1,.369.463v30.447a1.1,1.1,0,0,1-.3.73Z" transform="translate(0 -0.219)"/>
+        <rect class="cls-7" x="121.567" y="156.214" width="9.928" height="2.789"/>
+        <rect id="Ring_3" data-name="Ring 3" class="cls-8" x="123.576" y="165.238" width="5.91" height="1.252"/>
+        <rect id="Ring_2" data-name="Ring 2" class="cls-9" x="123.576" y="171.583" width="5.91" height="1.252"/>
+        <rect id="Ring_1" data-name="Ring 1" class="cls-10" x="123.576" y="177.926" width="5.91" height="1.252"/>
+        <g id="optische_verbesserung_an_der_spitze" data-name="optische verbesserung an der spitze">
+          <path class="cls-11" d="M128.107,181.2h-3.151a.832.832,0,0,0-.084-.326h3.319A.815.815,0,0,0,128.107,181.2Z" transform="translate(0 -0.219)"/>
+          <path class="cls-11" d="M123.687,186.611a1.5,1.5,0,0,1-.023-.327H129.4a1.445,1.445,0,0,1-.023.327Z" transform="translate(0 -0.219)"/>
+        </g>
+        <rect id="optische_verbesserung" data-name="optische verbesserung" class="cls-12" x="123.576" y="159.003" width="5.91" height="0.146"/>
+      </g>
+      <polygon class="cls-13" points="136.396 114.149 116.554 114.149 119.388 97.437 133.562 97.437 136.396 114.149"/>
+      <polygon class="cls-14" points="136.396 113.689 116.554 113.689 119.388 97.437 133.562 97.437 136.396 113.689"/>
+      <rect class="cls-13" x="116.554" y="113.689" width="19.843" height="42.52"/>
+      <rect class="cls-15" x="116.554" y="113.689" width="19.843" height="42.52"/>
+      <g>
+        <line class="cls-16" x1="116.554" y1="130.757" x2="136.396" y2="130.757"/>
+        <line class="cls-16" x1="116.554" y1="132.757" x2="136.396" y2="132.757"/>
+        <line class="cls-16" x1="116.554" y1="134.757" x2="136.396" y2="134.757"/>
+        <line class="cls-16" x1="116.554" y1="136.757" x2="136.396" y2="136.757"/>
+        <line class="cls-16" x1="116.554" y1="138.757" x2="136.396" y2="138.757"/>
+        <line class="cls-16" x1="116.554" y1="140.757" x2="136.396" y2="140.757"/>
+      </g>
+      <polygon class="cls-17" points="124.215 100.949 118.793 100.949 119.151 98.837 124.215 98.837 124.215 100.949"/>
+      <polygon class="cls-17" points="122.307 111.949 116.885 111.949 117.243 109.837 122.307 109.837 122.307 111.949"/>
+      <polygon class="cls-17" points="134.174 100.949 124.707 100.949 124.707 98.837 133.827 98.837 134.174 100.949"/>
+      <polygon class="cls-17" points="134.822 104.949 125.355 104.949 125.355 102.837 134.475 102.837 134.822 104.949"/>
+      <polygon class="cls-17" points="135.46 108.661 117.49 108.661 117.826 106.549 135.124 106.549 135.46 108.661"/>
+      <rect class="cls-17" x="116.554" y="113.467" width="19.843" height="0.912"/>
+    </g>
+  </g>
+</svg>
